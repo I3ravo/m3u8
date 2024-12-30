@@ -1,0 +1,1072 @@
+1
+0.37 --> 9.37
+ Yes, I got it. I will contact you later.
+
+2
+9.37 --> 13.37
+ Yes, thank you.
+
+3
+15.37 --> 20.90
+ I'm tired.
+
+4
+25.13 --> 26.13
+ Good job.
+
+5
+26.13 --> 32.74
+ Thank you.
+
+6
+32.74 --> 34.74
+ I'm really tired.
+
+7
+34.74 --> 36.74
+ Good job until late.
+
+8
+36.74 --> 39.94
+ Well, I might have more work than when I was working.
+
+9
+39.94 --> 41.94
+ I guess so.
+
+10
+41.94 --> 43.94
+ Oh, by the way.
+
+11
+43.94 --> 47.94
+ Next week, we're going on a vacation at my company.
+
+12
+47.94 --> 49.94
+ Eh? Where?
+
+13
+49.94 --> 51.94
+ Where was it?
+
+14
+55.15 --> 57.15
+ Ah, here.
+
+15
+57.15 --> 59.15
+ Ah, here.
+
+16
+59.15 --> 61.15
+ I've been there before.
+
+17
+61.15 --> 63.15
+ Can I?
+
+18
+63.15 --> 65.15
+ Well...
+
+19
+65.15 --> 67.15
+ Of course you can.
+
+20
+67.95 --> 69.85
+ What?
+
+21
+69.85 --> 72.55
+ You're working with the people from your company.
+
+22
+72.55 --> 74.55
+ Yeah.
+
+23
+74.55 --> 76.55
+ What do you mean, they're no good?
+
+24
+76.55 --> 78.55
+ This Hikaru guys...
+
+25
+79.55 --> 84.12
+ They're all like yanks.
+
+26
+84.12 --> 86.12
+ Well, that's not really yankal.
+
+27
+86.12 --> 90.12
+ From the way they look too, they're just average.
+
+28
+90.12 --> 91.12
+ But...
+
+29
+91.12 --> 94.12
+ Remember the barbecue we had last time?
+
+30
+94.12 --> 97.12
+ You're saying they insisted on looking that scary?
+
+31
+97.12 --> 99.12
+ It's just a misunderstanding.
+
+32
+99.12 --> 102.12
+ There's really nothing going on right now.
+
+33
+102.12 --> 104.12
+ I'm sorry.
+
+34
+104.12 --> 110.48
+ I was just a little curious.
+
+35
+112.48 --> 117.79
+ Well, it's a one-night stand, so I'm going to stretch my wings a little.
+
+36
+117.79 --> 119.79
+ Just in case,
+
+37
+119.79 --> 121.79
+ contact me at night.
+
+38
+121.79 --> 134.00
+ Yeah, I got it.
+
+39
+134.00 --> 149.34
+ Let's go over there.
+
+40
+152.34 --> 155.91
+ Well, I'll be back.
+
+41
+155.91 --> 157.91
+ Be careful.
+
+42
+157.91 --> 158.91
+ And...
+
+43
+158.91 --> 160.91
+ I know.
+
+44
+160.91 --> 163.91
+ I'll contact you at night.
+
+45
+163.91 --> 165.91
+ Thank you.
+
+46
+165.91 --> 196.04
+ See you later.
+
+47
+196.04 --> 197.04
+ This way, this way.
+
+48
+197.04 --> 199.04
+ Thank you.
+
+49
+212.42 --> 215.42
+ It smells like wood.
+
+50
+226.14 --> 228.14
+ You changed your clothes.
+
+51
+228.14 --> 230.14
+ That's true.
+
+52
+233.14 --> 234.14
+ Have a good rest.
+
+53
+234.14 --> 235.64
+ Thank you.
+
+54
+235.64 --> 237.14
+ You must be tired.
+
+55
+237.14 --> 239.14
+ What kind of room is this?
+
+56
+239.14 --> 241.14
+ This is a room for three girls.
+
+57
+241.14 --> 243.14
+ Oh, is that so?
+
+58
+243.14 --> 245.14
+ The guys were still preparing.
+
+59
+245.14 --> 246.14
+ I see.
+
+60
+246.14 --> 249.14
+ So you need to rest first.
+
+61
+249.14 --> 250.14
+ Then, I'll rest here.
+
+62
+250.14 --> 252.14
+ Take a rest.
+
+63
+252.14 --> 254.14
+ This is just great.
+
+64
+2905.72 --> 2907.72
+ I see.
+
+65
+2928.12 --> 2929.12
+ I'm tired.
+
+66
+2933.03 --> 2936.50
+ Let's go to the bath together.
+
+67
+2936.50 --> 2968.74
+ Let me rest a little bit!
+
+68
+2968.74 --> 2970.74
+ It's early to go to the bath.
+
+69
+2970.74 --> 2971.74
+ Let's go!
+
+70
+2981.30 --> 2986.30
+ Then, why don't we go with Hikaru-chan?
+
+71
+2986.30 --> 3019.67
+ I want to take a break.
+
+72
+3054.22 --> 3055.22
+ Then, we are going.
+
+73
+3055.22 --> 3064.38
+ Go slowly.
+
+74
+3064.38 --> 3065.38
+ Thank you.
+
+75
+3066.38 --> 3117.27
+ It's getting intense.
+
+76
+3117.27 --> 3119.27
+ I feel sick.
+
+77
+3119.27 --> 3123.27
+ I can't take it anymore.
+
+78
+3127.18 --> 3129.18
+ I'm gonna take off my clothes.
+
+79
+3129.18 --> 3130.18
+ I'm gonna take them off.
+
+80
+3133.88 --> 3152.70
+ I'm gonna keep this a secret.
+
+81
+3179.22 --> 3187.52
+ What is he doing?
+
+82
+3188.52 --> 3266.01
+ Boss.
+
+83
+3267.01 --> 3269.01
+ You're working hard.
+
+84
+3269.01 --> 3271.01
+ Don't do that.
+
+85
+3271.01 --> 3273.01
+ You can't do that.
+
+86
+3276.01 --> 3303.70
+ I got burned.
+
+87
+3404.04 --> 3434.42
+ I'm a female diver.
+
+88
+3435.42 --> 3437.42
+ What are you talking about?
+
+89
+3437.42 --> 3441.42
+ I'm a male diver.
+
+90
+3443.42 --> 3445.42
+ What's wrong?
+
+91
+3445.42 --> 3447.42
+ Let's go home together.
+
+92
+3447.42 --> 3449.42
+ Don't do that.
+
+93
+3449.42 --> 3451.42
+ Let's go home together.
+
+94
+3458.13 --> 3470.59
+ Don't worry.
+
+95
+3470.59 --> 3473.59
+ We're the only customers today.
+
+96
+3473.59 --> 3475.59
+ No one else is coming in.
+
+97
+3475.59 --> 3479.67
+ But...
+
+98
+3479.67 --> 3480.67
+ You felt good, didn't you?
+
+99
+3480.67 --> 3484.50
+ No, I didn't.
+
+100
+3484.50 --> 3486.50
+ Don't lie to me.
+
+101
+3486.50 --> 3489.50
+ You've been holding it in, haven't you?
+
+102
+3489.50 --> 3491.50
+ I know that.
+
+103
+3493.50 --> 3497.50
+ You're hot, aren't you?
+
+104
+3497.50 --> 3507.02
+ You want me to hold it in, don't you?
+
+105
+3507.02 --> 3520.33
+ I've never been held in by a woman.
+
+106
+3521.33 --> 3524.33
+ That's why I did it.
+
+107
+3524.33 --> 3527.90
+ You don't have to hide it.
+
+108
+3527.90 --> 3532.87
+ Let's do it again.
+
+109
+3676.18 --> 3678.18
+ Do you feel good?
+
+110
+3678.18 --> 3680.18
+ I feel good.
+
+111
+3819.90 --> 3821.90
+ Give me a kiss.
+
+112
+3863.60 --> 3875.17
+ Hikaru.
+
+113
+3876.17 --> 3879.17
+ Can you pinch my boobs?
+
+114
+3880.17 --> 3882.17
+ Boobs?
+
+115
+3882.17 --> 3888.36
+ I've never done that.
+
+116
+3888.36 --> 3890.36
+ You've never done that?
+
+117
+3890.36 --> 3892.36
+ No.
+
+118
+3892.36 --> 3896.44
+ Then I'll do it for the first time.
+
+119
+3908.33 --> 3910.33
+ Do you feel good?
+
+120
+3910.33 --> 3921.13
+ I feel great.
+
+121
+3921.13 --> 3951.19
+ I feel good.
+
+122
+3968.83 --> 3989.90
+ What's wrong?
+
+123
+3989.90 --> 3997.10
+ I want you to do it for me.
+
+124
+3997.10 --> 3999.10
+ All right.
+
+125
+3999.10 --> 4001.10
+ Sit there.
+
+126
+4014.80 --> 4184.48
+ I feel great.
+
+127
+4184.48 --> 4187.48
+ I feel great.
+
+128
+4187.48 --> 4189.48
+ Can I do it?
+
+129
+4189.48 --> 4191.48
+ Yes, you can.
+
+130
+4196.26 --> 4253.43
+ All right.
+
+131
+4269.18 --> 4272.18
+ My mouth feels great.
+
+132
+4272.18 --> 4385.06
+ I feel great, too.
+
+133
+4412.10 --> 4414.10
+ I feel great.
+
+134
+4477.42 --> 4479.42
+ A little more.
+
+135
+4482.42 --> 4512.49
+ All right.
+
+136
+4816.17 --> 4818.17
+ I'm so happy to see you.
+
+137
+4818.17 --> 4820.17
+ I feel so good.
+
+138
+4820.17 --> 4880.31
+ Turn around.
+
+139
+4880.31 --> 4882.31
+ Wow.
+
+140
+4882.31 --> 4884.31
+ Come here.
+
+141
+4896.98 --> 4902.98
+ This is my first time to be licked.
+
+142
+4902.98 --> 4911.64
+ It's your first time.
+
+143
+4913.64 --> 4927.90
+ Yes, it is.
+
+144
+4927.90 --> 4929.90
+ You have a lot of things to do.
+
+145
+4929.90 --> 4931.90
+ I feel so good.
+
+146
+4931.90 --> 4933.90
+ I've never done anything like this.
+
+147
+4937.53 --> 4939.53
+ yeah, yeah.
+
+148
+4939.53 --> 4941.53
+ The water is warm.
+
+149
+4941.53 --> 4945.53
+ And you will rest in this pie chest.
+
+150
+4945.53 --> 4947.53
+ It's warm.
+
+151
+4995.13 --> 5037.10
+ offers but
+
+152
+5039.10 --> 5053.86
+ The water is cold.
+
+153
+5053.86 --> 5146.04
+ I want to fall in love with this man.
+
+154
+5146.04 --> 5148.04
+ I want to fall in love with this man.
+
+155
+5158.65 --> 5188.71
+ It's cold.
+
+156
+5188.71 --> 5257.94
+ Let's go inside and start drinking again.
+
+157
+5257.94 --> 5280.94
+ You can't answer the phone right now.
+
+158
+5280.94 --> 5282.94
+ Why can't I answer the phone?
+
+159
+5293.64 --> 5296.64
+ Hello?
+
+160
+5296.64 --> 5302.40
+ I'm sorry. I took a long bath.
+
+161
+5302.40 --> 5308.16
+ I'm sorry to make you worry.
+
+162
+5308.16 --> 5311.16
+ It's okay. How's your trip?
+
+163
+5311.16 --> 5314.16
+ I'm enjoying it.
+
+164
+5314.16 --> 5317.86
+ I'm glad to hear that.
+
+165
+5317.86 --> 5324.69
+ Do you drink a lot?
+
+166
+5324.69 --> 5327.69
+ It's okay.
+
+167
+5327.69 --> 5330.69
+ Are you alone?
+
+168
+5330.69 --> 5334.69
+ I'm with a girl.
+
+169
+5334.69 --> 5337.69
+ I see.
+
+170
+5337.69 --> 5345.53
+ I'm still drinking.
+
+171
+5345.53 --> 5353.38
+ I hope you enjoy it.
+
+172
+5353.38 --> 5360.15
+ It's okay.
+
+173
+5360.15 --> 5369.25
+ I'm sorry.
+
+174
+5369.25 --> 5374.25
+ I was worried about you, so I'm okay.
+
+175
+5374.25 --> 5378.25
+ I want you to call me when you're not that busy.
+
+176
+5378.25 --> 5386.50
+ I'll call you!
+
+177
+5386.50 --> 5387.50
+ It's okay.
+
+178
+5387.50 --> 5389.50
+ I thank you.
+
+179
+5389.50 --> 5403.91
+ Are you going back?
+
+180
+5403.91 --> 5411.22
+ Yes.
+
+181
+5411.22 --> 5414.91
+ Do you want something delicious?
+
+182
+5414.91 --> 5416.91
+ I apologize.
+
+183
+5416.91 --> 5420.91
+ I'm late and I'll call you again.
+
+184
+5420.91 --> 5422.91
+ I see.
+
+185
+5422.91 --> 5430.18
+ Hey, what are you going to do if they find out?
+
+186
+5430.18 --> 5431.78
+ What?
+
+187
+5431.78 --> 5433.58
+ I'm just having fun.
+
+188
+5433.58 --> 5435.98
+ Come on.
+
+189
+5435.98 --> 5440.18
+ They won't find out that we're here.
+
+190
+5440.18 --> 5443.38
+ Let's sleep here together.
+
+191
+5443.38 --> 5445.48
+ Are you going to let me sleep?
+
+192
+5445.48 --> 5487.00
+ Yes.
+
+193
+5572.66 --> 5595.23
+ Does your mouth feel good?
+
+194
+5595.23 --> 5598.83
+ It feels good.
+
+195
+5598.83 --> 5600.83
+ Please be more comfortable.
+
+196
+5600.83 --> 5618.04
+ Please be more comfortable.
+
+197
+5618.04 --> 5619.54
+ Is this okay?
+
+198
+5619.54 --> 5635.26
+ It's the best.
+
+199
+5635.26 --> 5676.20
+ It feels good, doesn't it?
+
+200
+5676.20 --> 5696.20
+ It's my turn.
+
+201
+5696.20 --> 5723.50
+ It feels good.
+
+202
+5723.50 --> 5724.50
+ Does your mouth feel good?
+
+203
+5724.50 --> 5726.50
+ It feels good.
+
+204
+5726.50 --> 5801.32
+ Please be more comfortable.
+
+205
+5801.32 --> 5816.02
+ Does your mouth feel good?
+
+206
+5816.02 --> 5912.92
+ Please be more comfortable.
+
+207
+5912.92 --> 5965.16
+ It feels good.
+
+208
+5965.16 --> 6050.16
+ It's my turn.
+
+209
+6050.16 --> 6238.03
+ Please be more comfortable.
+
+210
+6238.03 --> 6246.03
+ It feels good.
+
+211
+6246.03 --> 6288.10
+ It feels good.
+
+212
+6288.10 --> 6299.04
+ Does your mouth feel good?
+
+213
+6299.04 --> 6302.04
+ It feels good.
+
+214
+6302.04 --> 6304.04
+ You're licking that part.
+
+215
+6304.04 --> 6327.53
+ It feels good.
+
+216
+6327.53 --> 6346.88
+ It's amazing.
+
+217
+6346.88 --> 6352.49
+ How about this part?
+
+218
+6352.49 --> 6357.49
+ This part?
+
+219
+6358.49 --> 6371.70
+ You've never been licked.
+
+220
+6371.70 --> 6407.18
+ It feels good.
+
+221
+6407.18 --> 6409.18
+ It's amazing.
+
+222
+6409.18 --> 6412.18
+ It's my first time.
+
+223
+6412.18 --> 6436.05
+ I want to make you feel better.
+
+224
+6436.05 --> 6443.22
+ You have a good smell.
+
+225
+6443.22 --> 6448.22
+ It feels good.
+
+226
+6451.36 --> 6478.56
+ I'll put a bandage on your wound.
+
+227
+6478.56 --> 6596.28
+ It's strange.
+
+228
+6596.28 --> 6600.28
+ You licked my wound.
+
+229
+6600.28 --> 6605.68
+ I'll put a bandage on your wound.
+
+230
+6605.68 --> 6923.72
+ It feels good.
+
+231
+6923.72 --> 7098.77
+ Please be more comfortable.
+
+232
+7098.77 --> 7213.26
+ It feels good.
+
+233
+7213.26 --> 7216.26
+ I put a bandage on your wound.
+
+234
+7216.26 --> 7220.26
+ Please be more comfortable.
+
+235
+7221.26 --> 7250.55
+ It feels good.
+
+236
+7250.55 --> 7357.80
+ I'm going.
+
+237
+7357.80 --> 7359.80
+ Did you feel good?
+
+238
+7359.80 --> 7364.80
+ It feels good.
+
+239
+7364.80 --> 7366.80
+ You're licking a lot.
+
+240
+7366.80 --> 7371.08
+ I'm sorry.
+
+241
+7390.67 --> 7392.67
+ Hey, do it more.
+
+242
+7394.67 --> 7396.67
+ What are you touching?
+
+243
+7396.67 --> 7398.67
+ I want to do it more.
+
+244
+7399.67 --> 7401.67
+ Do you want to do it more?
+
+245
+7401.67 --> 7403.67
+ Then,
+
+246
+7406.67 --> 7408.67
+ Can I hit you?
+
+247
+7408.67 --> 7410.67
+ I'm embarrassed.
+
+248
+7410.67 --> 7412.67
+ Why?
+
+249
+7412.67 --> 7414.67
+ I'm excited.
+
+250
+7414.67 --> 7416.67
+ I'm embarrassed.
+
+251
+7418.67 --> 7421.67
+ You have a beautiful face.
+
+252
+7423.67 --> 7426.67
+ What does your husband think when he sees this?
+
+253
+7430.36 --> 7434.00
+ Come here.
+
+254
+7434.00 --> 7436.00
+ Go to him.
+
+255
+7436.00 --> 7438.00
+ Tell him to put the penis in your mouth.
+
+256
+7438.00 --> 7440.00
+ I'm embarrassed.
+
+257
+7440.00 --> 7442.00
+ I won't put it in your mouth.
+
+258
+7442.00 --> 7444.00
+ You want to do it again, right?
+
+259
+7444.00 --> 7446.00
+ I want to do it.
+
+260
+7446.00 --> 7452.35
+ Go to the camera.
+
+261
+7452.35 --> 7455.35
+ Please put the penis in my mouth.
+
+262
+7455.35 --> 7458.72
+ Say it again.
+
+263
+7458.72 --> 7461.72
+ Please put the penis in my mouth.
+
+264
+7461.72 --> 7463.72
+ Do you want me to do it?
+
+265
+7463.72 --> 7465.72
+ Yes.
+
+266
+7486.74 --> 7491.01
+ Do you know what I mean?
+
+267
+7491.01 --> 7493.01
+ I know.
+
+268
+7496.01 --> 7498.01
+ My penis is very hard.
+

@@ -1,0 +1,44 @@
+1
+2.54 --> 4.54
+ The weather is so good.
+
+2
+4.54 --> 8.50
+ I came here because my manager told me to come here.
+
+3
+8.50 --> 10.50
+ Now...
+
+4
+10.50 --> 12.50
+ I have a dazzling face.
+
+5
+12.50 --> 16.50
+ My manager told me to come here.
+
+6
+16.50 --> 18.50
+ So I came here.
+
+7
+18.50 --> 22.50
+ He didn't tell me what to do.
+
+8
+24.50 --> 27.50
+ I don't have an important manager.
+
+9
+27.50 --> 29.50
+ He told me to come here alone.
+
+10
+30.50 --> 32.50
+ And...
+
+11
+32.50 --> 34.50
+ He told me to take a selfie.
+

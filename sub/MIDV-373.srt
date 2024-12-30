@@ -1,0 +1,736 @@
+1
+72.91 --> 74.91
+ You are sleepy.
+
+2
+74.91 --> 76.91
+ It is true.
+
+3
+76.91 --> 78.91
+ You are tired.
+
+4
+78.91 --> 80.91
+ Yes I am.
+
+5
+80.91 --> 82.91
+ Can I have your name please?
+
+6
+82.91 --> 84.91
+ My name is Miho Ishikawa.
+
+7
+84.91 --> 86.91
+ Are you an actor?
+
+8
+86.91 --> 88.91
+ No, I am not.
+
+9
+88.91 --> 90.91
+ Thank you for your time.
+
+10
+90.91 --> 92.91
+ As for me, I had a day off.
+
+11
+92.91 --> 94.91
+ You come here from noon?
+
+12
+94.91 --> 96.91
+ Yes.
+
+13
+96.91 --> 98.91
+ A day off?
+
+14
+98.91 --> 100.91
+ Yes.
+
+15
+1314.90 --> 1318.90
+ I couldn't do it, so I thought I should do it in a fun way.
+
+16
+1318.90 --> 1324.90
+ To be honest, I couldn't become a real woman.
+
+17
+1324.90 --> 1328.90
+ But I could do it anyway.
+
+18
+1328.90 --> 1330.90
+ Do you think so?
+
+19
+1330.90 --> 1332.90
+ It doesn't matter. As long as it's fun.
+
+20
+1332.90 --> 1336.90
+ I really think so.
+
+21
+1410.88 --> 1412.88
+ I can't go to the small one.
+
+22
+1412.88 --> 1414.88
+ It's okay.
+
+23
+1414.88 --> 1416.88
+ What should I do?
+
+24
+1416.88 --> 1424.61
+ I like eggplants.
+
+25
+1424.61 --> 1426.61
+ I'll take it.
+
+26
+1426.61 --> 1433.39
+ Vegetable pork and eggplants.
+
+27
+1433.39 --> 1435.39
+ I like tomatoes the most.
+
+28
+1435.39 --> 1437.39
+ I like eggplants.
+
+29
+1437.39 --> 1439.39
+ I'm tired.
+
+30
+1468.37 --> 1477.12
+ I just cut it.
+
+31
+1488.18 --> 1509.63
+ Eggplants, peppers, and carrots.
+
+32
+1509.63 --> 1511.63
+ It's fashionable.
+
+33
+1511.63 --> 1513.63
+ It's very fashionable.
+
+34
+1513.63 --> 1517.07
+ It's beautiful.
+
+35
+1517.07 --> 1519.07
+ It's beautiful.
+
+36
+1521.07 --> 1523.07
+ I'll put it here.
+
+37
+1540.02 --> 1542.02
+ Do you have champagne?
+
+38
+1542.02 --> 1544.02
+ Champagne?
+
+39
+1547.84 --> 1549.84
+ Let's have a toast.
+
+40
+1549.84 --> 1551.84
+ Let's drink.
+
+41
+1551.84 --> 1553.84
+ May I?
+
+42
+1565.65 --> 1567.65
+ I'll do it properly.
+
+43
+1569.65 --> 1571.65
+ It's a glass.
+
+44
+1579.36 --> 1583.36
+ There were a lot of people outside until a while ago.
+
+45
+1587.36 --> 1589.36
+ There were a lot of people on the train.
+
+46
+1589.36 --> 1591.36
+ It was amazing, wasn't it?
+
+47
+1591.36 --> 1593.36
+ Suddenly, there were a lot of people.
+
+48
+1595.36 --> 1597.36
+ It's been a long time since I drank champagne.
+
+49
+1597.36 --> 1599.36
+ It's been a while.
+
+50
+1606.67 --> 1611.39
+ How can I open this?
+
+51
+1613.39 --> 1622.27
+ Can you open it?
+
+52
+1624.27 --> 1626.27
+ I can't.
+
+53
+1626.27 --> 1628.27
+ Do you want to put it in?
+
+54
+1628.27 --> 1647.71
+ I'll open it.
+
+55
+1651.71 --> 1653.71
+ It sounds good.
+
+56
+1672.90 --> 1674.90
+ I'll give you a glass of rice.
+
+57
+1674.90 --> 1676.90
+ Thank you.
+
+58
+1680.90 --> 1682.90
+ I'm nervous.
+
+59
+1689.17 --> 1691.17
+ Let's have a toast.
+
+60
+1691.17 --> 1693.17
+ To our meeting.
+
+61
+1693.17 --> 1695.17
+ To our meeting?
+
+62
+1695.17 --> 1697.17
+ Cheers.
+
+63
+1709.84 --> 1719.49
+ I'm a little tired today.
+
+64
+1721.49 --> 1723.49
+ I walked a lot.
+
+65
+1727.49 --> 1729.49
+ I walked a lot.
+
+66
+1729.49 --> 1732.93
+ What kind of person are you?
+
+67
+1734.93 --> 1736.93
+ Have we met before?
+
+68
+1736.93 --> 1738.93
+ No.
+
+69
+1742.93 --> 1747.14
+ You talk a lot.
+
+70
+1747.14 --> 1749.14
+ Do I?
+
+71
+1749.14 --> 1751.14
+ You talk a lot.
+
+72
+1755.15 --> 1757.15
+ You talk a lot.
+
+73
+1757.15 --> 1759.15
+ Do I?
+
+74
+1759.15 --> 1761.15
+ I'm proud of you.
+
+75
+1763.15 --> 1765.15
+ Do I?
+
+76
+1765.15 --> 1767.15
+ Wait a minute.
+
+77
+1767.15 --> 1769.15
+ I'm a man of few words.
+
+78
+1769.15 --> 1771.15
+ What was that?
+
+79
+1773.15 --> 1775.15
+ I'm from Kansai.
+
+80
+1775.15 --> 1777.15
+ I'm from Kansai.
+
+81
+1777.15 --> 1779.15
+ I see.
+
+82
+1781.15 --> 1783.15
+ I'm a man of few words.
+
+83
+1783.15 --> 1785.15
+ You imitated my face.
+
+84
+1789.15 --> 1791.15
+ Have we met before?
+
+85
+1791.15 --> 1793.15
+ I saw you on Twitter.
+
+86
+1804.34 --> 1806.34
+ I see.
+
+87
+1812.34 --> 1814.34
+ Do you want to cook a meal?
+
+88
+1820.29 --> 1822.29
+ I'm still hungry.
+
+89
+1822.29 --> 1824.29
+ Do you still have Takoyaki?
+
+90
+1824.29 --> 1826.29
+ No.
+
+91
+1826.29 --> 1828.29
+ I'm still hungry.
+
+92
+1836.42 --> 1838.42
+ I had many plans during the date.
+
+93
+1840.42 --> 1842.42
+ I can't cook.
+
+94
+1844.42 --> 1846.42
+ I want you to bully me.
+
+95
+1852.42 --> 1854.42
+ I want you to bully me.
+
+96
+1854.42 --> 1856.42
+ Really?
+
+97
+1856.42 --> 1858.42
+ Yes.
+
+98
+1866.13 --> 1868.13
+ I'm sorry.
+
+99
+1868.13 --> 1870.13
+ By the way, do you poop often?
+
+100
+1870.13 --> 1872.13
+ People won't notice it.
+
+101
+1872.13 --> 1876.13
+ We can't notice most if you poop outside.
+
+102
+1884.13 --> 1892.56
+ You're nice to me today.
+
+103
+1894.56 --> 1896.56
+ Is this really so?
+
+104
+1896.56 --> 1898.56
+ You pooped suddenly.
+
+105
+1898.56 --> 1900.56
+ I didn't pee outside.
+
+106
+2026.45 --> 2029.45
+ Do you like kissing?
+
+107
+2029.45 --> 2038.88
+ I do.
+
+108
+2038.88 --> 2041.88
+ Why do you kiss me so often?
+
+109
+2041.88 --> 2044.88
+ Because you are beautiful.
+
+110
+2061.33 --> 2063.33
+ That's weird.
+
+111
+2063.33 --> 2065.33
+ I make a noise.
+
+112
+2066.33 --> 2072.11
+ Do you make a noise when you kiss me?
+
+113
+2074.81 --> 2078.12
+ I make a noise even if I don't kiss you.
+
+114
+6373.54 --> 6378.54
+ I feel like you're touching me.
+
+115
+6378.54 --> 6380.54
+ It's fresh.
+
+116
+6380.54 --> 6382.54
+ Am I not good at it?
+
+117
+6382.54 --> 6384.54
+ No, no.
+
+118
+6384.54 --> 6386.54
+ It's like,
+
+119
+6386.54 --> 6388.54
+ you know,
+
+120
+6388.54 --> 6390.54
+ Chisho Choyu-san,
+
+121
+6390.54 --> 6392.54
+ pfft, pfft.
+
+122
+6392.54 --> 6394.54
+ Is it okay here?
+
+123
+6394.54 --> 6407.27
+ I haven't touched you yet.
+
+124
+6407.27 --> 6409.27
+ I'm touching around you.
+
+125
+6409.27 --> 6411.27
+ Like a bamboo.
+
+126
+6411.27 --> 6413.27
+ I'm kidding.
+
+127
+6413.27 --> 6416.27
+ It's my prediction.
+
+128
+6416.27 --> 6422.27
+ I want to eat something good.
+
+129
+6422.27 --> 6424.27
+ Wait.
+
+130
+6424.27 --> 6426.27
+ What?
+
+131
+6426.27 --> 6429.27
+ Right, let's go for ramen.
+
+132
+6429.27 --> 6431.27
+ I want to eat ramen.
+
+133
+6431.27 --> 6433.27
+ I suddenly want to eat it.
+
+134
+6433.27 --> 6435.27
+ There's no ramen.
+
+135
+6435.27 --> 6437.27
+ Let's go somewhere nearby.
+
+136
+6437.27 --> 6439.27
+ To eat?
+
+137
+6598.92 --> 6609.53
+ Is that Mako?
+
+138
+6609.53 --> 6611.53
+ That's Kondo.
+
+139
+6611.53 --> 6615.82
+ Kondo?
+
+140
+6615.82 --> 6633.34
+ It's not good.
+
+141
+6633.34 --> 6641.62
+ I see.
+
+142
+6641.62 --> 6642.62
+ Ramen?
+
+143
+6642.62 --> 6643.62
+ Ramen.
+
+144
+6643.62 --> 6644.62
+ Ramen?
+
+145
+6644.62 --> 6645.62
+ There is a ramen shop nearby.
+
+146
+6645.62 --> 6649.62
+ I think there is a place open.
+
+147
+6651.62 --> 6660.79
+ Eat ramen.
+
+148
+6660.79 --> 6706.54
+ I'm preparing.
+
+149
+8927.47 --> 8938.53
+ Oh, no.
+
+150
+8938.53 --> 8961.46
+ I'm sorry.
+
+151
+8961.46 --> 8963.46
+ It was so delicious.
+
+152
+8963.46 --> 8965.46
+ I was impressed by you.
+
+153
+8965.46 --> 8967.46
+ Really?
+
+154
+8967.46 --> 8973.17
+ I wrote,
+
+155
+8973.17 --> 8979.46
+ Don't say too much.
+
+156
+8979.46 --> 8985.78
+ I was impressed.
+
+157
+8987.78 --> 8989.78
+ It was so good.
+
+158
+8989.78 --> 9001.14
+ I should have ordered rice.
+
+159
+9003.14 --> 9005.14
+ You should have.
+
+160
+9007.14 --> 9009.14
+ I can't stop.
+
+161
+9014.14 --> 9016.14
+ You don't wipe your sweat.
+
+162
+9016.14 --> 9018.14
+ I can't stop.
+
+163
+9025.28 --> 9027.28
+ I'll do it again.
+
+164
+9029.28 --> 9031.28
+ I'm standing.
+
+165
+9031.28 --> 9033.28
+ You're standing.
+
+166
+9036.28 --> 9038.28
+ Really?
+
+167
+9039.28 --> 9041.28
+ I'll do it again.
+
+168
+9050.15 --> 9052.15
+ Wait a minute.
+
+169
+9055.15 --> 9057.15
+ I'll do it again.
+
+170
+9060.15 --> 9062.15
+ No, no, no.
+
+171
+9064.15 --> 9066.15
+ Don't move.
+
+172
+9066.15 --> 9068.15
+ It's dangerous.
+
+173
+9068.15 --> 9070.15
+ I'll do it again.
+
+174
+9074.15 --> 9076.15
+ I can't wipe my sweat.
+
+175
+9078.15 --> 9080.15
+ Let me sleep.
+
+176
+9087.15 --> 9089.15
+ Do you want to sleep?
+
+177
+9089.15 --> 9091.15
+ Let me sleep.
+
+178
+9093.15 --> 9095.15
+ I can't sleep so easily.
+
+179
+9100.66 --> 9185.76
+ Good morning.
+
+180
+9186.76 --> 9191.03
+ Good morning.
+
+181
+9194.03 --> 9196.03
+ It's morning.
+
+182
+9197.03 --> 9199.03
+ Good morning.
+
+183
+9245.42 --> 9246.42
+ It's morning.
+
+184
+9246.42 --> 9249.42
+ You didn't notice me?
+
