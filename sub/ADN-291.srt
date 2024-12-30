@@ -1,0 +1,220 @@
+1
+9.20 --> 14.20
+ It's smelly. Can you stop smoking?
+
+2
+58.50 --> 62.50
+ I was attracted to him.
+
+3
+62.50 --> 68.34
+ Hey!
+
+4
+69.34 --> 72.67
+ Hey!
+
+5
+72.67 --> 75.67
+ Hey, you're here. Answer me.
+
+6
+75.67 --> 78.67
+ I told you not to call me hey.
+
+7
+78.67 --> 83.90
+ Don't say you're not here.
+
+8
+83.90 --> 85.90
+ Where's the nail clipper?
+
+9
+85.90 --> 88.90
+ It's in the second drawer.
+
+10
+89.90 --> 127.43
+ You seem to have a hard time.
+
+11
+127.43 --> 135.64
+ I can hear your quarrel from time to time.
+
+12
+135.64 --> 142.45
+ Do you want me to apologize?
+
+13
+142.45 --> 232.54
+ Not really.
+
+14
+293.61 --> 298.11
+ I've been worried about you.
+
+15
+298.11 --> 300.11
+ Your wife is inviting me, isn't she?
+
+16
+300.11 --> 304.00
+ What are you talking about?
+
+17
+304.00 --> 307.00
+ You're not satisfied, aren't you?
+
+18
+307.00 --> 311.46
+ I knew it.
+
+19
+314.46 --> 323.47
+ Stop it.
+
+20
+323.47 --> 325.47
+ Stop it.
+
+21
+325.47 --> 349.04
+ I'm sorry.
+
+22
+349.04 --> 395.62
+ I'm sorry.
+
+23
+440.50 --> 447.78
+ I'm sorry.
+
+24
+452.46 --> 454.46
+ Stop it.
+
+25
+474.67 --> 476.67
+ You're in a good condition.
+
+26
+477.67 --> 479.67
+ Stop it.
+
+27
+479.67 --> 487.08
+ Stop it.
+
+28
+488.08 --> 494.34
+ You're in a good condition, aren't you?
+
+29
+494.34 --> 496.34
+ No.
+
+30
+497.34 --> 503.08
+ No.
+
+31
+512.06 --> 514.06
+ No.
+
+32
+514.06 --> 526.39
+ Stop it.
+
+33
+539.39 --> 541.39
+ Stop it.
+
+34
+555.81 --> 557.81
+ Stop it.
+
+35
+568.76 --> 572.76
+ I can't persuade you.
+
+36
+572.76 --> 622.15
+ No.
+
+37
+622.15 --> 624.15
+ I can't persuade you.
+
+38
+628.68 --> 680.22
+ You can hear me, can't you?
+
+39
+680.22 --> 732.58
+ No.
+
+40
+732.58 --> 734.58
+ Stop it.
+
+41
+785.00 --> 851.39
+ What's wrong with you?
+
+42
+852.39 --> 854.39
+ Stop it.
+
+43
+863.15 --> 866.15
+ You're in a good condition, aren't you?
+
+44
+866.15 --> 873.30
+ Stop it.
+
+45
+956.83 --> 958.83
+ Stop it.
+
+46
+1321.63 --> 1323.63
+ Stop it.
+
+47
+1327.29 --> 1330.29
+ Remembered the taste of sex?
+
+48
+1330.29 --> 1376.51
+ It depends on your wife, but we're not exposed.
+
+49
+1376.51 --> 1380.08
+ Yes, yes.
+
+50
+1380.08 --> 1383.78
+ My name is Kiyoto.
+
+51
+1383.78 --> 1387.66
+ My wife's name?
+
+52
+1387.66 --> 1471.78
+ Give me your name.
+
+53
+1471.78 --> 1473.78
+ Shizuka.
+
+54
+1473.78 --> 1475.78
+ Bye, Shizuka.
+
+55
+1475.78 --> 1478.78
+ Remembered the taste of sex?
+

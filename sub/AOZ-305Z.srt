@@ -1,0 +1,188 @@
+1
+1476.85 --> 1487.05
+ The next day
+
+2
+1509.03 --> 1511.03
+ This is the place.
+
+3
+1511.03 --> 1518.27
+ I see.
+
+4
+1518.27 --> 1520.27
+ There's a good place.
+
+5
+1520.27 --> 1521.27
+ I see.
+
+6
+1522.27 --> 1523.27
+ It's a ping-pong place.
+
+7
+1523.27 --> 1524.27
+ Ping-pong.
+
+8
+1524.27 --> 1525.27
+ Please help me.
+
+9
+1525.27 --> 1526.27
+ It hurts.
+
+10
+1526.27 --> 1529.16
+ It hurts.
+
+11
+1532.16 --> 1533.16
+ I don't want to do it.
+
+12
+1533.16 --> 1537.71
+ It hurts.
+
+13
+1537.71 --> 1539.71
+ If you want to play ping-pong, I'll do it.
+
+14
+1541.71 --> 1542.71
+ I'll do it.
+
+15
+1544.71 --> 1545.71
+ I don't want to do it.
+
+16
+1545.71 --> 1546.71
+ What is it?
+
+17
+1550.71 --> 1551.71
+ It's a vegetable.
+
+18
+1552.71 --> 1553.71
+ You like vegetables, don't you?
+
+19
+1554.71 --> 1555.71
+ Come on.
+
+20
+1565.32 --> 1567.89
+ I'll do it.
+
+21
+1575.26 --> 1576.26
+ It's dangerous.
+
+22
+1581.00 --> 1582.00
+ It's going in.
+
+23
+1585.00 --> 1587.00
+ It's like a carrot.
+
+24
+1591.82 --> 1592.82
+ There's a carrot in it.
+
+25
+1593.82 --> 1594.82
+ There's a carrot in it.
+
+26
+1594.82 --> 1596.82
+ If there's a carrot in it, I'll keep receiving it.
+
+27
+1596.82 --> 1597.82
+ It's different.
+
+28
+1598.82 --> 1599.82
+ Come on.
+
+29
+1602.82 --> 1603.82
+ Wait a minute.
+
+30
+1603.82 --> 1604.82
+ Wait a minute.
+
+31
+1604.82 --> 1605.82
+ I'm used to it.
+
+32
+1605.82 --> 1610.12
+ There's a cucumber in it.
+
+33
+1619.69 --> 1620.69
+ It's a luxury item.
+
+34
+1620.69 --> 1621.69
+ It's a luxury item.
+
+35
+1622.69 --> 1623.69
+ It's a digital item.
+
+36
+1627.69 --> 1628.69
+ It's coming out.
+
+37
+1631.69 --> 1632.69
+ Hey.
+
+38
+1632.69 --> 1633.69
+ What is it?
+
+39
+1633.69 --> 1635.69
+ How much did you wet it?
+
+40
+1636.69 --> 1637.69
+ Did you wet it with blood?
+
+41
+1638.69 --> 1639.69
+ It's amazing.
+
+42
+1641.69 --> 1643.69
+ This guy is dangerous.
+
+43
+1644.69 --> 1645.69
+ This guy is dangerous.
+
+44
+1646.69 --> 1647.69
+ This guy is dangerous.
+
+45
+1653.69 --> 1655.69
+ This guy is dangerous.
+
+46
+1657.69 --> 1658.69
+ Spit it out.
+
+47
+1663.69 --> 1665.69
+ It was stupid to stand up.
+

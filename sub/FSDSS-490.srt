@@ -1,0 +1,2260 @@
+1
+0.00 --> 4.00
+ We're done with our date.
+
+2
+4.00 --> 6.00
+ We're done.
+
+3
+6.00 --> 8.00
+ It's kind of sad to go home.
+
+4
+8.00 --> 10.00
+ Yeah.
+
+5
+10.00 --> 12.00
+ It was fun.
+
+6
+12.00 --> 16.00
+ The more fun it is, the sadder it gets when we go home.
+
+7
+16.00 --> 24.11
+ It was good. I'm full.
+
+8
+24.11 --> 30.30
+ What should we do next?
+
+9
+30.30 --> 32.30
+ How about Italian?
+
+10
+32.30 --> 34.30
+ Italian sounds good.
+
+11
+34.30 --> 39.47
+ Italian sounds good.
+
+12
+40.47 --> 42.47
+ It's kind of sad to go home.
+
+13
+42.47 --> 44.47
+ Yeah.
+
+14
+51.62 --> 53.62
+ Two days in a row?
+
+15
+53.62 --> 57.58
+ Yeah.
+
+16
+57.58 --> 59.58
+ What?
+
+17
+59.58 --> 65.77
+ What did you say?
+
+18
+65.77 --> 67.77
+ What did you say?
+
+19
+67.77 --> 69.77
+ Amore.
+
+20
+69.77 --> 71.77
+ What amore?
+
+21
+71.77 --> 73.77
+ Amore.
+
+22
+73.77 --> 75.77
+ Amore.
+
+23
+75.77 --> 77.77
+ Amore?
+
+24
+77.77 --> 81.59
+ No.
+
+25
+81.59 --> 83.59
+ Sit down?
+
+26
+83.59 --> 85.59
+ No.
+
+27
+85.59 --> 87.59
+ Stay over.
+
+28
+87.59 --> 89.59
+ Stay over? Is that okay?
+
+29
+89.59 --> 91.59
+ Yeah.
+
+30
+91.59 --> 93.59
+ Let's do it.
+
+31
+93.59 --> 95.59
+ Okay. I want to stay over.
+
+32
+95.59 --> 97.59
+ Let's do it.
+
+33
+97.59 --> 99.59
+ Shall we?
+
+34
+99.59 --> 101.59
+ What about the next day?
+
+35
+101.59 --> 106.82
+ It's okay.
+
+36
+106.82 --> 112.70
+ Can I go home?
+
+37
+112.70 --> 116.20
+ Yay.
+
+38
+116.20 --> 118.20
+ Then I'll clean your room.
+
+39
+118.20 --> 120.20
+ I'll clean your room.
+
+40
+120.20 --> 122.20
+ It's okay. I want to drink it as it is.
+
+41
+122.20 --> 124.20
+ It's not that dirty.
+
+42
+124.20 --> 126.20
+ It's pretty dirty.
+
+43
+126.20 --> 128.20
+ I'll clean your room.
+
+44
+128.20 --> 130.20
+ Okay.
+
+45
+134.20 --> 136.20
+ Let's cook something.
+
+46
+136.20 --> 138.20
+ Can you cook?
+
+47
+138.20 --> 140.20
+ I can.
+
+48
+140.20 --> 143.77
+ Let's ask her to cook.
+
+49
+143.77 --> 157.00
+ Okay.
+
+50
+157.00 --> 159.00
+ Are you nervous?
+
+51
+159.00 --> 161.00
+ Are you looking forward to it?
+
+52
+161.00 --> 163.00
+ I'm looking forward to it.
+
+53
+163.00 --> 165.00
+ Then,
+
+54
+165.00 --> 167.00
+ let's meet
+
+55
+167.00 --> 169.00
+ at the next stay.
+
+56
+169.00 --> 171.00
+ Let's meet.
+
+57
+171.00 --> 173.00
+ Thank you for today.
+
+58
+173.00 --> 175.00
+ Thank you. Take care.
+
+59
+177.00 --> 179.00
+ You have to go home by train, right?
+
+60
+179.00 --> 181.00
+ Yeah.
+
+61
+181.00 --> 183.00
+ Then,
+
+62
+183.00 --> 205.64
+ take care.
+
+63
+206.64 --> 215.58
+ Hello.
+
+64
+215.58 --> 217.58
+ Hello.
+
+65
+217.58 --> 219.58
+ It's been a while.
+
+66
+219.58 --> 221.58
+ It's like summer.
+
+67
+221.58 --> 223.58
+ It looks cool.
+
+68
+223.58 --> 225.58
+ It's like a service station.
+
+69
+225.58 --> 227.58
+ Because there is a camera.
+
+70
+227.58 --> 232.56
+ Because there is a camera.
+
+71
+232.56 --> 234.56
+ Hello.
+
+72
+234.56 --> 241.46
+ It's hot.
+
+73
+241.46 --> 243.46
+ Do you want to drink tea?
+
+74
+243.46 --> 247.79
+ Yeah.
+
+75
+247.79 --> 249.79
+ Let's go to that cafe.
+
+76
+249.79 --> 253.23
+ Terrace.
+
+77
+253.23 --> 255.23
+ Is it okay?
+
+78
+255.23 --> 257.23
+ Let's buy something.
+
+79
+257.23 --> 259.23
+ Okay.
+
+80
+259.23 --> 261.23
+ It's hot.
+
+81
+261.23 --> 263.23
+ I want to drink melon cream soda.
+
+82
+263.23 --> 265.23
+ Melon cream soda.
+
+83
+265.23 --> 267.23
+ It has ice cream on it.
+
+84
+267.23 --> 269.23
+ Let's go.
+
+85
+269.23 --> 271.23
+ Let's go.
+
+86
+271.23 --> 278.58
+ Now,
+
+87
+278.58 --> 280.58
+ she bought it for me.
+
+88
+284.58 --> 291.22
+ How do I dress up?
+
+89
+291.22 --> 293.22
+ I'm talking to myself.
+
+90
+293.22 --> 295.22
+ Like this.
+
+91
+295.22 --> 297.22
+ Can you see me?
+
+92
+297.22 --> 299.22
+ I'm wearing an off-shoulder dress.
+
+93
+299.22 --> 306.30
+ Oh,
+
+94
+306.30 --> 308.30
+ I'm here.
+
+95
+308.30 --> 310.30
+ What are we going to do today?
+
+96
+310.30 --> 312.30
+ What are we going to do?
+
+97
+312.30 --> 314.30
+ How about dinner?
+
+98
+314.30 --> 316.30
+ Dinner?
+
+99
+316.30 --> 318.30
+ What do you want?
+
+100
+318.30 --> 320.30
+ What do you like?
+
+101
+320.30 --> 322.30
+ What do you want me to make?
+
+102
+322.30 --> 324.30
+ Is it okay if it's simple?
+
+103
+324.30 --> 326.30
+ What is it?
+
+104
+326.30 --> 328.30
+ Curry.
+
+105
+328.30 --> 330.30
+ I got it.
+
+106
+330.30 --> 332.30
+ I'll make curry.
+
+107
+332.30 --> 334.30
+ How spicy is it?
+
+108
+336.30 --> 338.30
+ Sweet or spicy?
+
+109
+338.30 --> 340.30
+ Can I choose?
+
+110
+340.30 --> 342.30
+ You can choose anything.
+
+111
+342.30 --> 344.30
+ I'll make it spicy.
+
+112
+344.30 --> 346.30
+ How spicy is it?
+
+113
+346.30 --> 348.30
+ How spicy is it?
+
+114
+348.30 --> 350.30
+ Is it spicy?
+
+115
+350.30 --> 352.30
+ It's sweet.
+
+116
+352.30 --> 354.30
+ Is it sweet?
+
+117
+354.30 --> 356.30
+ It's spicy.
+
+118
+358.30 --> 360.30
+ It's spicy.
+
+119
+360.30 --> 362.30
+ Then,
+
+120
+362.30 --> 364.30
+ I'll make it spicy.
+
+121
+366.30 --> 368.30
+ I'll make it spicy.
+
+122
+368.30 --> 370.30
+ Okay.
+
+123
+370.30 --> 372.30
+ Don't you recommend it?
+
+124
+374.30 --> 376.30
+ It's spicy,
+
+125
+376.30 --> 378.30
+ but it's good for summer.
+
+126
+378.30 --> 380.30
+ Sweat a lot in summer.
+
+127
+380.30 --> 382.30
+ I'll make curry.
+
+128
+382.30 --> 384.30
+ I'll make curry.
+
+129
+384.30 --> 386.30
+ Okay.
+
+130
+386.30 --> 389.81
+ Ta-da!
+
+131
+389.81 --> 391.81
+ It's melon.
+
+132
+391.81 --> 393.81
+ It's Hokkaido melon juice.
+
+133
+393.81 --> 395.81
+ It's Hokkaido melon juice.
+
+134
+395.81 --> 397.81
+ Is it?
+
+135
+397.81 --> 399.81
+ It's luxurious.
+
+136
+399.81 --> 401.81
+ It's perfect for summer.
+
+137
+401.81 --> 409.70
+ Cheers!
+
+138
+411.70 --> 413.70
+ It looks good.
+
+139
+413.70 --> 415.70
+ Please give me food review.
+
+140
+415.70 --> 420.70
+ Wow, look at this melon soda!
+
+141
+420.70 --> 426.70
+ It's a melon soda with an old-fashioned atmosphere.
+
+142
+426.70 --> 429.70
+ There are also cherry blossoms on it.
+
+143
+429.70 --> 431.70
+ I'd like to drink it right away.
+
+144
+436.65 --> 439.65
+ The sweetness of the melon and...
+
+145
+440.65 --> 441.65
+ It's a little different.
+
+146
+441.65 --> 442.65
+ Melon!
+
+147
+442.65 --> 444.65
+ Does melon have acidity?
+
+148
+444.65 --> 445.65
+ Yes, it does.
+
+149
+445.65 --> 451.65
+ The balance of the acidity and sweetness of the melon is just right.
+
+150
+451.65 --> 456.65
+ The ice cream on top melts and mixes with the melon soda.
+
+151
+457.65 --> 460.65
+ It has a mild flavor.
+
+152
+460.65 --> 463.65
+ It's a perfect drink for summer.
+
+153
+465.65 --> 466.65
+ Disqualified!
+
+154
+466.65 --> 468.65
+ Really?
+
+155
+468.65 --> 469.65
+ Ice cream?
+
+156
+469.65 --> 470.65
+ Yes.
+
+157
+476.65 --> 477.65
+ It's delicious.
+
+158
+477.65 --> 478.65
+ Is it?
+
+159
+478.65 --> 483.65
+ Don't you think it's more delicious to have ice cream on top of this than regular ice cream?
+
+160
+483.65 --> 484.65
+ It's delicious.
+
+161
+487.92 --> 489.92
+ Where should we go next?
+
+162
+492.81 --> 494.81
+ Let's go to a flower shop.
+
+163
+494.81 --> 495.81
+ Flower shop?
+
+164
+495.81 --> 496.81
+ Let's go.
+
+165
+497.81 --> 498.81
+ Do you like flowers?
+
+166
+498.81 --> 499.81
+ Yes, I do.
+
+167
+500.81 --> 502.81
+ Let's go to a flower shop first.
+
+168
+502.81 --> 504.81
+ It's dangerous, so let's go this way.
+
+169
+504.81 --> 506.81
+ You're a gentleman.
+
+170
+506.81 --> 507.81
+ Do you want me to carry your bag?
+
+171
+507.81 --> 508.81
+ Are you okay?
+
+172
+508.81 --> 509.81
+ Thank you.
+
+173
+510.81 --> 512.81
+ He's a gentleman.
+
+174
+524.31 --> 525.31
+ I'm not used to it yet.
+
+175
+525.31 --> 526.31
+ What?
+
+176
+526.31 --> 528.31
+ Holding hands.
+
+177
+528.31 --> 530.31
+ I thought you were not used to holding hands.
+
+178
+531.31 --> 533.31
+ I'm nervous, too.
+
+179
+534.31 --> 535.31
+ I'm embarrassed.
+
+180
+535.31 --> 537.31
+ You're not used to it?
+
+181
+537.31 --> 538.31
+ No.
+
+182
+543.31 --> 545.31
+ This is the entrance.
+
+183
+545.31 --> 547.31
+ A flower shop.
+
+184
+548.31 --> 549.31
+ It's cute.
+
+185
+549.31 --> 550.31
+ It's blue.
+
+186
+551.31 --> 552.31
+ It's good.
+
+187
+552.31 --> 553.31
+ Today's flower.
+
+188
+554.31 --> 555.31
+ Today's flower.
+
+189
+555.31 --> 556.31
+ Today's flower.
+
+190
+556.31 --> 558.31
+ I like sunflower.
+
+191
+558.31 --> 560.31
+ It looks good on you.
+
+192
+560.31 --> 561.31
+ Really?
+
+193
+567.21 --> 568.21
+ It's cool.
+
+194
+572.44 --> 573.44
+ There are a lot of sunflowers.
+
+195
+573.44 --> 575.44
+ Do you like sunflower?
+
+196
+575.44 --> 576.44
+ Yes, I like it.
+
+197
+576.44 --> 577.44
+ You're already blind.
+
+198
+578.44 --> 579.44
+ Then, let's buy it.
+
+199
+581.44 --> 583.44
+ I'm going to buy it, so wait for me.
+
+200
+583.44 --> 584.44
+ Thank you.
+
+201
+584.44 --> 585.44
+ Can I take a selfie?
+
+202
+585.44 --> 586.44
+ Sure.
+
+203
+588.44 --> 590.44
+ I got a sunflower.
+
+204
+591.44 --> 597.38
+ It's my favorite sunflower.
+
+205
+597.38 --> 599.38
+ Look, it's beautiful here.
+
+206
+601.38 --> 603.38
+ I got a sunflower.
+
+207
+603.38 --> 606.90
+ Let's go.
+
+208
+607.90 --> 608.90
+ Let's put it in the room.
+
+209
+608.90 --> 609.90
+ It's cute.
+
+210
+609.90 --> 610.90
+ It goes well with curry.
+
+211
+610.90 --> 611.90
+ It goes well with curry.
+
+212
+612.90 --> 613.90
+ It's like a festival.
+
+213
+618.11 --> 619.11
+ I'm going to get it.
+
+214
+619.11 --> 620.11
+ It's good here.
+
+215
+621.11 --> 622.11
+ What?
+
+216
+622.11 --> 623.11
+ It's good.
+
+217
+623.11 --> 624.11
+ There are a lot of vegetables.
+
+218
+624.11 --> 625.11
+ Let's go to buy it.
+
+219
+625.11 --> 626.11
+ Let's go.
+
+220
+641.99 --> 642.99
+ Onion is 100 yen.
+
+221
+642.99 --> 643.99
+ Is it cheap?
+
+222
+643.99 --> 644.99
+ Is it cheap?
+
+223
+644.99 --> 645.99
+ Yes.
+
+224
+645.99 --> 646.99
+ Carrot.
+
+225
+647.99 --> 648.99
+ Curry is carrot.
+
+226
+655.99 --> 656.99
+ It's for curry.
+
+227
+656.99 --> 657.99
+ It's for white people.
+
+228
+657.99 --> 658.99
+ It's for white people.
+
+229
+658.99 --> 659.99
+ Do you like white people?
+
+230
+660.99 --> 661.99
+ I like white people, too.
+
+231
+661.99 --> 662.99
+ Really?
+
+232
+663.99 --> 664.99
+ How about garlic?
+
+233
+664.99 --> 665.99
+ Garlic?
+
+234
+665.99 --> 666.99
+ Do you put garlic in curry?
+
+235
+668.99 --> 670.99
+ My family put garlic in curry.
+
+236
+670.99 --> 671.99
+ Really?
+
+237
+671.99 --> 673.99
+ Do you put garlic in curry?
+
+238
+673.99 --> 674.99
+ No, I don't.
+
+239
+675.99 --> 676.99
+ I put it as a snack.
+
+240
+676.99 --> 677.99
+ Oh, I see.
+
+241
+678.99 --> 685.07
+ But I'm going to eat a lot today, so I don't think I should eat it.
+
+242
+691.58 --> 697.58
+ It seems that he likes to put garlic in curry.
+
+243
+698.58 --> 702.58
+ But I'm going to stay overnight today, so I think I'll kiss him a lot.
+
+244
+703.58 --> 708.58
+ I think I'll kiss him a lot, so I told him not to put garlic in curry.
+
+245
+709.58 --> 716.58
+ It seems that he likes spicy curry, so I'll make it spicy.
+
+246
+717.58 --> 720.58
+ I hope he likes it.
+
+247
+720.58 --> 721.58
+ Welcome back.
+
+248
+728.50 --> 737.97
+ I bought a bag, I bought curry, and I drank soda.
+
+249
+738.97 --> 740.97
+ Today's mission is completed.
+
+250
+741.97 --> 743.97
+ Let's go home.
+
+251
+744.97 --> 745.97
+ Bye-bye.
+
+252
+760.35 --> 761.35
+ Do you need help?
+
+253
+761.35 --> 762.35
+ No, it's okay.
+
+254
+763.35 --> 764.35
+ Carrot?
+
+255
+764.35 --> 765.35
+ Carrot.
+
+256
+765.35 --> 766.35
+ Good.
+
+257
+766.35 --> 767.35
+ Do you like carrots?
+
+258
+767.35 --> 768.35
+ I like carrots.
+
+259
+768.35 --> 769.35
+ Can you eat it?
+
+260
+769.35 --> 771.35
+ Then I'll cut a lot.
+
+261
+771.35 --> 772.35
+ It's nutritious.
+
+262
+772.35 --> 773.35
+ Yes, it's important.
+
+263
+775.35 --> 776.35
+ I'll put a lot of summer vegetables.
+
+264
+777.35 --> 779.35
+ Do you put a lot of carrots?
+
+265
+779.35 --> 781.35
+ Aren't they summer vegetables?
+
+266
+782.35 --> 783.35
+ No, they aren't.
+
+267
+784.35 --> 785.35
+ They aren't.
+
+268
+785.35 --> 787.35
+ Are there any summer vegetables in curry?
+
+269
+787.35 --> 788.35
+ I don't think so.
+
+270
+788.35 --> 789.35
+ Like Nasubi.
+
+271
+789.35 --> 790.35
+ I see.
+
+272
+790.35 --> 792.35
+ I'm putting a lot of it.
+
+273
+793.35 --> 794.35
+ Can I watch it?
+
+274
+795.35 --> 796.35
+ Yes, you can.
+
+275
+797.35 --> 798.35
+ Do you want to watch it?
+
+276
+798.35 --> 802.35
+ I'm so happy to see you here.
+
+277
+802.35 --> 804.35
+ Is that so?
+
+278
+804.35 --> 806.35
+ It's like a special guest.
+
+279
+806.35 --> 808.35
+ Special guest?
+
+280
+808.35 --> 810.35
+ It's good to watch TV.
+
+281
+810.35 --> 812.35
+ TV?
+
+282
+812.35 --> 814.35
+ This is better than TV.
+
+283
+814.35 --> 816.35
+ Really?
+
+284
+820.35 --> 824.35
+ I can't concentrate when I see someone else.
+
+285
+824.35 --> 826.35
+ Did you lose your concentration?
+
+286
+826.35 --> 828.35
+ Yes.
+
+287
+828.35 --> 830.35
+ I get nervous when I'm watched.
+
+288
+830.35 --> 832.35
+ Really?
+
+289
+832.35 --> 834.35
+ I get nervous every day.
+
+290
+834.35 --> 836.35
+ I get injured.
+
+291
+836.35 --> 838.35
+ I see.
+
+292
+838.35 --> 840.35
+ It's better not to watch TV.
+
+293
+840.35 --> 842.35
+ If you get injured.
+
+294
+844.35 --> 846.35
+ I get nervous.
+
+295
+846.35 --> 848.35
+ Do you?
+
+296
+848.35 --> 850.35
+ Especially when I'm alone at home.
+
+297
+850.35 --> 852.35
+ I'm a little nervous.
+
+298
+852.35 --> 854.35
+ But we're finally together.
+
+299
+854.35 --> 856.35
+ The two of us.
+
+300
+856.35 --> 858.35
+ That's right.
+
+301
+858.35 --> 861.73
+ It's our first time at home.
+
+302
+861.73 --> 863.73
+ It's good.
+
+303
+865.73 --> 867.73
+ I'm so happy.
+
+304
+869.73 --> 871.73
+ Do you want to kiss me?
+
+305
+873.73 --> 875.73
+ I'm not ready.
+
+306
+875.73 --> 877.73
+ Why?
+
+307
+877.73 --> 879.73
+ I'm not ready.
+
+308
+879.73 --> 881.73
+ Why?
+
+309
+881.73 --> 883.73
+ I'm nervous.
+
+310
+883.73 --> 885.73
+ Do you want to kiss me?
+
+311
+885.73 --> 889.49
+ Yes.
+
+312
+889.49 --> 891.49
+ What should I do?
+
+313
+939.71 --> 941.71
+ You're not hungry yet, are you?
+
+314
+941.71 --> 943.71
+ Not really.
+
+315
+943.71 --> 945.71
+ Then you don't have to make curry yet.
+
+316
+945.71 --> 947.71
+ No.
+
+317
+947.71 --> 949.71
+ I can take my time.
+
+318
+949.71 --> 951.71
+ Really?
+
+319
+951.71 --> 953.71
+ Do you want to make more?
+
+320
+953.71 --> 1019.84
+ Yes.
+
+321
+1021.84 --> 1044.03
+ I'm a little nervous.
+
+322
+1044.03 --> 1046.03
+ Are you nervous?
+
+323
+1046.03 --> 1048.03
+ Why?
+
+324
+1048.03 --> 1050.03
+ It's been a long time.
+
+325
+1050.03 --> 1052.03
+ It's been a long time?
+
+326
+1052.03 --> 1054.03
+ Yes.
+
+327
+1054.03 --> 1056.03
+ How long?
+
+328
+1056.03 --> 1058.03
+ One year.
+
+329
+1058.03 --> 1060.03
+ One year?
+
+330
+1060.03 --> 1062.03
+ Don't you remember how to do it?
+
+331
+1064.03 --> 1066.03
+ Sometimes I forget.
+
+332
+1066.03 --> 1110.82
+ Really?
+
+333
+1110.82 --> 1119.38
+ Yes.
+
+334
+1123.38 --> 1125.38
+ I thought it was good to wear clothes.
+
+335
+1125.38 --> 1127.38
+ But it's not good to take it off.
+
+336
+1127.38 --> 1129.38
+ What?
+
+337
+1129.38 --> 1131.38
+ Don't look at me like that.
+
+338
+1136.10 --> 1138.10
+ What?
+
+339
+1148.30 --> 1152.64
+ I love you.
+
+340
+1152.64 --> 1173.07
+ I love you too.
+
+341
+1173.07 --> 1178.11
+ I love you too.
+
+342
+1178.11 --> 1180.11
+ I'll kiss you from behind.
+
+343
+1180.11 --> 1182.11
+ From behind?
+
+344
+1182.11 --> 1187.92
+ Like this?
+
+345
+1388.70 --> 1390.70
+ I'm nervous.
+
+346
+1390.70 --> 1395.17
+ I'm nervous.
+
+347
+1402.83 --> 1404.83
+ I'm nervous.
+
+348
+1416.40 --> 1418.40
+ Don't look at me like that.
+
+349
+1424.85 --> 1426.85
+ Don't look at me like that.
+
+350
+1433.12 --> 1437.39
+ Just a little.
+
+351
+1437.39 --> 1439.39
+ Just a little?
+
+352
+1557.33 --> 1581.63
+ It's my turn.
+
+353
+1581.63 --> 1583.63
+ What?
+
+354
+1583.63 --> 1589.06
+ What?
+
+355
+1591.06 --> 1593.06
+ I'm sweating a lot.
+
+356
+1593.06 --> 1595.06
+ It's okay.
+
+357
+1621.49 --> 1694.62
+ I'm embarrassed.
+
+358
+1694.62 --> 1705.81
+ Are you embarrassed?
+
+359
+1720.77 --> 1722.77
+ It's okay.
+
+360
+1730.30 --> 1732.30
+ I'm embarrassed, too.
+
+361
+1734.30 --> 1758.10
+ Don't look at me like that.
+
+362
+1772.22 --> 1777.26
+ I'm embarrassed.
+
+363
+1883.46 --> 1885.46
+ Don't look at me like that.
+
+364
+1893.46 --> 1901.95
+ It's big.
+
+365
+1937.07 --> 1959.81
+ It's big.
+
+366
+2080.88 --> 2082.88
+ It's big.
+
+367
+2084.88 --> 2086.88
+ I'll kiss you.
+
+368
+2088.88 --> 2090.88
+ It's big.
+
+369
+2113.78 --> 2115.78
+ Don't look at me like that.
+
+370
+2246.69 --> 2248.69
+ Don't look at me like that.
+
+371
+2456.56 --> 2460.26
+ It's big.
+
+372
+2553.31 --> 2555.31
+ It's big.
+
+373
+2555.31 --> 2557.31
+ I have to move a little.
+
+374
+2609.66 --> 2626.67
+ It's big.
+
+375
+2840.30 --> 2842.30
+ I'm going to have a stomachache.
+
+376
+2842.30 --> 2844.30
+ I'm going to have a stomachache.
+
+377
+2875.09 --> 2877.09
+ I'm going to have a stomachache.
+
+378
+2913.84 --> 2915.84
+ I have to make curry.
+
+379
+2915.84 --> 2917.84
+ That's right.
+
+380
+2917.84 --> 2919.84
+ Are you hungry?
+
+381
+2919.84 --> 2921.84
+ I'm hungry.
+
+382
+2943.65 --> 2945.65
+ I have to make curry.
+
+383
+2947.65 --> 2949.65
+ Are you hungry?
+
+384
+2949.65 --> 2951.65
+ I worked out.
+
+385
+2951.65 --> 2958.70
+ I have to make curry.
+
+386
+2995.10 --> 2997.10
+ It's cold.
+
+387
+2999.10 --> 3001.10
+ It's cold, isn't it?
+
+388
+3001.10 --> 3003.10
+ It's cold, isn't it?
+
+389
+3007.10 --> 3009.10
+ Are you okay?
+
+390
+3009.10 --> 3011.10
+ You can do it.
+
+391
+3011.10 --> 3013.10
+ You can do it.
+
+392
+3013.10 --> 3015.10
+ You can do it.
+
+393
+3015.10 --> 3017.10
+ I'll give you a bath.
+
+394
+3017.10 --> 3019.10
+ Thank you.
+
+395
+3019.10 --> 3046.99
+ I'll give you a bath.
+
+396
+3046.99 --> 3048.99
+ I'll give you a bath.
+
+397
+3096.02 --> 3098.02
+ You're healthy again.
+
+398
+3098.02 --> 3100.02
+ You're healthy again.
+
+399
+3102.02 --> 3104.02
+ You'll be healthy soon.
+
+400
+3186.08 --> 3188.08
+ It's warm.
+
+401
+3188.08 --> 3190.08
+ It's warm.
+
+402
+3190.08 --> 3192.08
+ You can do it.
+
+403
+3192.08 --> 3215.36
+ You can do it.
+
+404
+3215.36 --> 3220.36
+ I was watching you a lot a while ago.
+
+405
+3220.36 --> 3249.94
+ What?
+
+406
+3249.94 --> 3250.94
+ I was watching you a lot.
+
+407
+3250.94 --> 3269.87
+ Did I hurt you?
+
+408
+3269.87 --> 3270.87
+ No, I didn't.
+
+409
+3270.87 --> 3275.04
+ I'm glad.
+
+410
+3280.93 --> 3282.93
+ You smell good.
+
+411
+3287.93 --> 3294.86
+ I'm going to eat rice.
+
+412
+3329.94 --> 3340.80
+ I'm going to eat rice.
+
+413
+3348.85 --> 3350.85
+ That's amazing.
+
+414
+3358.80 --> 3361.80
+ Do you like being petted?
+
+415
+3361.80 --> 3362.80
+ Yes.
+
+416
+3365.80 --> 3383.51
+ It's not painful anymore.
+
+417
+3383.51 --> 3384.51
+ Really?
+
+418
+3384.51 --> 3385.51
+ Yes.
+
+419
+3385.51 --> 3388.72
+ I'm glad.
+
+420
+3427.13 --> 3429.13
+ Have you ever been petted?
+
+421
+3429.13 --> 3430.13
+ No, I haven't.
+
+422
+3430.13 --> 3431.13
+ You haven't?
+
+423
+3431.13 --> 3432.13
+ No, I haven't.
+
+424
+3432.13 --> 3433.13
+ That's amazing.
+
+425
+3433.13 --> 3436.13
+ I'm going to pet you for the first time.
+
+426
+3444.87 --> 3446.87
+ That's amazing.
+
+427
+3446.87 --> 3447.87
+ Is it good?
+
+428
+3447.87 --> 3448.87
+ Does it feel good?
+
+429
+3451.44 --> 3458.80
+ I'm going to lick you because you have a nipple.
+
+430
+3515.94 --> 3550.31
+ Does it feel good?
+
+431
+3550.31 --> 3551.31
+ Yes.
+
+432
+3551.31 --> 3553.62
+ Does it tickle?
+
+433
+3553.62 --> 3555.62
+ It tickles.
+
+434
+3557.62 --> 3563.11
+ It tickles all over.
+
+435
+3564.11 --> 3566.11
+ You like everything.
+
+436
+3567.11 --> 3647.54
+ I'm going to lick you.
+
+437
+3666.85 --> 3667.85
+ That's amazing.
+
+438
+3667.85 --> 3669.85
+ You have a lot of hair on your head.
+
+439
+3671.85 --> 3673.85
+ That's amazing.
+
+440
+3676.85 --> 3680.61
+ You have a lot of hair on your head.
+
+441
+3680.61 --> 3682.61
+ You look beautiful again.
+
+442
+3683.61 --> 3685.61
+ Isn't it bad?
+
+443
+3685.61 --> 3707.29
+ I'm going to lick you.
+
+444
+3709.29 --> 3710.29
+ That's amazing.
+
+445
+3710.29 --> 3713.86
+ I've never done this before.
+
+446
+3713.86 --> 3716.86
+ How did you feel when I petted you for the first time?
+
+447
+3716.86 --> 3717.86
+ I didn't feel good.
+
+448
+3717.86 --> 3718.86
+ Really?
+
+449
+3724.66 --> 3726.66
+ I'm going to wash my body again.
+
+450
+3733.54 --> 3734.54
+ Thank you for waiting.
+
+451
+3734.54 --> 3735.54
+ Let's eat.
+
+452
+3735.54 --> 3737.54
+ Let's eat.
+
+453
+3737.54 --> 3739.54
+ It looks delicious.
+
+454
+3740.54 --> 3742.54
+ Is it spicy?
+
+455
+3742.54 --> 3744.54
+ Is it spicy?
+
+456
+3744.54 --> 3745.54
+ Try it.
+
+457
+3745.54 --> 3746.54
+ This is the carrot.
+
+458
+3746.54 --> 3747.54
+ That's right.
+
+459
+3747.54 --> 3749.54
+ I put a lot in it.
+
+460
+3749.54 --> 3750.54
+ Let's eat.
+
+461
+3754.54 --> 3756.54
+ Did you really taste it?
+
+462
+3756.54 --> 3758.54
+ Did you really taste it?
+
+463
+3759.54 --> 3760.54
+ Is it good?
+
+464
+3760.54 --> 3761.54
+ Is it spicy?
+
+465
+3764.54 --> 3765.54
+ Is it good?
+
+466
+3765.54 --> 3766.54
+ Really?
+
+467
+3766.54 --> 3767.54
+ Let's try it.
+
+468
+3767.54 --> 3768.54
+ It's spicy.
+
+469
+3768.54 --> 3769.54
+ It's spicy.
+
+470
+3769.54 --> 3770.54
+ Is it good?
+
+471
+3770.54 --> 3771.54
+ It's good.
+
+472
+3771.54 --> 3783.01
+ Let's eat.
+
+473
+3783.01 --> 3784.01
+ Isn't it a good level of spiciness?
+
+474
+3784.01 --> 3785.01
+ Is it spicy?
+
+475
+3787.01 --> 3788.01
+ It's spicy.
+
+476
+3788.01 --> 3789.01
+ It's about level 7.
+
+477
+3789.01 --> 3790.01
+ It's just right.
+
+478
+3790.01 --> 3792.01
+ I'm glad.
+
+479
+3793.01 --> 3794.01
+ It's delicious.
+
+480
+3794.01 --> 3795.01
+ Let's eat the carrot.
+
+481
+3795.01 --> 3796.01
+ Did you eat the carrot?
+
+482
+3796.01 --> 3797.01
+ I did.
+
+483
+3797.01 --> 3798.01
+ This is not a carrot.
+
+484
+3798.01 --> 3799.01
+ It's a potato.
+
+485
+3800.01 --> 3801.01
+ Do you want to try it?
+
+486
+3801.01 --> 3802.01
+ I'm going to give it to you.
+
+487
+3808.96 --> 3809.96
+ The carrot is soft.
+
+488
+3809.96 --> 3810.96
+ Is it hard?
+
+489
+3810.96 --> 3811.96
+ Is it just right?
+
+490
+3811.96 --> 3812.96
+ It's a little hard.
+
+491
+3812.96 --> 3813.96
+ Are you kidding me?
+
+492
+3813.96 --> 3814.96
+ It's all right.
+
+493
+3820.49 --> 3821.49
+ The texture is good.
+
+494
+3822.49 --> 3823.49
+ The carrot.
+
+495
+3823.49 --> 3824.49
+ To put it nicely,
+
+496
+3824.49 --> 3826.49
+ The carrot has a good texture.
+
+497
+3828.49 --> 3829.49
+ I think it was a little early.
+
+498
+3830.49 --> 3832.49
+ It's time to stir-fry.
+
+499
+3833.49 --> 3835.49
+ Please give me a refill.
+
+500
+3838.49 --> 3845.41
+ It's delicious.
+
+501
+3846.41 --> 3849.30
+ It's good.
+
+502
+3849.30 --> 3850.30
+ I'm getting a little drunk.
+
+503
+3854.30 --> 3855.30
+ It was hot today.
+
+504
+3858.30 --> 3859.30
+ I'm tired.
+
+505
+3859.30 --> 3861.30
+ It's good to drink green tea after eating.
+
+506
+3862.30 --> 3863.30
+ It's delicious.
+
+507
+3864.30 --> 3868.30
+ We haven't had a lot of drinks together, have we?
+
+508
+3868.30 --> 3869.30
+ That's right.
+
+509
+3914.03 --> 3915.03
+ I took a bath.
+
+510
+3916.03 --> 3917.03
+ I see.
+
+511
+3917.03 --> 3918.03
+ It's good.
+
+512
+3919.03 --> 3991.42
+ It's good, isn't it?
+
+513
+3992.42 --> 3993.42
+ Let's do the same thing.
+
+514
+3993.42 --> 3994.42
+ Why?
+
+515
+4012.05 --> 4013.05
+ Why?
+
+516
+4017.55 --> 4018.55
+ Will you do it for me?
+
+517
+4018.55 --> 4019.55
+ What?
+
+518
+4019.55 --> 4020.55
+ Will you do it for me?
+
+519
+4022.55 --> 4025.12
+ Do you want me to do it for you?
+
+520
+4025.12 --> 4026.12
+ Yes.
+
+521
+4028.12 --> 4046.18
+ It feels good.
+
+522
+4147.50 --> 4148.50
+ It feels good.
+
+523
+4182.02 --> 4188.11
+ Do you want to drink more?
+
+524
+4188.11 --> 4189.11
+ It's hot.
+
+525
+4189.11 --> 4190.11
+ It's hot, isn't it?
+
+526
+4223.28 --> 4224.28
+ It feels good.
+
+527
+4245.94 --> 4246.94
+ I can't stand it.
+
+528
+4247.94 --> 4248.94
+ I can't stand it.
+
+529
+4249.94 --> 4250.94
+ Let's go to bed.
+
+530
+4250.94 --> 4251.94
+ To bed?
+
+531
+4556.90 --> 4557.90
+ I can't stand it.
+
+532
+4685.05 --> 4686.05
+ I can't stand it.
+
+533
+4701.34 --> 4702.34
+ I can't stand it.
+
+534
+4864.42 --> 4907.95
+ I can't stand it.
+
+535
+4913.95 --> 4914.95
+ I can't stand it.
+
+536
+5151.54 --> 5174.66
+ It feels good.
+
+537
+5389.26 --> 5390.26
+ I can't do it.
+
+538
+5390.26 --> 5391.26
+ I can't do it.
+
+539
+5391.26 --> 5393.26
+ I can't do it.
+
+540
+5398.77 --> 5400.77
+ Ouch!
+
+541
+5505.26 --> 5507.26
+ I feel like I can sleep a lot.
+
+542
+5518.34 --> 5520.34
+ It's too early to sleep.
+
+543
+5520.34 --> 5522.34
+ It's too early to sleep.
+
+544
+5522.34 --> 5524.34
+ That's right.
+
+545
+5524.34 --> 5526.34
+ I have to get up.
+
+546
+5526.34 --> 5528.34
+ I don't want to wake up.
+
+547
+5528.34 --> 5530.34
+ I don't want to wake up.
+
+548
+5978.77 --> 5980.77
+ I finally woke up.
+
+549
+5980.77 --> 5982.77
+ I was sleeping all the time.
+
+550
+5982.77 --> 5984.77
+ What did you do?
+
+551
+5986.77 --> 5988.77
+ I touched you and you got bigger.
+
+552
+5988.77 --> 5990.77
+ Did I get bigger?
+
+553
+5992.77 --> 5994.77
+ I was surprised.
+
+554
+5998.77 --> 6000.77
+ Were you really sleeping?
+
+555
+6000.77 --> 6002.77
+ I was sleeping.
+
+556
+6002.77 --> 6004.77
+ Really?
+
+557
+6006.77 --> 6008.77
+ You were reacting.
+
+558
+6008.77 --> 6012.27
+ I was sleeping.
+
+559
+6014.27 --> 6016.27
+ I'm sorry.
+
+560
+6024.86 --> 6026.86
+ Why did you say such a thing?
+
+561
+6026.86 --> 6028.86
+ I don't want to treat you.
+
+562
+6030.86 --> 6032.86
+ Do you want me to throw a patchwork at you?
+
+563
+6034.86 --> 6056.10
+ Good morning Ferra
+
+564
+6056.10 --> 6058.10
+ Good morning Ferra
+
+565
+6058.10 --> 6060.10
+ Morning Ferra
+

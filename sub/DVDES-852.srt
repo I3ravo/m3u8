@@ -1,0 +1,7884 @@
+1
+8.05 --> 14.05
+ It's almost time for them to gather, isn't it?
+
+2
+14.05 --> 16.05
+ I think so.
+
+3
+23.55 --> 25.55
+ What's up?
+
+4
+25.55 --> 27.55
+ I'm having fun.
+
+5
+27.55 --> 29.55
+ What are you talking about?
+
+6
+29.55 --> 31.55
+ Thank you for going out with me.
+
+7
+31.55 --> 33.55
+ I know.
+
+8
+33.55 --> 37.55
+ But you happen to talk to good people, don't you?
+
+9
+37.55 --> 39.55
+ Yes, I do.
+
+10
+43.55 --> 45.55
+ I don't want you to contact me.
+
+11
+45.55 --> 47.55
+ No problem.
+
+12
+47.55 --> 49.55
+ Hello.
+
+13
+49.55 --> 51.55
+ Nice to meet you.
+
+14
+51.55 --> 53.55
+ I'm OO.
+
+15
+53.55 --> 55.55
+ I'm OO.
+
+16
+55.55 --> 57.55
+ Nice to meet you.
+
+17
+57.55 --> 59.55
+ Nice to meet you.
+
+18
+59.55 --> 61.55
+ I'm OO.
+
+19
+61.55 --> 63.55
+ Are you free?
+
+20
+63.55 --> 65.55
+ Yes, I'm free.
+
+21
+65.55 --> 71.55
+ I think it's time for the others to gather.
+
+22
+71.55 --> 73.55
+ You two look good together.
+
+23
+73.55 --> 75.55
+ I think so, too.
+
+24
+75.55 --> 77.55
+ You two look good together.
+
+25
+77.55 --> 79.55
+ Your wife is very cute.
+
+26
+79.55 --> 81.55
+ She has a charming face.
+
+27
+81.55 --> 83.55
+ Please come closer.
+
+28
+83.55 --> 85.55
+ Let's say love to each other.
+
+29
+85.55 --> 87.55
+ Let's say love to each other.
+
+30
+87.55 --> 91.55
+ That's a little embarrassing.
+
+31
+91.55 --> 93.55
+ I'm sorry.
+
+32
+93.55 --> 95.55
+ I'm OO.
+
+33
+95.55 --> 97.55
+ I'm OO.
+
+34
+97.55 --> 99.55
+ Nice to meet you.
+
+35
+99.55 --> 101.55
+ I'm OO.
+
+36
+101.55 --> 103.55
+ You guys look great together.
+
+37
+103.55 --> 105.55
+ I think so, too.
+
+38
+105.55 --> 107.55
+ You look great.
+
+39
+107.55 --> 109.55
+ It's my turn, right?
+
+40
+109.55 --> 111.55
+ I'm OO.
+
+41
+111.55 --> 113.55
+ Nice to meet you.
+
+42
+113.55 --> 115.55
+ You two look good together.
+
+43
+115.55 --> 116.55
+ I see.
+
+44
+116.55 --> 119.55
+ I didn't know cameras were so important.
+
+45
+119.55 --> 120.55
+ I'm sorry.
+
+46
+120.55 --> 122.55
+ I was so nervous.
+
+47
+122.55 --> 123.55
+ I'm sorry.
+
+48
+123.55 --> 124.55
+ I'll keep it as a souvenir.
+
+49
+124.55 --> 127.55
+ We'll give you this later.
+
+50
+127.55 --> 130.55
+ I can't wait for everyone to gather.
+
+51
+130.55 --> 131.55
+ I'm so nervous.
+
+52
+131.55 --> 133.55
+ I'm nervous too.
+
+53
+133.55 --> 136.55
+ Thank you so much for today.
+
+54
+136.55 --> 137.55
+ Thank you.
+
+55
+138.55 --> 141.55
+ You're all so cute.
+
+56
+141.55 --> 143.55
+ Thank you.
+
+57
+143.55 --> 145.55
+ The wind is getting stronger.
+
+58
+145.55 --> 146.55
+ Let's go inside.
+
+59
+146.55 --> 148.55
+ We'll talk more about it later.
+
+60
+148.55 --> 151.55
+ Thank you.
+
+61
+151.55 --> 153.55
+ Did you rent a bus?
+
+62
+153.55 --> 154.55
+ Yes, I did.
+
+63
+154.55 --> 157.55
+ I was surprised because it was bigger than I thought.
+
+64
+158.55 --> 160.55
+ Please put your luggage behind you.
+
+65
+160.55 --> 161.55
+ Okay.
+
+66
+161.55 --> 163.55
+ Please put your luggage behind you.
+
+67
+168.27 --> 170.27
+ Please put your seat belt on.
+
+68
+174.25 --> 176.25
+ Please put your seat belt on.
+
+69
+177.25 --> 178.25
+ Thank you.
+
+70
+182.58 --> 183.58
+ What's wrong?
+
+71
+184.58 --> 187.58
+ I'm nervous because it's my first time.
+
+72
+187.58 --> 189.58
+ Your husband looks shy.
+
+73
+189.58 --> 190.58
+ He does.
+
+74
+190.58 --> 191.58
+ It's embarrassing.
+
+75
+191.58 --> 192.58
+ He's shy.
+
+76
+194.58 --> 196.58
+ He's been like this for a while.
+
+77
+197.58 --> 199.58
+ It's embarrassing.
+
+78
+199.58 --> 201.58
+ He's been like this for a while.
+
+79
+203.58 --> 205.58
+ Don't be nervous.
+
+80
+206.58 --> 209.58
+ You might be able to film with this camera.
+
+81
+209.58 --> 210.58
+ Really?
+
+82
+210.58 --> 212.58
+ It's like a trip memory.
+
+83
+212.58 --> 214.58
+ Let's enjoy it together.
+
+84
+216.58 --> 218.58
+ I'm ***.
+
+85
+219.58 --> 220.58
+ Nice to meet you.
+
+86
+220.58 --> 221.58
+ I'm Miho.
+
+87
+221.58 --> 222.58
+ Nice to meet you.
+
+88
+222.58 --> 223.58
+ I'm Miho.
+
+89
+223.58 --> 224.58
+ I'm his wife.
+
+90
+226.58 --> 231.58
+ It's been 8 years since we got married.
+
+91
+232.58 --> 235.58
+ I'm a little busy with work.
+
+92
+235.58 --> 237.58
+ I can't take care of him.
+
+93
+240.58 --> 244.47
+ I'm ***.
+
+94
+245.47 --> 247.47
+ I'm his wife.
+
+95
+247.47 --> 248.47
+ I'm Ayumi.
+
+96
+248.47 --> 249.47
+ Nice to meet you.
+
+97
+251.47 --> 254.47
+ It's been 2 years since we got married.
+
+98
+254.47 --> 255.47
+ It's been 2 years.
+
+99
+256.47 --> 259.47
+ I applied for this job.
+
+100
+260.47 --> 262.47
+ I didn't expect it to come true.
+
+101
+263.47 --> 264.47
+ Thank you.
+
+102
+267.47 --> 268.47
+ It's embarrassing.
+
+103
+268.47 --> 269.47
+ He's shy.
+
+104
+269.47 --> 270.47
+ He's nervous.
+
+105
+270.47 --> 274.47
+ As you can see, my wife...
+
+106
+275.47 --> 277.47
+ Her boobs are...
+
+107
+277.47 --> 279.47
+ Are you bragging?
+
+108
+279.47 --> 282.47
+ I'm just walking.
+
+109
+284.47 --> 285.47
+ It's okay.
+
+110
+288.47 --> 289.47
+ I'm ***.
+
+111
+289.47 --> 290.47
+ I'm ***.
+
+112
+292.47 --> 294.47
+ I'm his wife, Nami.
+
+113
+294.47 --> 295.47
+ I'm Nami.
+
+114
+295.47 --> 297.47
+ Nice to meet you.
+
+115
+297.47 --> 299.47
+ It's embarrassing to face the camera.
+
+116
+299.47 --> 300.47
+ It's embarrassing.
+
+117
+302.47 --> 305.47
+ It's been 4 years since we got married.
+
+118
+305.47 --> 306.47
+ It's been 4 years.
+
+119
+307.47 --> 309.47
+ You two are close, right?
+
+120
+309.47 --> 311.47
+ Yes, we are.
+
+121
+315.47 --> 316.47
+ He's shy.
+
+122
+316.47 --> 318.47
+ It's embarrassing.
+
+123
+318.47 --> 320.47
+ Yes, it is.
+
+124
+320.47 --> 323.47
+ Your husband...
+
+125
+324.47 --> 327.47
+ I applied for this job.
+
+126
+328.47 --> 331.47
+ My wife is very active.
+
+127
+331.47 --> 333.47
+ She seems to be interested.
+
+128
+333.47 --> 338.47
+ When I heard about it, I thought it would be fun.
+
+129
+338.47 --> 340.47
+ Can I take a picture of you?
+
+130
+340.47 --> 341.47
+ Yes, sure.
+
+131
+347.58 --> 351.58
+ Hello, my name is ***.
+
+132
+353.58 --> 354.58
+ I'm Nozomi.
+
+133
+354.58 --> 355.58
+ I'm Nozomi.
+
+134
+356.58 --> 359.58
+ It's been 5 years since we got married.
+
+135
+359.58 --> 361.58
+ It's been 5 years since we got married.
+
+136
+361.58 --> 365.58
+ To be honest, we are very close.
+
+137
+365.58 --> 366.58
+ We don't have kids.
+
+138
+366.58 --> 367.58
+ We don't have kids.
+
+139
+367.58 --> 372.58
+ I applied for this job.
+
+140
+372.58 --> 377.58
+ To be honest, my wife was a bit shy.
+
+141
+377.58 --> 381.58
+ She didn't say yes.
+
+142
+381.58 --> 385.58
+ But I told her to come.
+
+143
+386.58 --> 391.58
+ I persuaded her to come.
+
+144
+391.58 --> 392.58
+ Are you okay?
+
+145
+396.58 --> 397.58
+ He's shy.
+
+146
+397.58 --> 398.58
+ It's embarrassing.
+
+147
+398.58 --> 399.58
+ Yes, it is.
+
+148
+406.78 --> 411.78
+ Let's take a look at your wife's legs.
+
+149
+411.78 --> 412.78
+ She's beautiful.
+
+150
+412.78 --> 414.78
+ She's very beautiful.
+
+151
+414.78 --> 415.78
+ Thank you.
+
+152
+415.78 --> 417.78
+ I'm proud of her.
+
+153
+417.78 --> 419.78
+ Can I take a picture of you?
+
+154
+419.78 --> 425.49
+ Yes.
+
+155
+426.49 --> 430.49
+ Let me show you her legs.
+
+156
+430.49 --> 432.49
+ I saw them when I woke up in the morning.
+
+157
+436.49 --> 438.49
+ What are you doing?
+
+158
+438.49 --> 440.49
+ Don't be shy.
+
+159
+441.49 --> 442.49
+ This is her chest.
+
+160
+442.49 --> 443.49
+ What?
+
+161
+447.49 --> 448.49
+ It's amazing.
+
+162
+448.49 --> 449.49
+ It's like this.
+
+163
+456.44 --> 457.44
+ What are you doing?
+
+164
+457.44 --> 460.44
+ I want to show you my charming point.
+
+165
+462.44 --> 464.44
+ Like this.
+
+166
+464.44 --> 466.44
+ It's good.
+
+167
+468.44 --> 471.44
+ You're doing a good job.
+
+168
+471.44 --> 473.44
+ No, I'm not.
+
+169
+474.44 --> 475.44
+ Let me show you.
+
+170
+475.44 --> 477.44
+ Can you hold this for a second?
+
+171
+478.44 --> 479.44
+ Really?
+
+172
+479.44 --> 480.44
+ I want to see it.
+
+173
+480.44 --> 481.44
+ It's amazing.
+
+174
+483.44 --> 484.44
+ How is it?
+
+175
+484.44 --> 485.44
+ It's good.
+
+176
+486.44 --> 487.44
+ It's amazing.
+
+177
+487.44 --> 489.44
+ It's amazing, isn't it?
+
+178
+489.44 --> 490.44
+ It's up to here.
+
+179
+491.44 --> 494.44
+ I don't want everyone to see it.
+
+180
+494.44 --> 495.44
+ Look at it.
+
+181
+495.44 --> 497.44
+ Wait a minute.
+
+182
+498.44 --> 500.44
+ I don't want everyone to see it.
+
+183
+500.44 --> 501.44
+ Hold this.
+
+184
+502.44 --> 505.90
+ Can you hold this?
+
+185
+505.90 --> 506.90
+ Yes.
+
+186
+507.90 --> 508.90
+ How is it?
+
+187
+508.90 --> 509.90
+ It's good, isn't it?
+
+188
+510.90 --> 512.90
+ Can I put it back?
+
+189
+512.90 --> 514.90
+ You look embarrassed. It's cute.
+
+190
+516.90 --> 518.90
+ I'll put it back.
+
+191
+518.90 --> 519.90
+ Okay.
+
+192
+520.90 --> 521.90
+ I'm embarrassed.
+
+193
+521.90 --> 522.90
+ Thank you.
+
+194
+525.90 --> 526.90
+ How was it?
+
+195
+526.90 --> 528.90
+ It's a very beautiful house.
+
+196
+528.90 --> 529.90
+ Thank you very much.
+
+197
+530.90 --> 533.90
+ I can't see your wife's face.
+
+198
+533.90 --> 534.90
+ What are you doing?
+
+199
+536.90 --> 538.90
+ You've seen half of it, haven't you?
+
+200
+538.90 --> 547.14
+ It's a big house.
+
+201
+547.14 --> 549.52
+ What's your name?
+
+202
+549.52 --> 551.52
+ My name is G.
+
+203
+551.52 --> 552.52
+ G?
+
+204
+552.52 --> 553.52
+ Are you a movie star?
+
+205
+553.52 --> 555.52
+ He's getting excited again.
+
+206
+556.52 --> 558.52
+ You sound like a G couple.
+
+207
+559.52 --> 561.52
+ You seem to be getting excited.
+
+208
+561.52 --> 562.52
+ It's great.
+
+209
+562.52 --> 563.52
+ You're a G.
+
+210
+563.52 --> 564.52
+ You're right.
+
+211
+565.52 --> 566.52
+ I'm just kidding.
+
+212
+567.52 --> 568.52
+ It's a big house.
+
+213
+568.52 --> 570.52
+ I'm embarrassed to show it.
+
+214
+571.52 --> 572.76
+ Thank you very much.
+
+215
+572.76 --> 574.76
+ Do you do anything?
+
+216
+574.76 --> 576.14
+ Do you do anything you like?
+
+217
+576.14 --> 578.52
+ I do massage every day.
+
+218
+578.52 --> 579.52
+ I see.
+
+219
+579.52 --> 580.52
+ Massage?
+
+220
+580.52 --> 581.52
+ Massage?
+
+221
+581.52 --> 583.52
+ That's a good idea.
+
+222
+583.52 --> 585.52
+ That's a good idea.
+
+223
+585.52 --> 586.52
+ I see.
+
+224
+586.52 --> 592.65
+ I'm proud of myself.
+
+225
+592.65 --> 594.65
+ Yes, I'm proud of you.
+
+226
+594.65 --> 596.65
+ Thank you for coming all the way here.
+
+227
+596.65 --> 597.65
+ Thank you.
+
+228
+602.30 --> 603.30
+ Are you taking a photo?
+
+229
+603.30 --> 605.30
+ I want to take a photo too.
+
+230
+605.30 --> 606.30
+ Really?
+
+231
+606.30 --> 607.30
+ Thank you very much.
+
+232
+607.30 --> 609.30
+ That's a good idea.
+
+233
+609.30 --> 611.30
+ Show me your finger.
+
+234
+611.30 --> 613.30
+ Be careful not to be seen.
+
+235
+613.30 --> 614.30
+ Okay.
+
+236
+616.30 --> 617.30
+ What?
+
+237
+617.30 --> 619.30
+ Show me your finger.
+
+238
+620.30 --> 622.30
+ It's embarrassing.
+
+239
+622.30 --> 625.30
+ I can see your underwear.
+
+240
+632.59 --> 634.59
+ Don't fight.
+
+241
+635.59 --> 638.59
+ I can see your underwear.
+
+242
+638.59 --> 639.59
+ No way.
+
+243
+640.59 --> 642.59
+ I can see my underwear.
+
+244
+642.59 --> 643.59
+ You can see it?
+
+245
+643.59 --> 644.59
+ Yes, I can see it.
+
+246
+644.59 --> 646.59
+ Show me.
+
+247
+647.59 --> 652.66
+ Show me your legs.
+
+248
+652.66 --> 654.66
+ It's amazing.
+
+249
+654.66 --> 655.66
+ It's beautiful.
+
+250
+655.66 --> 657.66
+ Your legs are beautiful.
+
+251
+659.66 --> 661.66
+ It's a bit white.
+
+252
+661.66 --> 662.66
+ That's right.
+
+253
+662.66 --> 664.66
+ Look at this line.
+
+254
+664.66 --> 666.66
+ It's amazing.
+
+255
+667.66 --> 668.66
+ Look at this.
+
+256
+668.66 --> 670.66
+ It's amazing.
+
+257
+670.66 --> 672.66
+ It's amazing.
+
+258
+672.66 --> 674.66
+ It's my first time to be told that.
+
+259
+674.66 --> 676.66
+ It's beautiful.
+
+260
+676.66 --> 677.66
+ That's right.
+
+261
+677.66 --> 679.66
+ It's comfortable to touch.
+
+262
+679.66 --> 681.66
+ It's the best.
+
+263
+681.66 --> 683.66
+ Is it okay to take a photo like this?
+
+264
+685.66 --> 695.24
+ I'm proud of you.
+
+265
+695.24 --> 697.24
+ It's okay.
+
+266
+697.24 --> 698.24
+ It's okay.
+
+267
+698.24 --> 700.24
+ Don't be embarrassed.
+
+268
+700.24 --> 702.24
+ I'm proud of you.
+
+269
+702.24 --> 704.24
+ I'll do it next time.
+
+270
+704.24 --> 706.24
+ I'll do it.
+
+271
+707.24 --> 709.24
+ This is the best photo.
+
+272
+709.24 --> 711.24
+ Look at this.
+
+273
+713.24 --> 715.24
+ Please take a photo of me.
+
+274
+715.24 --> 717.24
+ That's right.
+
+275
+718.24 --> 721.24
+ As you can see, I'm fine with everything.
+
+276
+722.24 --> 724.24
+ It's cute.
+
+277
+724.24 --> 728.24
+ I like your butt the most.
+
+278
+728.24 --> 729.24
+ My butt?
+
+279
+729.24 --> 732.24
+ I like your butt the most.
+
+280
+733.24 --> 734.24
+ I like your butt.
+
+281
+734.24 --> 736.24
+ I'm wearing a seat belt.
+
+282
+736.24 --> 737.24
+ Please show me.
+
+283
+737.24 --> 739.24
+ Show me your butt.
+
+284
+739.24 --> 741.24
+ I'm proud of you.
+
+285
+741.24 --> 743.24
+ I'm tall.
+
+286
+743.24 --> 744.24
+ Really?
+
+287
+744.24 --> 746.24
+ I'm tall.
+
+288
+746.24 --> 748.24
+ I'm embarrassed.
+
+289
+748.24 --> 750.24
+ It's okay.
+
+290
+750.24 --> 752.24
+ It's okay.
+
+291
+752.24 --> 754.24
+ Everyone is looking at me.
+
+292
+760.32 --> 765.68
+ I'm not wearing anything.
+
+293
+765.68 --> 767.68
+ I'm wearing a T-shirt.
+
+294
+767.68 --> 769.68
+ You have confidence in your butt.
+
+295
+769.68 --> 771.68
+ I have confidence in my butt.
+
+296
+771.68 --> 774.68
+ What's your hobby?
+
+297
+775.68 --> 777.68
+ My husband is a painter.
+
+298
+779.68 --> 781.68
+ I'm embarrassed.
+
+299
+781.68 --> 783.68
+ I'm told that a lot.
+
+300
+785.68 --> 786.68
+ That's great.
+
+301
+786.68 --> 788.68
+ The camera is close.
+
+302
+788.68 --> 790.68
+ I'll look at it first.
+
+303
+790.68 --> 792.68
+ The camera is close.
+
+304
+793.68 --> 794.68
+ Isn't it close?
+
+305
+794.68 --> 796.68
+ I'm sorry. I'll look at it first.
+
+306
+797.68 --> 799.68
+ I'm embarrassed.
+
+307
+799.68 --> 801.68
+ I think you are the best.
+
+308
+801.68 --> 803.68
+ No.
+
+309
+803.68 --> 805.68
+ I'm embarrassed.
+
+310
+805.68 --> 807.68
+ The camera is close.
+
+311
+807.68 --> 809.68
+ I'm sorry.
+
+312
+809.68 --> 811.68
+ It's close.
+
+313
+811.68 --> 813.68
+ I'm sorry.
+
+314
+813.68 --> 815.68
+ Don't be angry.
+
+315
+815.68 --> 817.68
+ I'm not angry.
+
+316
+817.68 --> 819.68
+ I'll look at it.
+
+317
+821.68 --> 822.68
+ I'm sorry.
+
+318
+822.68 --> 825.68
+ Why don't you sit down and talk?
+
+319
+825.68 --> 827.68
+ I think the camera will shrink.
+
+320
+829.68 --> 831.68
+ I'm nervous.
+
+321
+832.68 --> 834.68
+ Then let's go around.
+
+322
+834.68 --> 836.68
+ Really?
+
+323
+836.68 --> 839.68
+ We are men, so we can't help it.
+
+324
+841.68 --> 843.68
+ I'm nervous because I changed seats.
+
+325
+843.68 --> 844.68
+ Thank you.
+
+326
+844.68 --> 846.68
+ It's different every day.
+
+327
+846.68 --> 847.68
+ It's totally different.
+
+328
+847.68 --> 849.68
+ I can't help feeling different.
+
+329
+849.68 --> 851.68
+ It's new.
+
+330
+851.68 --> 853.68
+ I'm nervous.
+
+331
+854.68 --> 856.68
+ It's new.
+
+332
+856.68 --> 858.68
+ I'm excited.
+
+333
+858.68 --> 860.68
+ I've never had such a scene.
+
+334
+860.68 --> 862.68
+ I'm nervous.
+
+335
+862.68 --> 864.68
+ Nice to meet you.
+
+336
+864.68 --> 866.68
+ Nice to meet you.
+
+337
+866.68 --> 868.68
+ What should I do?
+
+338
+868.68 --> 870.68
+ Nice to meet you.
+
+339
+870.68 --> 872.68
+ Nice to meet you.
+
+340
+872.68 --> 874.68
+ It's warm.
+
+341
+875.68 --> 877.68
+ I'm shy.
+
+342
+877.68 --> 879.68
+ I see.
+
+343
+880.68 --> 882.68
+ Thank you.
+
+344
+884.68 --> 886.68
+ I'm touching you.
+
+345
+886.68 --> 888.68
+ I'm touching you.
+
+346
+888.68 --> 890.68
+ I'm touching you, too.
+
+347
+895.68 --> 898.68
+ What are you doing?
+
+348
+898.68 --> 900.68
+ What are you doing?
+
+349
+900.68 --> 902.68
+ I'm having fun.
+
+350
+904.68 --> 907.68
+ Can't I just touch you?
+
+351
+907.68 --> 909.68
+ I don't know.
+
+352
+909.68 --> 911.68
+ I don't know if you like it.
+
+353
+913.68 --> 916.68
+ I'm not good at touching.
+
+354
+916.68 --> 918.68
+ I want you to be bolder.
+
+355
+918.68 --> 920.68
+ I'm not good at it.
+
+356
+920.68 --> 922.68
+ Be bolder.
+
+357
+922.68 --> 924.68
+ I'm not good at it.
+
+358
+924.68 --> 926.68
+ I'm sorry.
+
+359
+926.68 --> 930.68
+ Do you often do it?
+
+360
+930.68 --> 933.68
+ I don't get used to it yet.
+
+361
+933.68 --> 935.68
+ You don't get used to it.
+
+362
+935.68 --> 937.68
+ You have a great skin.
+
+363
+937.68 --> 939.68
+ You have great skin.
+
+364
+947.87 --> 949.87
+ I'm not good at it.
+
+365
+949.87 --> 952.87
+ You have great skin.
+
+366
+952.87 --> 954.87
+ You have great skin.
+
+367
+954.87 --> 956.87
+ Do you like it?
+
+368
+956.87 --> 958.87
+ You're so proud of yourself.
+
+369
+960.87 --> 962.87
+ Do you want to change your clothes?
+
+370
+962.87 --> 964.87
+ Yes, please.
+
+371
+964.87 --> 966.87
+ Thank you.
+
+372
+966.87 --> 973.38
+ How do you feel?
+
+373
+973.38 --> 974.72
+ I feel like she's changed.
+
+374
+974.72 --> 976.38
+ She's so fresh.
+
+375
+976.38 --> 977.92
+ Yes, she is.
+
+376
+977.92 --> 979.46
+ Speaking of freshness,
+
+377
+980.46 --> 983.22
+ can you tell us about one thing that's happening?
+
+378
+983.22 --> 985.80
+ What are you thinking about?
+
+379
+985.80 --> 988.42
+ What are you trying to do?
+
+380
+988.42 --> 991.46
+ When we first communicate,
+
+381
+991.46 --> 993.00
+ it starts with a kiss, right?
+
+382
+993.00 --> 994.04
+ What?
+
+383
+994.04 --> 995.50
+ That's a foreign story.
+
+384
+995.50 --> 997.38
+ That's Japan.
+
+385
+997.38 --> 998.88
+ A kiss?
+
+386
+998.88 --> 1003.04
+ I'm not a foreigner, but I'm a foreign kisser.
+
+387
+1003.08 --> 1005.20
+ What do you think?
+
+388
+1005.20 --> 1006.20
+ Is it okay?
+
+389
+1006.20 --> 1013.84
+ She said, what?
+
+390
+1013.84 --> 1015.02
+ I don't think it's okay.
+
+391
+1015.02 --> 1016.52
+ What do you mean?
+
+392
+1016.52 --> 1018.64
+ Okay, I'll do it then.
+
+393
+1020.26 --> 1021.26
+ Is it okay?
+
+394
+1021.26 --> 1022.52
+ It's okay.
+
+395
+1022.52 --> 1025.56
+ I didn't expect it to develop so quickly.
+
+396
+1025.56 --> 1029.56
+ But there's a lot going on.
+
+397
+1029.56 --> 1031.26
+ It's just a greeting.
+
+398
+1031.26 --> 1032.02
+ Bye.
+
+399
+1032.02 --> 1034.30
+ Let's do one group at a time.
+
+400
+1034.30 --> 1036.64
+ I want to do it.
+
+401
+1036.64 --> 1038.30
+ I want everyone to do it.
+
+402
+1038.34 --> 1039.34
+ I'm getting nervous.
+
+403
+1043.00 --> 1044.00
+ What do you think?
+
+404
+1048.12 --> 1049.12
+ Do it.
+
+405
+1055.31 --> 1056.93
+ I don't think it's difficult.
+
+406
+1056.93 --> 1058.09
+ You don't think it's difficult?
+
+407
+1058.09 --> 1059.51
+ You're not going to say anything.
+
+408
+1059.51 --> 1064.57
+ Are you a kid?
+
+409
+1064.57 --> 1065.83
+ I'm a kid.
+
+410
+1065.83 --> 1066.83
+ Are you a kid?
+
+411
+1066.83 --> 1068.95
+ I feel like I'm being watched.
+
+412
+1068.95 --> 1070.33
+ What do you think, Taku?
+
+413
+1070.33 --> 1071.61
+ I don't know.
+
+414
+1072.75 --> 1076.57
+ I'm a bit happy and a bit sad.
+
+415
+1076.57 --> 1078.11
+ You're a bit happy.
+
+416
+1078.11 --> 1079.23
+ What do you think, Oku?
+
+417
+1079.61 --> 1084.58
+ It's really a bit frustrating.
+
+418
+1085.76 --> 1086.60
+ She says she's frustrated.
+
+419
+1086.60 --> 1088.06
+ Do that again for her.
+
+420
+1088.06 --> 1100.44
+ When she sees you?
+
+421
+1100.44 --> 1101.40
+ I know.
+
+422
+1101.40 --> 1103.32
+ I really feel embarrassed.
+
+423
+1104.94 --> 1106.48
+ I feel ashamed.
+
+424
+1113.22 --> 1114.64
+ How about a kiss?
+
+425
+1114.64 --> 1116.18
+ A kiss before getting married?
+
+426
+1116.18 --> 1118.00
+ Please don't.
+
+427
+1118.00 --> 1119.68
+ I feel embarrassed.
+
+428
+1119.68 --> 1122.00
+ Do it already.
+
+429
+1122.00 --> 1123.42
+ I'm embarrassed.
+
+430
+1177.07 --> 1178.07
+ Thank you.
+
+431
+1178.07 --> 1198.82
+ I'm sorry, I was too excited.
+
+432
+1198.82 --> 1200.32
+ I'm sorry.
+
+433
+1200.32 --> 1202.82
+ You look a bit scared.
+
+434
+1203.82 --> 1205.82
+ That face is cute.
+
+435
+1205.82 --> 1207.82
+ It's embarrassing to show your face.
+
+436
+1213.40 --> 1215.40
+ I'll do it.
+
+437
+1215.40 --> 1228.14
+ I was so embarrassed that I had to show my face.
+
+438
+1228.14 --> 1229.14
+ Sorry.
+
+439
+1229.64 --> 1231.14
+ You can do it.
+
+440
+1231.14 --> 1232.14
+ I'll look at it.
+
+441
+1234.70 --> 1235.70
+ I'll do it.
+
+442
+1235.70 --> 1236.70
+ Sure.
+
+443
+1236.70 --> 1237.70
+ Hold it.
+
+444
+1237.70 --> 1239.70
+ Hold it with your hand.
+
+445
+1240.70 --> 1242.70
+ It's longer than usual.
+
+446
+1246.21 --> 1250.93
+ I want to take a picture.
+
+447
+1250.93 --> 1252.93
+ It's longer than usual.
+
+448
+1252.93 --> 1257.01
+ It's longer than usual.
+
+449
+1258.01 --> 1260.01
+ I don't usually look at it.
+
+450
+1260.01 --> 1264.01
+ I feel like it's getting smaller inside.
+
+451
+1264.01 --> 1265.01
+ Yes.
+
+452
+1266.01 --> 1269.01
+ We still have a lot left.
+
+453
+1273.01 --> 1275.01
+ Can I put it here?
+
+454
+1277.01 --> 1280.01
+ I'll put it here.
+
+455
+1291.01 --> 1296.01
+ I'm nervous because my wife is in front of me.
+
+456
+1296.01 --> 1297.01
+ I see.
+
+457
+1297.01 --> 1300.01
+ You're back to your usual self.
+
+458
+1301.01 --> 1305.01
+ I'm nervous because my wife is in front of me.
+
+459
+1305.01 --> 1307.01
+ You look like a man.
+
+460
+1308.01 --> 1316.01
+ When I was with the lady, I looked like a man.
+
+461
+1316.01 --> 1317.01
+ Did you look like a man?
+
+462
+1317.01 --> 1318.01
+ Really?
+
+463
+1319.01 --> 1321.01
+ I see.
+
+464
+1322.01 --> 1324.01
+ I was told that for the first time.
+
+465
+1324.01 --> 1325.01
+ I'm glad.
+
+466
+1325.01 --> 1326.01
+ I'm glad.
+
+467
+1326.01 --> 1328.01
+ I can see the difference.
+
+468
+1329.01 --> 1333.01
+ Then, you might look like a woman.
+
+469
+1333.01 --> 1335.01
+ I might look like a woman.
+
+470
+1336.01 --> 1339.01
+ I'll take a picture of you.
+
+471
+1341.01 --> 1342.01
+ I see.
+
+472
+1342.01 --> 1344.01
+ I saw a lot of pictures.
+
+473
+1344.01 --> 1345.01
+ That's amazing.
+
+474
+1345.01 --> 1346.01
+ That's amazing.
+
+475
+1356.19 --> 1358.19
+ Please take a picture.
+
+476
+1359.19 --> 1360.19
+ Over there.
+
+477
+1360.19 --> 1361.19
+ That's true.
+
+478
+1362.19 --> 1365.19
+ I'll take a picture of you.
+
+479
+1491.98 --> 1494.98
+ You look beautiful.
+
+480
+1496.98 --> 1498.98
+ You look beautiful.
+
+481
+1498.98 --> 1500.98
+ You look beautiful.
+
+482
+1500.98 --> 1519.62
+ Let's take a picture.
+
+483
+1601.14 --> 1603.14
+ What are you doing?
+
+484
+1604.14 --> 1606.14
+ I want to take a picture of you.
+
+485
+1607.14 --> 1633.94
+ You look great.
+
+486
+1634.94 --> 1644.10
+ I'm glad.
+
+487
+1645.10 --> 1646.10
+ I'm glad.
+
+488
+1646.10 --> 1647.10
+ I'm glad.
+
+489
+1648.10 --> 1650.10
+ You have more hair.
+
+490
+1650.10 --> 1653.54
+ I'm embarrassed.
+
+491
+1653.54 --> 1655.54
+ Your hair is a little wet.
+
+492
+1659.54 --> 1660.54
+ Is it wet?
+
+493
+1660.54 --> 1662.54
+ Let me touch your hair.
+
+494
+1663.54 --> 1664.54
+ Is it wet?
+
+495
+1664.54 --> 1665.54
+ Let me touch your hair.
+
+496
+1665.54 --> 1667.54
+ Would you like to touch your hair?
+
+497
+1667.54 --> 1669.54
+ Is it wet?
+
+498
+1671.54 --> 1672.54
+ Is it wet?
+
+499
+1673.54 --> 1675.54
+ It's easy to apply, isn't it?
+
+500
+1676.54 --> 1678.54
+ It's easy to apply, isn't it?
+
+501
+1682.81 --> 1684.81
+ It's easy to apply, isn't it?
+
+502
+1733.14 --> 1737.14
+ How long does it take to finish?
+
+503
+1740.78 --> 1745.56
+ What are you doing?
+
+504
+1746.56 --> 1748.56
+ I'm touching your hair.
+
+505
+1778.14 --> 1780.14
+ Does it feel good?
+
+506
+1780.14 --> 1781.14
+ Does it feel good?
+
+507
+1781.14 --> 1782.14
+ Yes.
+
+508
+1782.14 --> 1783.14
+ Is it?
+
+509
+1783.14 --> 1784.14
+ I'm glad.
+
+510
+1784.14 --> 1792.27
+ I'm glad.
+
+511
+1792.27 --> 1796.76
+ What are you doing?
+
+512
+1796.76 --> 1797.76
+ It's wet.
+
+513
+1798.76 --> 1799.76
+ It's wet.
+
+514
+1799.76 --> 1805.57
+ What are you doing?
+
+515
+1805.57 --> 1806.57
+ I'm excited to see you.
+
+516
+1806.57 --> 1813.46
+ I'm excited to see you.
+
+517
+1813.46 --> 1830.77
+ I should show you my hair.
+
+518
+1830.77 --> 1832.77
+ It's better to be excited.
+
+519
+1843.95 --> 1851.49
+ You're more bold than usual.
+
+520
+1851.49 --> 1854.49
+ I think it's more fun to do it, isn't it?
+
+521
+1854.49 --> 1855.91
+ I think it's a good idea.
+
+522
+1855.91 --> 1857.33
+ It's amazing.
+
+523
+1857.33 --> 1908.56
+ It's much better than before we left.
+
+524
+1908.56 --> 1910.14
+ It's amazing.
+
+525
+1910.14 --> 1911.18
+ What's wrong?
+
+526
+1911.18 --> 1912.48
+ It's amazing.
+
+527
+1912.48 --> 1913.64
+ It's amazing.
+
+528
+1913.64 --> 1915.90
+ You're not the one who's amazing.
+
+529
+1915.90 --> 1916.94
+ I'm sorry.
+
+530
+1916.94 --> 1917.94
+ I get it.
+
+531
+1917.94 --> 1919.32
+ I see.
+
+532
+1919.32 --> 1920.56
+ Is this the one?
+
+533
+1920.56 --> 1921.56
+ It's scary.
+
+534
+1921.56 --> 1923.36
+ It's like we're separated.
+
+535
+1923.36 --> 1926.14
+ It's okay to do anything.
+
+536
+1926.14 --> 1928.02
+ Really?
+
+537
+1928.02 --> 1929.32
+ It's scary.
+
+538
+1929.32 --> 1930.90
+ The bath is separate.
+
+539
+1931.70 --> 1933.40
+ I'll give you the key.
+
+540
+1933.40 --> 1936.02
+ Hold this for a second.
+
+541
+1936.02 --> 1938.52
+ It's all separated.
+
+542
+1938.52 --> 1940.10
+ Here you go.
+
+543
+1941.24 --> 1942.82
+ Be careful.
+
+544
+1942.82 --> 1947.00
+ Thank you very much.
+
+545
+1947.00 --> 1948.62
+ Here you go.
+
+546
+1950.04 --> 1954.95
+ Thank you very much.
+
+547
+1954.95 --> 1959.33
+ Thank you very much.
+
+548
+1959.33 --> 1960.99
+ I'll give it to you later.
+
+549
+1964.41 --> 1966.45
+ We're here.
+
+550
+1966.45 --> 1968.41
+ It's so big.
+
+551
+1968.45 --> 1969.83
+ It's a nice room.
+
+552
+1969.83 --> 1972.03
+ The air conditioner is on.
+
+553
+1972.03 --> 1974.11
+ It's so warm.
+
+554
+1974.11 --> 1975.53
+ What are we going to do after this?
+
+555
+1975.53 --> 1976.65
+ After this?
+
+556
+1976.65 --> 1979.69
+ We'll take a bath and get to know each other.
+
+557
+1979.69 --> 1982.03
+ Then we'll have dinner.
+
+558
+1982.03 --> 1984.49
+ Then we'll go to the beach.
+
+559
+1986.83 --> 1988.11
+ Don't drop the camera.
+
+560
+1988.11 --> 1989.87
+ It's okay. It's dangerous.
+
+561
+1991.75 --> 1992.95
+ Please come up.
+
+562
+1992.95 --> 1994.15
+ This way.
+
+563
+1994.15 --> 1995.65
+ Okay.
+
+564
+1995.65 --> 1997.15
+ Go straight.
+
+565
+1997.19 --> 1999.39
+ I'm looking forward to the bath.
+
+566
+1999.39 --> 2000.73
+ Come on in.
+
+567
+2000.73 --> 2002.23
+ This is it.
+
+568
+2002.23 --> 2003.61
+ Wow.
+
+569
+2003.61 --> 2004.61
+ It's amazing.
+
+570
+2005.61 --> 2007.49
+ It's a nice room.
+
+571
+2007.49 --> 2010.03
+ It's nice, isn't it?
+
+572
+2010.03 --> 2011.53
+ Is there an outdoor bath?
+
+573
+2011.53 --> 2013.53
+ Yes, there is.
+
+574
+2013.53 --> 2015.11
+ It's an outdoor bath, right?
+
+575
+2015.11 --> 2017.27
+ Wow, it's amazing.
+
+576
+2017.27 --> 2018.27
+ It's so big.
+
+577
+2018.27 --> 2019.81
+ It's nice.
+
+578
+2019.81 --> 2023.03
+ Please take a picture of us.
+
+579
+2023.03 --> 2025.11
+ We'll take a lot of pictures later.
+
+580
+2025.11 --> 2026.89
+ Let's take a bath.
+
+581
+2026.89 --> 2028.15
+ Okay.
+
+582
+2028.15 --> 2029.77
+ Let's take a bath.
+
+583
+2029.77 --> 2032.11
+ I don't think we should hold the camera.
+
+584
+2032.11 --> 2034.73
+ It's weird.
+
+585
+2034.73 --> 2036.39
+ It's hard to hold the camera.
+
+586
+2036.39 --> 2039.23
+ It's an ordinary outdoor bath.
+
+587
+2039.23 --> 2042.23
+ I've never taken a bath before.
+
+588
+2042.23 --> 2043.77
+ Me neither.
+
+589
+2043.77 --> 2046.07
+ We didn't take a bath at a hot spring.
+
+590
+2046.07 --> 2048.39
+ We took a bath when we got married.
+
+591
+2048.39 --> 2050.03
+ That's right.
+
+592
+2050.03 --> 2052.23
+ Did you take a bath together?
+
+593
+2052.23 --> 2054.11
+ It was a long time ago.
+
+594
+2054.11 --> 2056.11
+ I see.
+
+595
+2056.11 --> 2058.27
+ I'm sorry.
+
+596
+2058.27 --> 2059.93
+ I forgot to bring a towel.
+
+597
+2059.93 --> 2061.93
+ Wait a minute.
+
+598
+2061.93 --> 2064.43
+ Where is it?
+
+599
+2064.43 --> 2067.23
+ Thank you.
+
+600
+2067.23 --> 2069.39
+ I forgot to bring a towel.
+
+601
+2069.39 --> 2071.39
+ I'm sorry.
+
+602
+2071.39 --> 2074.43
+ I don't want you to take a bath.
+
+603
+2074.43 --> 2076.73
+ I'll take a bath myself.
+
+604
+2076.73 --> 2079.85
+ You can take a bath.
+
+605
+2079.85 --> 2081.57
+ I'll take a bath first.
+
+606
+2081.57 --> 2082.85
+ Okay.
+
+607
+2082.97 --> 2085.97
+ I'm sorry.
+
+608
+2085.97 --> 2088.47
+ You have a great butt.
+
+609
+2088.47 --> 2090.47
+ I'll take a bath first.
+
+610
+2090.47 --> 2092.47
+ You have a great butt.
+
+611
+2092.47 --> 2095.13
+ You can take a bath now.
+
+612
+2095.13 --> 2097.47
+ Why?
+
+613
+2097.47 --> 2099.97
+ Wait a minute.
+
+614
+2099.97 --> 2101.47
+ It's already started.
+
+615
+2101.47 --> 2103.47
+ Everyone can't take a bath.
+
+616
+2103.47 --> 2105.47
+ Don't worry about it.
+
+617
+2105.47 --> 2109.17
+ Think of it as air.
+
+618
+2109.29 --> 2113.29
+ The air is so strong.
+
+619
+2113.29 --> 2117.29
+ I can't help it.
+
+620
+2117.29 --> 2123.52
+ It's a little cold.
+
+621
+2123.52 --> 2125.52
+ You take a bath quietly.
+
+622
+2125.52 --> 2129.52
+ I'm embarrassed to take a bath quietly.
+
+623
+2129.52 --> 2131.02
+ Do you need help?
+
+624
+2131.02 --> 2132.02
+ I don't need help.
+
+625
+2132.02 --> 2134.02
+ I'll take a bath after I wash my body.
+
+626
+2134.02 --> 2136.02
+ Okay.
+
+627
+2136.02 --> 2138.02
+ I'll take a bath first.
+
+628
+2138.64 --> 2144.15
+ It's a strange situation.
+
+629
+2148.15 --> 2160.16
+ Everyone is great.
+
+630
+2173.05 --> 2175.05
+ Do you want to take a bath?
+
+631
+2175.05 --> 2177.05
+ I'll take a bath.
+
+632
+2177.05 --> 2179.05
+ Do you want to take a bath here?
+
+633
+2179.05 --> 2181.05
+ No, I don't want to.
+
+634
+2181.05 --> 2183.05
+ That's too bad.
+
+635
+2183.05 --> 2185.05
+ I'll wait for you here.
+
+636
+2185.05 --> 2188.81
+ Please come soon.
+
+637
+2188.81 --> 2190.81
+ It's cold.
+
+638
+2191.43 --> 2195.13
+ Thank you for your hard work.
+
+639
+2219.46 --> 2222.46
+ Everyone is beautiful.
+
+640
+2222.46 --> 2248.46
+ It's already started.
+
+641
+2248.46 --> 2261.50
+ Miho
+
+642
+2261.50 --> 2269.48
+ I'll take a bath soon.
+
+643
+2269.48 --> 2271.48
+ Please look this way.
+
+644
+2275.48 --> 2284.87
+ Are you going to use that?
+
+645
+2308.73 --> 2310.73
+ I came to pick you up without waiting.
+
+646
+2311.35 --> 2315.68
+ You can go home.
+
+647
+2341.86 --> 2368.02
+ Are you okay?
+
+648
+2368.02 --> 2370.02
+ It was like this when I first met you.
+
+649
+2370.02 --> 2372.02
+ That's a long time ago.
+
+650
+2374.02 --> 2376.02
+ Everyone is beautiful.
+
+651
+2376.02 --> 2382.53
+ I'm going to take a bath.
+
+652
+2382.53 --> 2384.53
+ I'm going to take a bath.
+
+653
+2384.53 --> 2386.53
+ I'm going to take a bath.
+
+654
+2387.15 --> 2389.15
+ It's hot.
+
+655
+2391.15 --> 2393.15
+ Everyone's hands are warm.
+
+656
+2395.15 --> 2401.54
+ It's refreshing.
+
+657
+2401.54 --> 2403.54
+ I'm refreshing.
+
+658
+2407.54 --> 2409.54
+ Why don't you take a bath?
+
+659
+2409.54 --> 2411.54
+ I can't help it.
+
+660
+2411.54 --> 2413.54
+ Already?
+
+661
+2413.54 --> 2415.54
+ Again?
+
+662
+2415.54 --> 2417.54
+ I don't want to.
+
+663
+2417.54 --> 2419.54
+ I'm going to take a bath.
+
+664
+2420.16 --> 2422.16
+ You came for a bath.
+
+665
+2431.92 --> 2433.92
+ I feel sorry for you.
+
+666
+2439.92 --> 2441.92
+ I'm happy.
+
+667
+2441.92 --> 2443.92
+ Thank you so much.
+
+668
+2443.92 --> 2445.92
+ Thank you.
+
+669
+2449.92 --> 2451.92
+ Wait a minute.
+
+670
+2453.92 --> 2455.92
+ Is it too early?
+
+671
+2455.92 --> 2457.92
+ No, it's not.
+
+672
+2457.92 --> 2459.92
+ It's too early, isn't it?
+
+673
+2461.92 --> 2463.92
+ It's too early.
+
+674
+2463.92 --> 2465.92
+ It's too early, isn't it?
+
+675
+2474.38 --> 2476.38
+ What is it?
+
+676
+2476.38 --> 2478.38
+ Please warm it up.
+
+677
+2478.38 --> 2480.38
+ Is this on?
+
+678
+2480.38 --> 2482.38
+ Yes, it is.
+
+679
+2484.38 --> 2486.38
+ Wait a minute.
+
+680
+2486.38 --> 2488.38
+ It's not like that.
+
+681
+2488.38 --> 2490.38
+ It's embarrassing.
+
+682
+2490.38 --> 2492.38
+ It's embarrassing, isn't it?
+
+683
+2492.38 --> 2494.38
+ I see.
+
+684
+2494.38 --> 2496.38
+ I'm in trouble.
+
+685
+2496.38 --> 2498.38
+ The person behind me is holding it.
+
+686
+2500.38 --> 2502.38
+ I'm getting goose bumps.
+
+687
+2502.38 --> 2504.38
+ It's been tickling me for a while.
+
+688
+2514.38 --> 2516.38
+ Everyone is amazing.
+
+689
+2522.38 --> 2524.38
+ Everyone is amazing.
+
+690
+2534.38 --> 2536.38
+ It feels good to kiss.
+
+691
+2536.38 --> 2538.38
+ Thank you.
+
+692
+2538.38 --> 2540.38
+ It's exciting just to kiss.
+
+693
+2542.38 --> 2544.38
+ It's embarrassing to start at the same time, isn't it?
+
+694
+2546.38 --> 2548.38
+ But no one will make an opportunity.
+
+695
+2548.38 --> 2550.38
+ No way.
+
+696
+2550.38 --> 2552.38
+ It's close.
+
+697
+2554.38 --> 2556.38
+ You want to do it, don't you?
+
+698
+2556.38 --> 2558.38
+ You want to do it, so do it.
+
+699
+2562.38 --> 2564.38
+ I can see it well.
+
+700
+2564.38 --> 2566.38
+ No.
+
+701
+2568.38 --> 2570.38
+ I'll show you.
+
+702
+2570.38 --> 2572.38
+ No.
+
+703
+2572.38 --> 2574.38
+ I'm getting excited.
+
+704
+2574.38 --> 2576.38
+ No.
+
+705
+2576.38 --> 2578.38
+ It's too early.
+
+706
+2580.38 --> 2582.38
+ I'm getting excited.
+
+707
+2582.38 --> 2584.38
+ You're being aggressive.
+
+708
+2584.38 --> 2586.38
+ Do it.
+
+709
+2586.38 --> 2588.38
+ Do it.
+
+710
+2588.38 --> 2590.38
+ I'll look at you.
+
+711
+2590.38 --> 2592.38
+ I'll look at you.
+
+712
+2601.21 --> 2605.04
+ You're being aggressive.
+
+713
+2609.24 --> 2611.24
+ Are you looking at me?
+
+714
+2611.24 --> 2618.33
+ Please look closer.
+
+715
+2618.33 --> 2620.33
+ I'm getting excited.
+
+716
+2620.33 --> 2622.33
+ I'm getting excited.
+
+717
+2624.33 --> 2626.33
+ You're being aggressive.
+
+718
+2636.51 --> 2638.51
+ This is a great breast.
+
+719
+2638.51 --> 2640.51
+ It's amazing.
+
+720
+2644.51 --> 2646.51
+ What do you think?
+
+721
+2646.51 --> 2648.51
+ Do you want me to do it?
+
+722
+2648.51 --> 2650.51
+ No.
+
+723
+2650.51 --> 2652.51
+ You have beautiful breasts.
+
+724
+2652.51 --> 2654.51
+ What are you touching?
+
+725
+2654.51 --> 2656.01
+ I want everyone to touch it.
+
+726
+2656.01 --> 2659.01
+ I saw my wife and wanted to touch it.
+
+727
+2659.01 --> 2660.01
+ That's true.
+
+728
+2660.01 --> 2661.01
+ That's amazing.
+
+729
+2661.01 --> 2662.01
+ I'm sorry.
+
+730
+2663.01 --> 2665.01
+ I want you to touch this one too.
+
+731
+2666.01 --> 2668.01
+ Everyone is touching it.
+
+732
+2669.51 --> 2671.01
+ It's hard.
+
+733
+2671.01 --> 2673.01
+ You're good at this.
+
+734
+2673.01 --> 2674.01
+ Really?
+
+735
+2674.01 --> 2675.01
+ What if it goes away?
+
+736
+2675.01 --> 2677.01
+ You can't put it on me.
+
+737
+2679.01 --> 2680.01
+ Look this way.
+
+738
+2680.01 --> 2681.51
+ Look at this.
+
+739
+2681.51 --> 2683.51
+ Everyone is finally able to do this.
+
+740
+2683.51 --> 2685.51
+ It's natural to get excited.
+
+741
+2685.51 --> 2687.01
+ It's standing on its own.
+
+742
+2687.01 --> 2689.01
+ It's standing on its own.
+
+743
+2689.01 --> 2691.01
+ This is the swapping of wishes.
+
+744
+2695.01 --> 2697.01
+ The situation is very messy.
+
+745
+2697.01 --> 2699.01
+ What are you doing?
+
+746
+2699.01 --> 2701.01
+ You can't do that.
+
+747
+2703.01 --> 2705.01
+ I'll hold it for you.
+
+748
+2705.01 --> 2707.01
+ That's amazing.
+
+749
+2714.01 --> 2716.01
+ That's amazing.
+
+750
+2718.01 --> 2720.01
+ It's very stiff.
+
+751
+2722.01 --> 2724.01
+ You shouldn't do that.
+
+752
+2724.01 --> 2726.01
+ You shouldn't do that.
+
+753
+2726.01 --> 2729.01
+ Look at your husband. He's talking a lot.
+
+754
+2730.01 --> 2733.01
+ He's been doing this for a long time.
+
+755
+2733.01 --> 2735.01
+ He's enjoying it.
+
+756
+2735.01 --> 2737.01
+ You should look over there too.
+
+757
+2739.01 --> 2741.01
+ I can't see it.
+
+758
+2741.51 --> 2743.51
+ Okay.
+
+759
+2745.51 --> 2747.51
+ He's so into it.
+
+760
+2747.51 --> 2749.51
+ He's so into it.
+
+761
+2749.51 --> 2751.51
+ That's amazing.
+
+762
+2751.51 --> 2753.51
+ It's intense.
+
+763
+2758.51 --> 2760.51
+ It was so nice.
+
+764
+2760.51 --> 2762.51
+ Is it always like this?
+
+765
+2762.51 --> 2764.51
+ Is it always like this?
+
+766
+2764.51 --> 2766.51
+ Why don't you give it a try?
+
+767
+2766.51 --> 2768.51
+ Give it a try.
+
+768
+2769.01 --> 2771.01
+ Husband, try it with your wife.
+
+769
+2775.01 --> 2777.01
+ When I look at that,
+
+770
+2779.01 --> 2782.01
+ I wonder if it looked like that.
+
+771
+2782.01 --> 2784.01
+ I wonder if it looked like that.
+
+772
+2784.01 --> 2786.01
+ I see.
+
+773
+2788.01 --> 2790.01
+ It's covered by breasts.
+
+774
+2790.01 --> 2792.01
+ It's covered by breasts.
+
+775
+2794.01 --> 2796.01
+ That's amazing.
+
+776
+2796.01 --> 2798.01
+ That's amazing.
+
+777
+2798.01 --> 2799.35
+ Can I touch it?
+
+778
+2799.35 --> 2800.35
+ Sure.
+
+779
+2800.35 --> 2801.85
+ I want to touch it too.
+
+780
+2804.85 --> 2806.47
+ Touch it.
+
+781
+2806.47 --> 2807.85
+ Do you want to lick it?
+
+782
+2807.85 --> 2810.13
+ Can I lick it?
+
+783
+2810.13 --> 2811.77
+ Sure, you can do that today.
+
+784
+2811.77 --> 2814.05
+ Can I lick it today?
+
+785
+2814.05 --> 2815.67
+ It's only for today.
+
+786
+2815.67 --> 2817.01
+ Can I lick it?
+
+787
+2819.67 --> 2821.39
+ Don't lick it.
+
+788
+2821.39 --> 2822.89
+ Don't look back.
+
+789
+2822.89 --> 2824.35
+ You'll make a mistake.
+
+790
+2825.35 --> 2827.85
+ I'm looking at it from this side.
+
+791
+2828.19 --> 2831.31
+ I told you, I'm looking at it.
+
+792
+2831.31 --> 2834.19
+ She's looking at it.
+
+793
+2834.89 --> 2837.89
+ If you want to do that,
+
+794
+2837.89 --> 2839.55
+ I'll do what you want.
+
+795
+2839.55 --> 2840.59
+ What?
+
+796
+2840.59 --> 2841.93
+ What is it?
+
+797
+2841.93 --> 2844.35
+ Wait a minute.
+
+798
+2844.35 --> 2845.73
+ What is it?
+
+799
+2845.73 --> 2847.27
+ Is it a banana?
+
+800
+2847.27 --> 2848.93
+ Is it a banana?
+
+801
+2848.93 --> 2850.47
+ What do you think?
+
+802
+2850.47 --> 2853.19
+ Don't look so shocked.
+
+803
+2853.19 --> 2853.97
+ I'm not.
+
+804
+2853.97 --> 2855.43
+ You're not, right?
+
+805
+2855.43 --> 2856.27
+ It's nice.
+
+806
+2856.27 --> 2857.39
+ You're licking it.
+
+807
+2857.39 --> 2858.51
+ I have to do it when I get home.
+
+808
+2858.51 --> 2861.01
+ I've never done this before.
+
+809
+2861.01 --> 2862.51
+ It feels good.
+
+810
+2862.51 --> 2863.89
+ I want to do it too.
+
+811
+2863.89 --> 2865.31
+ It's nice.
+
+812
+2865.31 --> 2868.01
+ It's amazing.
+
+813
+2868.01 --> 2869.85
+ It might be a good idea.
+
+814
+2869.85 --> 2871.23
+ It's soft.
+
+815
+2871.23 --> 2872.89
+ I've never done this before.
+
+816
+2874.51 --> 2876.39
+ I'm glad you did it.
+
+817
+2876.39 --> 2877.47
+ It's amazing.
+
+818
+2877.47 --> 2878.47
+ It's big, right?
+
+819
+2878.47 --> 2879.47
+ It's nice.
+
+820
+2879.47 --> 2880.69
+ It's nice.
+
+821
+2880.69 --> 2882.31
+ How is it compared to your husband?
+
+822
+2883.19 --> 2887.69
+ My husband is fine, but I'm fine too.
+
+823
+2887.69 --> 2888.47
+ Really?
+
+824
+2888.47 --> 2890.89
+ Is this one that good?
+
+825
+2890.89 --> 2893.19
+ I like both of them.
+
+826
+2893.19 --> 2894.19
+ Both of them?
+
+827
+2894.19 --> 2896.43
+ If you say so, I'm a bit worried.
+
+828
+2896.43 --> 2897.85
+ It's nice.
+
+829
+2897.85 --> 2899.35
+ How about that one?
+
+830
+2899.35 --> 2900.97
+ That one.
+
+831
+2900.97 --> 2903.69
+ Can I try it?
+
+832
+2903.69 --> 2904.97
+ Sure.
+
+833
+2906.19 --> 2908.19
+ It's amazing.
+
+834
+2908.19 --> 2909.43
+ It's amazing.
+
+835
+2910.43 --> 2912.43
+ It's amazing.
+
+836
+2913.55 --> 2914.77
+ It's amazing.
+
+837
+2914.77 --> 2916.77
+ I've never seen you lick it like that.
+
+838
+2917.43 --> 2919.77
+ I haven't done it in a long time.
+
+839
+2919.77 --> 2922.01
+ I'm sorry to bother you with your work.
+
+840
+2922.01 --> 2923.55
+ It's nice.
+
+841
+2923.55 --> 2924.55
+ It's nice.
+
+842
+2924.55 --> 2929.12
+ It's like your husband's.
+
+843
+2929.12 --> 2931.12
+ I'm licking it.
+
+844
+2931.12 --> 2932.58
+ It's nice.
+
+845
+2933.50 --> 2935.00
+ It's good?
+
+846
+2938.28 --> 2941.08
+ I feel something great.
+
+847
+2941.08 --> 2943.46
+ Your husband is yells at you.
+
+848
+2943.46 --> 2945.04
+ It's nice.
+
+849
+2945.20 --> 2947.82
+ He groans at you.
+
+850
+2949.46 --> 2952.74
+ Is your husband like that too?
+
+851
+2952.74 --> 2954.58
+ Which one is better?
+
+852
+2957.20 --> 2959.96
+ It's completely different.
+
+853
+2959.96 --> 2961.20
+ It is completely different.
+
+854
+2961.20 --> 2962.20
+ That's right.
+
+855
+2962.20 --> 2963.70
+ It's so different.
+
+856
+2963.70 --> 2966.00
+ I know, right?
+
+857
+2966.00 --> 2967.50
+ Oh, my eyes!
+
+858
+2967.50 --> 2968.82
+ What's wrong?
+
+859
+2968.82 --> 2970.62
+ You can keep going.
+
+860
+2970.62 --> 2972.00
+ Okay.
+
+861
+2972.00 --> 2973.20
+ I can't believe it.
+
+862
+2973.20 --> 2978.28
+ I'm so happy to see my wife working so hard.
+
+863
+2978.28 --> 2980.96
+ You must be excited too.
+
+864
+2980.96 --> 2983.96
+ I'm a bit jealous.
+
+865
+2983.96 --> 2988.20
+ I'm so happy to see my wife working harder than I am.
+
+866
+2988.20 --> 2990.96
+ I can't believe I'm doing this in front of her.
+
+867
+2990.96 --> 2995.26
+ I'm so happy to see my wife working so hard.
+
+868
+2995.26 --> 2997.68
+ You're jealous, aren't you?
+
+869
+2997.68 --> 2998.96
+ How do you feel?
+
+870
+2998.96 --> 2999.96
+ I'm jealous.
+
+871
+2999.96 --> 3000.96
+ You're jealous, right?
+
+872
+3000.96 --> 3001.96
+ Are you okay?
+
+873
+3001.96 --> 3002.96
+ I'm jealous.
+
+874
+3002.96 --> 3004.46
+ Look, she's licking you.
+
+875
+3004.46 --> 3005.76
+ What should I do?
+
+876
+3005.76 --> 3008.96
+ What if I grow up to be bigger than her?
+
+877
+3008.96 --> 3011.96
+ Look, she's holding you.
+
+878
+3011.96 --> 3015.96
+ She's always holding me like this.
+
+879
+3015.96 --> 3017.46
+ Isn't she energetic?
+
+880
+3017.46 --> 3018.46
+ She's always energetic.
+
+881
+3018.46 --> 3019.96
+ No way.
+
+882
+3019.96 --> 3020.96
+ Isn't she energetic?
+
+883
+3020.96 --> 3022.96
+ She's energetic, isn't she?
+
+884
+3025.96 --> 3027.96
+ She's so kind.
+
+885
+3027.96 --> 3029.96
+ What? Am I not kind?
+
+886
+3029.96 --> 3030.96
+ No, you're not.
+
+887
+3030.96 --> 3032.96
+ Is your wife hard at work too?
+
+888
+3032.96 --> 3033.96
+ Yes, she is.
+
+889
+3033.96 --> 3035.96
+ She's so nice.
+
+890
+3035.96 --> 3036.96
+ Really?
+
+891
+3036.96 --> 3038.96
+ She's licking you so nicely.
+
+892
+3038.96 --> 3040.96
+ She's so nice.
+
+893
+3040.96 --> 3042.96
+ She's nicer than I am.
+
+894
+3042.96 --> 3043.96
+ She is.
+
+895
+3043.96 --> 3045.46
+ Is she harder at work?
+
+896
+3045.46 --> 3046.46
+ Lick her a bit more.
+
+897
+3046.46 --> 3047.46
+ A bit more?
+
+898
+3047.46 --> 3048.46
+ Yes, a bit more.
+
+899
+3048.46 --> 3051.46
+ She's not that tender either.
+
+900
+3051.46 --> 3052.46
+ It's better.
+
+901
+3058.52 --> 3060.52
+ She's so nice, isn't she?
+
+902
+3061.52 --> 3062.52
+ Amazing.
+
+903
+3062.52 --> 3065.52
+ She just stuffed her stomach.
+
+904
+3068.52 --> 3071.52
+ She's like your wife's %&%&.
+
+905
+3071.52 --> 3072.52
+ How does she feel?
+
+906
+3072.52 --> 3073.52
+ Amazing.
+
+907
+3073.52 --> 3075.52
+ She's amazing.
+
+908
+3075.52 --> 3077.52
+ Even though she's young.
+
+909
+3077.52 --> 3079.52
+ She's still energetic.
+
+910
+3079.52 --> 3080.52
+ She's more energetic than usual.
+
+911
+3080.52 --> 3084.02
+ Can you make it a bit more intense?
+
+912
+3084.02 --> 3085.02
+ Wow, amazing.
+
+913
+3085.02 --> 3086.22
+ It's like this.
+
+914
+3086.22 --> 3088.02
+ This is amazing.
+
+915
+3091.02 --> 3093.02
+ Go as deep as you can.
+
+916
+3098.76 --> 3100.76
+ Is this okay?
+
+917
+3100.76 --> 3102.76
+ Look at the camera as you do it.
+
+918
+3102.76 --> 3104.76
+ Look at the camera as you do it.
+
+919
+3104.76 --> 3106.76
+ You're so mean.
+
+920
+3107.46 --> 3109.76
+ Why are you looking at the camera?
+
+921
+3109.76 --> 3112.26
+ Because you're so cute.
+
+922
+3112.26 --> 3114.26
+ You're so good at this.
+
+923
+3114.26 --> 3116.26
+ You're so good at this.
+
+924
+3116.26 --> 3118.26
+ I'll look at the camera as you do it.
+
+925
+3118.26 --> 3120.26
+ Wow, that's amazing.
+
+926
+3120.26 --> 3123.26
+ I'm getting excited just by looking at it.
+
+927
+3123.26 --> 3126.26
+ Which side are you excited about?
+
+928
+3126.26 --> 3127.26
+ Both.
+
+929
+3127.26 --> 3132.26
+ I like Miho's jealous look.
+
+930
+3132.26 --> 3134.26
+ Her jealous look.
+
+931
+3134.26 --> 3139.26
+ Are you excited about being licked by people?
+
+932
+3139.26 --> 3141.26
+ No, I'm not.
+
+933
+3141.26 --> 3144.26
+ You're feeling better than when you were with me.
+
+934
+3144.26 --> 3145.26
+ No, I'm not.
+
+935
+3145.26 --> 3147.26
+ It's about the same.
+
+936
+3147.26 --> 3150.26
+ Look, you're so happy.
+
+937
+3153.26 --> 3155.26
+ You're doing what you always do.
+
+938
+3157.26 --> 3159.26
+ You're happy, aren't you?
+
+939
+3159.26 --> 3161.26
+ Wow, that's amazing.
+
+940
+3162.26 --> 3164.26
+ You're so good at this.
+
+941
+3164.26 --> 3167.26
+ You're so good at this.
+
+942
+3167.26 --> 3169.26
+ It's cracking.
+
+943
+3169.26 --> 3171.26
+ You're so happy.
+
+944
+3172.26 --> 3174.26
+ You're doing what you always do.
+
+945
+3176.26 --> 3180.26
+ But, actually,
+
+946
+3180.26 --> 3184.26
+ it would be so embarrassing if it was just the two of us.
+
+947
+3184.26 --> 3186.26
+ That's true.
+
+948
+3186.26 --> 3188.26
+ I'm pretending to be shy.
+
+949
+3188.26 --> 3190.26
+ No, you're not.
+
+950
+3191.26 --> 3193.26
+ You're so good at this.
+
+951
+3195.26 --> 3197.26
+ You're so good at this.
+
+952
+3198.26 --> 3200.26
+ Which side do you like?
+
+953
+3203.26 --> 3205.26
+ How about the two of us?
+
+954
+3205.26 --> 3207.26
+ You're so good at this.
+
+955
+3207.26 --> 3209.26
+ You're so good at this.
+
+956
+3219.26 --> 3221.26
+ I see.
+
+957
+3223.26 --> 3225.26
+ Wow, that's amazing.
+
+958
+3227.26 --> 3229.26
+ You're so good at this.
+
+959
+3229.26 --> 3232.26
+ You're so good at this.
+
+960
+3236.26 --> 3238.26
+ I almost died.
+
+961
+3238.26 --> 3240.26
+ I've never done it.
+
+962
+3240.26 --> 3242.26
+ It's in good shape.
+
+963
+3242.26 --> 3243.26
+ It's so good.
+
+964
+3243.26 --> 3246.26
+ Let me try the mouth.
+
+965
+3251.26 --> 3253.26
+ It's so good.
+
+966
+3292.26 --> 3293.26
+ Look at this.
+
+967
+3294.26 --> 3296.06
+ It's starting to boil.
+
+968
+3296.06 --> 3297.18
+ Wow.
+
+969
+3297.18 --> 3298.52
+ What's wrong?
+
+970
+3298.52 --> 3300.60
+ I can't see the face.
+
+971
+3300.60 --> 3302.10
+ Let's eat a bit more.
+
+972
+3302.10 --> 3303.68
+ It's getting closer.
+
+973
+3304.68 --> 3306.56
+ It's boiling.
+
+974
+3306.56 --> 3308.48
+ He's licking his nipples.
+
+975
+3309.86 --> 3313.06
+ His husband's face is so sad.
+
+976
+3313.64 --> 3321.84
+ He's so sad.
+
+977
+3321.84 --> 3323.88
+ That's the charm of love.
+
+978
+3323.88 --> 3324.88
+ I know.
+
+979
+3324.88 --> 3326.68
+ He's so shy.
+
+980
+3326.68 --> 3334.45
+ He's licking his nipples.
+
+981
+3338.80 --> 3339.62
+ It hurts.
+
+982
+3362.59 --> 3363.73
+ It's nice now.
+
+983
+3363.73 --> 3364.73
+ It feels good?
+
+984
+3364.73 --> 3366.93
+ This looks good now.
+
+985
+3377.51 --> 3378.71
+ Oh my god.
+
+986
+3378.71 --> 3380.73
+ It feels so good.
+
+987
+3388.00 --> 3390.00
+ You don't feel any pain, do you?
+
+988
+3394.00 --> 3395.00
+ I'm so happy.
+
+989
+3395.00 --> 3399.08
+ What is that?
+
+990
+3405.08 --> 3407.08
+ Is that what it looks like?
+
+991
+3413.08 --> 3416.08
+ Can you hold the camera?
+
+992
+3416.08 --> 3417.08
+ Yes.
+
+993
+3417.08 --> 3424.36
+ Oh, I'm sorry.
+
+994
+3424.36 --> 3426.36
+ Don't look at me.
+
+995
+3427.36 --> 3429.36
+ It feels good.
+
+996
+3430.36 --> 3433.36
+ Can I touch you a little?
+
+997
+3439.36 --> 3441.36
+ I'm so happy.
+
+998
+3443.36 --> 3459.54
+ I'm so happy.
+
+999
+3459.54 --> 3472.96
+ I'm so happy.
+
+1000
+3478.66 --> 3480.66
+ I'm so happy.
+
+1001
+3518.03 --> 3520.03
+ Thank you.
+
+1002
+3532.36 --> 3534.36
+ I'm so happy.
+
+1003
+3537.36 --> 3544.96
+ I'm so happy.
+
+1004
+3553.84 --> 3555.84
+ I'm so happy.
+
+1005
+3570.88 --> 3572.88
+ Did you feel good?
+
+1006
+3572.88 --> 3574.88
+ I'm so happy.
+
+1007
+3574.88 --> 3576.88
+ Did you feel good?
+
+1008
+3576.88 --> 3578.88
+ I'm so happy.
+
+1009
+3578.88 --> 3579.88
+ You're so cute.
+
+1010
+3579.88 --> 3581.88
+ What do you think, Mr Koyama?
+
+1011
+3581.88 --> 3583.88
+ You're so cute.
+
+1012
+3583.88 --> 3585.88
+ You're so cute.
+
+1013
+3586.88 --> 3588.88
+ I'm so happy.
+
+1014
+3591.57 --> 3593.57
+ What are you going to do when you get married?
+
+1015
+3598.57 --> 3600.57
+ This is the third child.
+
+1016
+3601.57 --> 3606.57
+ At first, I was very impulsive, but now I'm getting bolder and bolder.
+
+1017
+3609.57 --> 3611.57
+ You like to be touched, don't you?
+
+1018
+3612.57 --> 3614.57
+ You're so big.
+
+1019
+3618.57 --> 3620.57
+ She says she feels good.
+
+1020
+3622.57 --> 3623.57
+ It's hard, isn't it?
+
+1021
+3623.57 --> 3625.57
+ I like the sound.
+
+1022
+3625.57 --> 3632.80
+ Oh, it's burning.
+
+1023
+3633.80 --> 3635.80
+ Oh, it's burning.
+
+1024
+3643.80 --> 3645.80
+ It tastes different.
+
+1025
+3645.80 --> 3647.80
+ It tastes different.
+
+1026
+3647.80 --> 3649.80
+ What does it taste like?
+
+1027
+3649.80 --> 3651.80
+ It was delicious.
+
+1028
+3651.80 --> 3653.80
+ Thank you.
+
+1029
+3653.80 --> 3655.80
+ You're so cute.
+
+1030
+3655.80 --> 3657.80
+ You're so cute.
+
+1031
+3657.80 --> 3659.80
+ You're so cute.
+
+1032
+3659.80 --> 3661.80
+ What do you think, Mr Koyama?
+
+1033
+3661.80 --> 3663.80
+ It's heavy, isn't it?
+
+1034
+3663.80 --> 3665.80
+ It's heavy.
+
+1035
+3665.80 --> 3667.80
+ It's soft.
+
+1036
+3669.80 --> 3671.80
+ I think I'm lighter than you.
+
+1037
+3671.80 --> 3673.80
+ No, you're not.
+
+1038
+3673.80 --> 3675.80
+ Not at all.
+
+1039
+3675.80 --> 3677.80
+ You're big, aren't you?
+
+1040
+3677.80 --> 3679.80
+ You're big, aren't you?
+
+1041
+3679.80 --> 3681.80
+ You're big, aren't you?
+
+1042
+3681.80 --> 3683.80
+ You're in good shape.
+
+1043
+3691.80 --> 3693.80
+ It's hot.
+
+1044
+3693.80 --> 3695.80
+ It's hot, isn't it?
+
+1045
+3695.80 --> 3697.80
+ It's hot, isn't it?
+
+1046
+3701.80 --> 3703.80
+ What are you doing?
+
+1047
+3703.80 --> 3705.80
+ Help me.
+
+1048
+3705.80 --> 3707.80
+ Help me.
+
+1049
+3713.80 --> 3715.80
+ What's in your mouth?
+
+1050
+3715.80 --> 3717.80
+ What's in your mouth?
+
+1051
+3717.80 --> 3723.80
+ Help me.
+
+1052
+3723.80 --> 3725.80
+ Help me.
+
+1053
+3731.80 --> 3733.80
+ She's sensitive.
+
+1054
+3735.80 --> 3737.80
+ Help me.
+
+1055
+3737.80 --> 3739.80
+ Help me.
+
+1056
+3739.80 --> 3741.80
+ I'm scared.
+
+1057
+3743.80 --> 3745.80
+ What is it?
+
+1058
+3745.80 --> 3747.80
+ Help me.
+
+1059
+3747.80 --> 3749.80
+ What is it?
+
+1060
+3749.80 --> 3751.80
+ What is it?
+
+1061
+3751.80 --> 3753.80
+ I'm scared.
+
+1062
+3753.80 --> 3755.80
+ I'm scared.
+
+1063
+3767.80 --> 3769.80
+ What is it?
+
+1064
+3776.14 --> 3778.14
+ What is it?
+
+1065
+3784.14 --> 3786.14
+ Help me.
+
+1066
+3800.14 --> 3802.14
+ Your wife's breasts are amazing.
+
+1067
+3804.14 --> 3806.14
+ Her breasts are amazing.
+
+1068
+3806.14 --> 3808.14
+ This is amazing.
+
+1069
+3808.14 --> 3810.14
+ Wow, that's amazing.
+
+1070
+3810.14 --> 3812.14
+ Wow, that's amazing.
+
+1071
+3812.14 --> 3814.14
+ It feels good.
+
+1072
+3814.14 --> 3816.14
+ I hope it stays this way forever.
+
+1073
+3816.14 --> 3818.14
+ I hope it stays this way forever.
+
+1074
+3818.14 --> 3820.14
+ It's a great situation.
+
+1075
+3822.14 --> 3832.36
+ How do my breasts look?
+
+1076
+3834.36 --> 3836.36
+ It's hard.
+
+1077
+3838.36 --> 3840.36
+ Can I do push-ups?
+
+1078
+3840.36 --> 3842.36
+ I can do push-ups?
+
+1079
+3842.36 --> 3844.36
+ Can I do push-ups?
+
+1080
+3844.36 --> 3854.36
+ Why are you looking at me like that?
+
+1081
+3854.36 --> 3856.36
+ Because...
+
+1082
+3860.36 --> 3864.36
+ How does it feel to be in someone else's country?
+
+1083
+3864.36 --> 3867.36
+ Does it feel good?
+
+1084
+3867.36 --> 3869.36
+ Does it feel good?
+
+1085
+3869.36 --> 3871.36
+ Which country do you like more?
+
+1086
+3871.36 --> 3874.36
+ Does it feel good?
+
+1087
+3874.36 --> 3876.36
+ That's great.
+
+1088
+3886.38 --> 3892.10
+ I'm so happy to hear that.
+
+1089
+3892.10 --> 3895.10
+ I'm so happy to hear that.
+
+1090
+3895.10 --> 3897.10
+ I can't stop.
+
+1091
+3906.10 --> 3908.10
+ What?
+
+1092
+3908.10 --> 3910.10
+ Really?
+
+1093
+3912.10 --> 3915.10
+ I'm going to start.
+
+1094
+3920.10 --> 3923.10
+ Give me the camera.
+
+1095
+3923.10 --> 3925.10
+ What?
+
+1096
+3925.10 --> 3927.10
+ I can't stand it.
+
+1097
+3927.10 --> 3929.10
+ Go ahead.
+
+1098
+3929.10 --> 3930.10
+ Can I?
+
+1099
+3930.10 --> 3932.10
+ You can, right?
+
+1100
+3932.10 --> 3935.10
+ Can I get a little tired?
+
+1101
+3936.10 --> 3938.10
+ That's what you wanted to do, right?
+
+1102
+3938.10 --> 3940.10
+ That's right.
+
+1103
+3940.10 --> 3942.10
+ Show me your face.
+
+1104
+3947.10 --> 3949.10
+ It's in.
+
+1105
+3956.10 --> 3958.10
+ How do you feel?
+
+1106
+3960.10 --> 3963.10
+ It's been a long time since I've been home.
+
+1107
+3963.10 --> 3965.10
+ How do you feel?
+
+1108
+3965.10 --> 3967.10
+ Does it feel good?
+
+1109
+3967.10 --> 3971.76
+ It's in.
+
+1110
+3971.76 --> 3973.76
+ Show me your face.
+
+1111
+3989.31 --> 3991.31
+ That's great.
+
+1112
+3993.31 --> 3996.31
+ I think I'm going to get stuck, too.
+
+1113
+3996.31 --> 3998.31
+ Thank you.
+
+1114
+3998.31 --> 4000.31
+ It's in.
+
+1115
+4000.31 --> 4002.31
+ Can you see it well?
+
+1116
+4002.31 --> 4006.31
+ Not just you, but everyone can see it.
+
+1117
+4006.31 --> 4008.31
+ Let me hold you.
+
+1118
+4012.31 --> 4014.31
+ It's in.
+
+1119
+4014.31 --> 4016.31
+ It's in.
+
+1120
+4019.31 --> 4021.31
+ I'm so tired.
+
+1121
+4022.31 --> 4024.31
+ Do you want to put a lot in?
+
+1122
+4024.31 --> 4026.31
+ I put a lot in.
+
+1123
+4032.96 --> 4034.96
+ How do you feel?
+
+1124
+4034.96 --> 4036.96
+ It feels good.
+
+1125
+4038.96 --> 4040.96
+ It feels good.
+
+1126
+4040.96 --> 4042.96
+ Are you more excited than usual?
+
+1127
+4042.96 --> 4044.96
+ I'm so excited.
+
+1128
+4044.96 --> 4046.96
+ I've never done this before.
+
+1129
+4046.96 --> 4048.96
+ You can put a lot in.
+
+1130
+4052.96 --> 4054.96
+ You can put a lot in.
+
+1131
+4069.33 --> 4071.33
+ It feels good, right?
+
+1132
+4072.33 --> 4074.33
+ Thank you.
+
+1133
+4076.33 --> 4078.33
+ I'm sorry.
+
+1134
+4088.80 --> 4090.80
+ How do you feel?
+
+1135
+4090.80 --> 4092.80
+ It feels good.
+
+1136
+4108.60 --> 4110.60
+ What do you think?
+
+1137
+4111.60 --> 4113.60
+ I'm going to get burned.
+
+1138
+4115.60 --> 4117.60
+ You look happy.
+
+1139
+4117.60 --> 4131.32
+ I want to see you more.
+
+1140
+4189.28 --> 4191.28
+ Are you okay?
+
+1141
+4208.84 --> 4210.84
+ I'm sorry.
+
+1142
+4213.84 --> 4215.84
+ Are you okay?
+
+1143
+4233.44 --> 4235.44
+ Something came out.
+
+1144
+4236.44 --> 4238.44
+ It came out a lot.
+
+1145
+4238.44 --> 4240.44
+ It felt good.
+
+1146
+4242.44 --> 4244.44
+ It came out a lot.
+
+1147
+4244.44 --> 4246.44
+ It came out a lot.
+
+1148
+4246.44 --> 4249.44
+ As expected, you're young.
+
+1149
+4250.44 --> 4252.44
+ You look cool.
+
+1150
+4252.44 --> 4254.44
+ Thank you.
+
+1151
+4259.44 --> 4261.44
+ How was it?
+
+1152
+4261.44 --> 4263.44
+ It felt good.
+
+1153
+4266.44 --> 4268.44
+ How was it?
+
+1154
+4268.44 --> 4270.44
+ I'm so excited.
+
+1155
+4270.44 --> 4272.44
+ I put a lot in.
+
+1156
+4274.44 --> 4276.44
+ You look so cool.
+
+1157
+4277.44 --> 4279.44
+ I'm going to give it to my husband.
+
+1158
+4287.44 --> 4289.44
+ It feels good.
+
+1159
+4291.44 --> 4293.44
+ It feels good.
+
+1160
+4294.44 --> 4296.44
+ He's making a lot of noise.
+
+1161
+4296.44 --> 4298.44
+ It feels good.
+
+1162
+4300.44 --> 4302.44
+ I'm going to put a lot in.
+
+1163
+4305.44 --> 4307.44
+ This is the most.
+
+1164
+4310.44 --> 4312.44
+ It feels good.
+
+1165
+4315.44 --> 4317.44
+ I'm going to put a lot in.
+
+1166
+4318.44 --> 4320.44
+ It feels good.
+
+1167
+4320.44 --> 4322.44
+ I'm going to put a lot in.
+
+1168
+4322.44 --> 4324.44
+ I'm going to put a lot in.
+
+1169
+4326.44 --> 4328.44
+ It feels good.
+
+1170
+4329.44 --> 4331.44
+ I've never done this before.
+
+1171
+4347.58 --> 4349.58
+ I'm going to put a lot in.
+
+1172
+4353.58 --> 4355.58
+ I'm going to put a lot in.
+
+1173
+4357.58 --> 4359.58
+ How is it?
+
+1174
+4365.58 --> 4367.58
+ Your husband is in.
+
+1175
+4370.58 --> 4372.58
+ I'm so excited.
+
+1176
+4379.58 --> 4381.58
+ Your husband is still in there.
+
+1177
+4382.58 --> 4384.58
+ Don't put it in.
+
+1178
+4389.58 --> 4391.58
+ I'm going to put a lot in.
+
+1179
+4403.58 --> 4405.58
+ I don't know what to do.
+
+1180
+4405.58 --> 4407.58
+ I don't know what to do.
+
+1181
+4409.58 --> 4411.58
+ More.
+
+1182
+4411.58 --> 4413.58
+ Why are you so happy?
+
+1183
+4413.58 --> 4415.58
+ Ai-chan! Ai-chan!
+
+1184
+4417.58 --> 4419.58
+ Ai-chan!
+
+1185
+4433.29 --> 4434.29
+ Ai-chan!
+
+1186
+4434.29 --> 4441.96
+ Let's go together!
+
+1187
+4445.96 --> 4447.96
+ Your voice is shaking a lot.
+
+1188
+4447.96 --> 4448.96
+ It's good.
+
+1189
+4448.96 --> 4450.96
+ Please follow me.
+
+1190
+4451.96 --> 4453.96
+ It's good.
+
+1191
+4457.96 --> 4461.84
+ I can't do it.
+
+1192
+4461.84 --> 4463.84
+ Can you hold the camera?
+
+1193
+4463.84 --> 4464.84
+ I'm sorry.
+
+1194
+4477.12 --> 4479.12
+ I can't do it.
+
+1195
+4479.12 --> 4481.12
+ It's about to fall.
+
+1196
+4481.12 --> 4483.12
+ I can't do it.
+
+1197
+4483.12 --> 4485.12
+ Wait!
+
+1198
+4485.12 --> 4487.12
+ Let's go!
+
+1199
+4487.12 --> 4489.12
+ Let's go!
+
+1200
+4491.12 --> 4493.12
+ It's good.
+
+1201
+4497.12 --> 4499.12
+ Did you let it out?
+
+1202
+4499.12 --> 4501.12
+ It's coming out.
+
+1203
+4505.12 --> 4507.12
+ It's full.
+
+1204
+4507.12 --> 4509.12
+ It's good.
+
+1205
+4509.12 --> 4511.12
+ It's coming out.
+
+1206
+4512.12 --> 4514.12
+ I couldn't hold it.
+
+1207
+4515.12 --> 4517.12
+ I can't do it.
+
+1208
+4518.12 --> 4520.12
+ I'm sorry.
+
+1209
+4528.12 --> 4530.12
+ It's good.
+
+1210
+4531.12 --> 4533.12
+ I can't do it.
+
+1211
+4533.12 --> 4535.12
+ It's good.
+
+1212
+4538.12 --> 4540.12
+ Are you happy?
+
+1213
+4541.12 --> 4543.12
+ I can't do it.
+
+1214
+4551.31 --> 4553.31
+ Thank you.
+
+1215
+4554.31 --> 4556.31
+ How is it?
+
+1216
+4558.31 --> 4561.62
+ It's good.
+
+1217
+4561.62 --> 4563.62
+ How do you feel?
+
+1218
+4563.62 --> 4564.62
+ It's good.
+
+1219
+4564.62 --> 4565.62
+ Is it good?
+
+1220
+4565.62 --> 4567.62
+ It's good.
+
+1221
+4567.62 --> 4569.62
+ Which one do you like better?
+
+1222
+4569.62 --> 4571.62
+ Both are good.
+
+1223
+4571.62 --> 4573.62
+ It's good.
+
+1224
+4574.62 --> 4576.62
+ It's good.
+
+1225
+4576.62 --> 4578.62
+ It's good.
+
+1226
+4579.62 --> 4581.62
+ It's good.
+
+1227
+4581.62 --> 4586.98
+ It's good.
+
+1228
+4586.98 --> 4593.81
+ Wait a minute.
+
+1229
+4593.81 --> 4595.81
+ I can't do it.
+
+1230
+4595.81 --> 4596.81
+ How is it?
+
+1231
+4596.81 --> 4597.81
+ Is it good?
+
+1232
+4597.81 --> 4599.81
+ It's good.
+
+1233
+4599.81 --> 4601.81
+ I see.
+
+1234
+4613.78 --> 4615.78
+ It's good.
+
+1235
+4615.78 --> 4617.78
+ Are you having fun?
+
+1236
+4617.78 --> 4620.78
+ I was surprised when I saw your face.
+
+1237
+4622.78 --> 4624.78
+ You look like you're in a good mood.
+
+1238
+4628.78 --> 4630.78
+ Are you in a good mood?
+
+1239
+4632.78 --> 4635.78
+ I'm relieved to see you like this.
+
+1240
+4635.78 --> 4637.78
+ Is it difficult?
+
+1241
+4639.78 --> 4641.78
+ Let's go.
+
+1242
+4642.78 --> 4644.78
+ I can't do it.
+
+1243
+4644.78 --> 4646.78
+ Let's go.
+
+1244
+4646.78 --> 4648.78
+ I can't do it.
+
+1245
+4656.92 --> 4658.92
+ Can't I go?
+
+1246
+4658.92 --> 4663.12
+ Did you get out?
+
+1247
+4663.12 --> 4665.12
+ Maybe.
+
+1248
+4665.12 --> 4667.12
+ Which one?
+
+1249
+4670.12 --> 4672.12
+ I'm going.
+
+1250
+4672.12 --> 4674.12
+ Give me your finger.
+
+1251
+4678.12 --> 4680.12
+ Is it that deep?
+
+1252
+4681.12 --> 4683.12
+ I'm in.
+
+1253
+4684.12 --> 4686.12
+ There's a lot.
+
+1254
+4688.12 --> 4690.12
+ Did you feel good?
+
+1255
+4692.12 --> 4695.12
+ I've never done this before, so I felt good.
+
+1256
+4695.12 --> 4697.12
+ I feel good, too.
+
+1257
+4699.12 --> 4703.12
+ I thought it was a girl, but I felt good.
+
+1258
+4704.12 --> 4706.12
+ I'm in.
+
+1259
+4710.46 --> 4715.05
+ I'm in.
+
+1260
+4715.05 --> 4717.05
+ You're in.
+
+1261
+4717.05 --> 4719.05
+ I'm in.
+
+1262
+4719.05 --> 4721.05
+ It's my first time.
+
+1263
+4725.05 --> 4727.05
+ It's amazing.
+
+1264
+4729.05 --> 4731.05
+ I can see the whole thing.
+
+1265
+4732.05 --> 4734.05
+ It's amazing.
+
+1266
+4740.60 --> 4742.60
+ Are you excited?
+
+1267
+4743.60 --> 4748.58
+ I'm in.
+
+1268
+4748.58 --> 4759.22
+ I'm in.
+
+1269
+4760.22 --> 4776.52
+ What kind of kiss is it?
+
+1270
+4777.52 --> 4779.52
+ It's amazing.
+
+1271
+4779.52 --> 4783.99
+ It's amazing.
+
+1272
+4786.99 --> 4788.99
+ It's amazing.
+
+1273
+4804.82 --> 4807.82
+ This is what it's like when you're in love.
+
+1274
+4808.82 --> 4811.82
+ This is what it's like when you're in love.
+
+1275
+4813.82 --> 4815.82
+ It's my first time.
+
+1276
+4818.82 --> 4820.82
+ I'm a little upset.
+
+1277
+4820.82 --> 4822.82
+ Your husband is doing it with his wife.
+
+1278
+4824.82 --> 4826.82
+ I'm a little upset.
+
+1279
+4826.82 --> 4829.82
+ I thought he was doing it with his wife.
+
+1280
+4829.82 --> 4831.82
+ What about your husband?
+
+1281
+4832.82 --> 4834.82
+ I'm excited, too.
+
+1282
+4834.82 --> 4836.82
+ It's amazing.
+
+1283
+4836.82 --> 4838.82
+ I'm in.
+
+1284
+4842.82 --> 4844.82
+ I'm excited, too.
+
+1285
+4846.82 --> 4848.82
+ It's amazing.
+
+1286
+4853.82 --> 4855.82
+ Can you see it?
+
+1287
+4855.82 --> 4857.82
+ I can see it well.
+
+1288
+4860.82 --> 4862.82
+ Look at it.
+
+1289
+4862.82 --> 4864.82
+ It's amazing.
+
+1290
+4864.82 --> 4866.82
+ It's getting bigger.
+
+1291
+4868.82 --> 4870.82
+ It's getting bigger.
+
+1292
+4872.82 --> 4874.82
+ I'm looking at it.
+
+1293
+4879.82 --> 4881.82
+ It's amazing.
+
+1294
+4890.82 --> 4892.82
+ What are you going to do?
+
+1295
+4895.82 --> 4905.76
+ Are you going to do it again?
+
+1296
+4906.76 --> 4919.80
+ I'll take a video.
+
+1297
+4919.80 --> 4921.80
+ Are you sure?
+
+1298
+4922.80 --> 4932.54
+ What are you going to do?
+
+1299
+4932.54 --> 4934.54
+ What am I going to do?
+
+1300
+4936.54 --> 4938.54
+ It's getting bigger.
+
+1301
+4946.54 --> 4949.54
+ I can't stand it if you show me that.
+
+1302
+4949.54 --> 4951.54
+ I can't stand it if you show me that.
+
+1303
+4969.49 --> 4971.49
+ I can't stand it anymore.
+
+1304
+4975.49 --> 4977.49
+ Are you going to do it again?
+
+1305
+4981.49 --> 4983.49
+ You're in a good mood, aren't you?
+
+1306
+4996.47 --> 4998.47
+ Can I do it?
+
+1307
+4998.47 --> 5000.47
+ I can't stand it anymore.
+
+1308
+5001.47 --> 5003.47
+ I can't stand it anymore.
+
+1309
+5003.47 --> 5005.47
+ It's amazing.
+
+1310
+5012.47 --> 5015.47
+ I don't know what you're talking about.
+
+1311
+5015.47 --> 5017.47
+ I don't know what you're talking about.
+
+1312
+5017.47 --> 5019.47
+ What's wrong?
+
+1313
+5019.47 --> 5021.47
+ It's getting bigger.
+
+1314
+5025.48 --> 5027.48
+ It's amazing.
+
+1315
+5028.48 --> 5030.48
+ It's amazing.
+
+1316
+5030.48 --> 5032.48
+ How did you feel?
+
+1317
+5032.48 --> 5034.48
+ I was very excited.
+
+1318
+5034.48 --> 5036.48
+ I was very excited.
+
+1319
+5036.48 --> 5038.48
+ I see.
+
+1320
+5038.48 --> 5040.48
+ It's amazing.
+
+1321
+5046.48 --> 5048.48
+ You can still do it.
+
+1322
+5048.48 --> 5050.48
+ You can still do it.
+
+1323
+5051.48 --> 5053.48
+ You can do it.
+
+1324
+5085.11 --> 5087.11
+ Thank you very much.
+
+1325
+5087.11 --> 5089.11
+ Thank you very much.
+
+1326
+5089.11 --> 5091.11
+ Thank you very much.
+
+1327
+5091.11 --> 5093.11
+ I am drowning.
+
+1328
+5093.11 --> 5095.11
+ I'm sleepy when I eat.
+
+1329
+5095.11 --> 5097.11
+ I'm sleepy when I eat.
+
+1330
+5097.11 --> 5106.11
+ I work out, eat, and drink alcohol, so I'm pretty drunk.
+
+1331
+5106.11 --> 5110.11
+ If you're drunk, let's go to the room.
+
+1332
+5110.11 --> 5112.11
+ Let's go to the room, Komota.
+
+1333
+5114.11 --> 5115.11
+ It's noon.
+
+1334
+5115.11 --> 5117.11
+ What are we going to do?
+
+1335
+5117.11 --> 5119.11
+ Let's go to ***.
+
+1336
+5119.11 --> 5120.11
+ OK.
+
+1337
+5120.11 --> 5122.11
+ How was it?
+
+1338
+5122.11 --> 5125.11
+ I don't think I'm drunk.
+
+1339
+5125.11 --> 5127.11
+ I don't think I'm drunk.
+
+1340
+5127.11 --> 5128.11
+ It's not like that.
+
+1341
+5128.11 --> 5129.11
+ It's not like that.
+
+1342
+5129.11 --> 5130.11
+ I see.
+
+1343
+5133.11 --> 5136.11
+ If I drink too much, I'll get drunk.
+
+1344
+5138.11 --> 5139.11
+ Is that OK?
+
+1345
+5140.11 --> 5143.11
+ In front of a beautiful woman.
+
+1346
+5146.11 --> 5147.11
+ You're cute.
+
+1347
+5147.11 --> 5150.11
+ Actually, there's a man next to me.
+
+1348
+5152.11 --> 5155.11
+ Do you want to do it without sleeping?
+
+1349
+5155.11 --> 5157.11
+ That's a good idea.
+
+1350
+5158.11 --> 5160.11
+ Can you do it when you wake up?
+
+1351
+5161.11 --> 5164.11
+ Let's do it until the limit.
+
+1352
+5166.11 --> 5168.11
+ I don't want to do it.
+
+1353
+5168.11 --> 5170.11
+ Let's do it until the limit.
+
+1354
+5171.11 --> 5173.11
+ I want you to do it.
+
+1355
+5174.11 --> 5175.11
+ Thank you.
+
+1356
+5178.11 --> 5180.11
+ You're quick.
+
+1357
+5182.11 --> 5183.11
+ You're quick.
+
+1358
+5192.25 --> 5194.25
+ You're quick, Tenka.
+
+1359
+5196.25 --> 5198.25
+ I don't want to do it to ***.
+
+1360
+5199.25 --> 5202.25
+ You're the one who looks the most like him.
+
+1361
+5202.25 --> 5204.25
+ You look like him all the time.
+
+1362
+5204.25 --> 5205.25
+ You're quick.
+
+1363
+5207.25 --> 5209.25
+ I can see your neck.
+
+1364
+5209.25 --> 5211.25
+ You're quick.
+
+1365
+5224.25 --> 5226.25
+ I'm scared.
+
+1366
+5226.25 --> 5228.25
+ Do you want me to be strong?
+
+1367
+5228.25 --> 5229.25
+ Do you want me to be weak?
+
+1368
+5229.25 --> 5231.25
+ Do you want me to be gentle?
+
+1369
+5231.25 --> 5232.25
+ Is this good?
+
+1370
+5232.25 --> 5234.25
+ That's the best feeling.
+
+1371
+5246.25 --> 5248.25
+ *** and Miho are amazing.
+
+1372
+5248.25 --> 5250.25
+ They do it by themselves.
+
+1373
+5253.25 --> 5255.25
+ I got it.
+
+1374
+5257.25 --> 5259.25
+ You're amazing.
+
+1375
+5259.25 --> 5261.25
+ You're brave.
+
+1376
+5272.25 --> 5274.25
+ You can't lose.
+
+1377
+5287.59 --> 5289.59
+ It's in there.
+
+1378
+5291.59 --> 5293.59
+ You can't cream your eyes.
+
+1379
+5300.59 --> 5302.59
+ What are you doing?
+
+1380
+5307.59 --> 5309.59
+ You can do it up there.
+
+1381
+5309.59 --> 5311.59
+ Up there.
+
+1382
+5311.59 --> 5313.59
+ We're going to go up there.
+
+1383
+5323.87 --> 5325.87
+ I feel good.
+
+1384
+5326.87 --> 5328.87
+ You can see it from here.
+
+1385
+5328.87 --> 5330.87
+ Wow!
+
+1386
+5330.87 --> 5332.87
+ It's true.
+
+1387
+5332.87 --> 5334.87
+ You can see it from here.
+
+1388
+5336.87 --> 5338.87
+ Can you show us how you feel?
+
+1389
+5342.87 --> 5344.87
+ Can you see how you feel?
+
+1390
+5353.14 --> 5355.14
+ I can't see it.
+
+1391
+5355.14 --> 5357.14
+ I brought a lid.
+
+1392
+5357.14 --> 5359.14
+ Do you want to wear it?
+
+1393
+5359.14 --> 5361.14
+ Do you want to wear it?
+
+1394
+5365.14 --> 5367.14
+ Then.
+
+1395
+5367.14 --> 5369.14
+ Let's take a picture
+
+1396
+5369.14 --> 5371.14
+ before it's ruined.
+
+1397
+5371.14 --> 5373.14
+ Let's take a picture.
+
+1398
+5373.14 --> 5375.14
+ Wait a minute.
+
+1399
+5379.14 --> 5381.14
+ Wow!
+
+1400
+5381.14 --> 5383.14
+ Can you show it to the camera?
+
+1401
+5383.14 --> 5385.14
+ I want to take a picture
+
+1402
+5386.14 --> 5388.14
+ How is it? Are you used to it?
+
+1403
+5390.14 --> 5392.14
+ Can I touch it too?
+
+1404
+5392.14 --> 5393.14
+ Yes.
+
+1405
+5393.14 --> 5395.14
+ I want to touch it today.
+
+1406
+5396.14 --> 5398.14
+ My hands are cold. I'm sorry.
+
+1407
+5399.14 --> 5401.14
+ Wow!
+
+1408
+5401.14 --> 5402.14
+ It's amazing.
+
+1409
+5402.14 --> 5404.14
+ Can I touch it?
+
+1410
+5404.14 --> 5406.14
+ It's amazing.
+
+1411
+5407.14 --> 5408.14
+ It's amazing.
+
+1412
+5408.14 --> 5410.14
+ This is for your husband.
+
+1413
+5410.14 --> 5413.14
+ Men want to touch it.
+
+1414
+5413.14 --> 5414.14
+ Can I touch it?
+
+1415
+5415.14 --> 5417.14
+ You don't have to do it.
+
+1416
+5417.14 --> 5419.14
+ What are you talking about?
+
+1417
+5419.14 --> 5421.14
+ I want to touch it.
+
+1418
+5421.14 --> 5423.14
+ I want to touch it.
+
+1419
+5425.14 --> 5428.14
+ You want to touch it.
+
+1420
+5431.14 --> 5434.14
+ Wow! Everyone's breasts are beautiful.
+
+1421
+5435.14 --> 5436.14
+ It's amazing.
+
+1422
+5436.14 --> 5438.14
+ It's amazing.
+
+1423
+5438.14 --> 5440.14
+ You don't have to do it.
+
+1424
+5440.14 --> 5441.14
+ Really?
+
+1425
+5441.14 --> 5443.14
+ Do you want to do it?
+
+1426
+5443.14 --> 5445.14
+ Wait, I'll put the camera down.
+
+1427
+5445.14 --> 5447.14
+ Are you ready?
+
+1428
+5461.14 --> 5464.14
+ We'll send this to you.
+
+1429
+5464.14 --> 5466.14
+ Thank you very much.
+
+1430
+5467.14 --> 5469.14
+ Let's continue.
+
+1431
+5470.14 --> 5473.14
+ I wonder if I can see properly in the camera at that time.
+
+1432
+5478.14 --> 5480.14
+ You can make it as you like.
+
+1433
+5480.14 --> 5481.14
+ Really?
+
+1434
+5481.14 --> 5483.14
+ Then should I pull the futon a little more?
+
+1435
+5483.14 --> 5487.14
+ Then, for the time being, while everyone is pulling, let's do this.
+
+1436
+5487.14 --> 5489.14
+ Please ask everyone.
+
+1437
+5489.14 --> 5491.14
+ Yes, please ask everyone.
+
+1438
+5497.14 --> 5498.14
+ What?
+
+1439
+5514.55 --> 5515.55
+ Did you finish pulling?
+
+1440
+5515.55 --> 5516.55
+ Really?
+
+1441
+5517.55 --> 5519.55
+ Because I said I'd show it to my wife.
+
+1442
+5519.55 --> 5520.55
+ I see, I see.
+
+1443
+5521.55 --> 5524.55
+ I thought I'd do something nice until I finished pulling.
+
+1444
+5525.55 --> 5528.55
+ Let's see each other's faces.
+
+1445
+5529.55 --> 5532.55
+ Have you ever seen your husband's face?
+
+1446
+5532.55 --> 5534.55
+ What are you doing?
+
+1447
+5538.55 --> 5540.55
+ I'm a bit erotic, so I'm licking my wife.
+
+1448
+5541.55 --> 5543.55
+ Where are you licking?
+
+1449
+5543.55 --> 5544.55
+ Very polite.
+
+1450
+5545.55 --> 5547.55
+ What are you doing?
+
+1451
+5550.55 --> 5552.55
+ I'm also very polite.
+
+1452
+5553.55 --> 5555.55
+ I'm a bit out of tune.
+
+1453
+5558.55 --> 5560.55
+ Don't lick me.
+
+1454
+5561.55 --> 5562.55
+ Wow.
+
+1455
+5562.55 --> 5563.55
+ That's important.
+
+1456
+5563.55 --> 5564.55
+ Really?
+
+1457
+5564.55 --> 5565.55
+ Thank you.
+
+1458
+5565.55 --> 5566.55
+ I'm sorry.
+
+1459
+5566.55 --> 5567.55
+ I'm sorry.
+
+1460
+5567.55 --> 5568.55
+ I'm sorry.
+
+1461
+5569.55 --> 5571.55
+ Don't lick me.
+
+1462
+5571.55 --> 5572.55
+ I'm sorry.
+
+1463
+5572.55 --> 5573.55
+ I'm sorry.
+
+1464
+5573.55 --> 5574.55
+ I'm sorry.
+
+1465
+5576.55 --> 5578.55
+ Oh, I got something.
+
+1466
+5578.55 --> 5579.55
+ What?
+
+1467
+5579.55 --> 5581.55
+ Oh, that's great.
+
+1468
+5582.55 --> 5584.55
+ Oh, that's great.
+
+1469
+5584.55 --> 5587.55
+ I got something, so it's the best.
+
+1470
+5588.55 --> 5590.55
+ You're good at this.
+
+1471
+5591.55 --> 5593.55
+ It's very slippery.
+
+1472
+5596.55 --> 5597.55
+ It's soft.
+
+1473
+5598.55 --> 5600.55
+ Oh, wait a minute.
+
+1474
+5605.55 --> 5606.55
+ Let's go this way.
+
+1475
+5606.55 --> 5608.55
+ Thank you for pulling my hair.
+
+1476
+5608.55 --> 5610.55
+ It's amazing.
+
+1477
+5610.55 --> 5611.55
+ It's amazing.
+
+1478
+5612.55 --> 5613.55
+ It's amazing.
+
+1479
+5613.55 --> 5614.55
+ It's amazing.
+
+1480
+5615.55 --> 5616.55
+ It's amazing.
+
+1481
+5616.55 --> 5617.55
+ It's amazing.
+
+1482
+5619.55 --> 5620.55
+ It's amazing.
+
+1483
+5620.55 --> 5621.55
+ It's very soft.
+
+1484
+5625.55 --> 5626.55
+ It's really soft.
+
+1485
+5626.55 --> 5627.55
+ It's very soft.
+
+1486
+5628.55 --> 5629.55
+ It feels good.
+
+1487
+5633.55 --> 5636.55
+ Be careful not to drop the camera.
+
+1488
+5644.76 --> 5646.76
+ Let's go this way.
+
+1489
+5647.76 --> 5651.76
+ Oh, but you're going to lick me while I'm falling down?
+
+1490
+5651.76 --> 5653.76
+ Show me your butt.
+
+1491
+5653.76 --> 5655.76
+ Show me your butt.
+
+1492
+5658.76 --> 5660.76
+ Show me your butt.
+
+1493
+5660.76 --> 5661.76
+ It's amazing.
+
+1494
+5674.76 --> 5677.76
+ Look this way, not the other way.
+
+1495
+5680.76 --> 5681.76
+ I'll hold the camera.
+
+1496
+5681.76 --> 5683.76
+ Can I look this way?
+
+1497
+5683.76 --> 5684.76
+ It's amazing.
+
+1498
+5684.76 --> 5686.76
+ It's in the way.
+
+1499
+5686.76 --> 5687.76
+ It's in the way.
+
+1500
+5690.76 --> 5692.76
+ Can I lick your tongue?
+
+1501
+5692.76 --> 5693.76
+ Can I lick your tongue?
+
+1502
+5693.76 --> 5694.76
+ Be careful.
+
+1503
+5695.76 --> 5697.76
+ Please lick my tongue.
+
+1504
+5699.76 --> 5700.76
+ Are you okay?
+
+1505
+5701.76 --> 5702.76
+ I'm scared.
+
+1506
+5705.76 --> 5706.76
+ I can't do this.
+
+1507
+5709.76 --> 5710.76
+ It's amazing.
+
+1508
+5715.76 --> 5716.76
+ Are you being licked by a girl?
+
+1509
+5717.76 --> 5718.76
+ You're being licked by two people.
+
+1510
+5718.76 --> 5719.76
+ You're being licked by two people.
+
+1511
+5719.76 --> 5720.76
+ It's amazing.
+
+1512
+5728.20 --> 5729.20
+ It's very cute.
+
+1513
+5730.20 --> 5732.20
+ I don't want to be licked at all.
+
+1514
+5741.20 --> 5742.20
+ Do you want to do it?
+
+1515
+5742.20 --> 5744.20
+ I don't want to be licked.
+
+1516
+5746.20 --> 5747.20
+ I'll hold the camera.
+
+1517
+5750.20 --> 5751.20
+ I'll hold the camera.
+
+1518
+5752.20 --> 5753.20
+ It's amazing.
+
+1519
+5777.86 --> 5778.86
+ At the same time.
+
+1520
+5782.49 --> 5783.49
+ How do you feel?
+
+1521
+5783.49 --> 5785.49
+ It's the first time I've ever been licked.
+
+1522
+5785.49 --> 5786.49
+ That's right.
+
+1523
+5789.49 --> 5791.49
+ I didn't know there were so many people.
+
+1524
+5792.49 --> 5793.49
+ I didn't know there were so many people.
+
+1525
+5793.49 --> 5794.49
+ It's amazing.
+
+1526
+5797.49 --> 5799.49
+ I like this moment.
+
+1527
+5801.49 --> 5802.49
+ It's amazing.
+
+1528
+5805.49 --> 5806.49
+ It's amazing.
+
+1529
+5809.49 --> 5810.49
+ Wait a minute.
+
+1530
+5811.49 --> 5812.49
+ Wait a minute.
+
+1531
+5813.49 --> 5815.49
+ I don't want to be licked at all.
+
+1532
+5817.49 --> 5820.49
+ Do you always lick your tongue so slowly?
+
+1533
+5822.49 --> 5824.49
+ I don't do that at all.
+
+1534
+5825.49 --> 5826.49
+ I'm a boy.
+
+1535
+5828.49 --> 5831.49
+ It's been a long time since I've been licked, so my mouth hurts.
+
+1536
+5832.49 --> 5833.49
+ Please sit down.
+
+1537
+5842.93 --> 5843.93
+ You're a girl.
+
+1538
+5862.30 --> 5863.30
+ How's your butt?
+
+1539
+5863.30 --> 5864.30
+ I don't like it.
+
+1540
+5871.30 --> 5872.30
+ No, no, no.
+
+1541
+5872.30 --> 5874.30
+ Please lick that part properly.
+
+1542
+5876.30 --> 5877.30
+ Please sit down.
+
+1543
+5882.30 --> 5883.30
+ What are you doing?
+
+1544
+5884.30 --> 5885.30
+ You're licking your butt.
+
+1545
+5886.30 --> 5888.30
+ You like your butt, don't you?
+
+1546
+5889.30 --> 5890.30
+ You're licking your butt.
+
+1547
+5892.30 --> 5893.30
+ It's strange.
+
+1548
+5894.30 --> 5896.30
+ Please touch this part properly.
+
+1549
+5898.30 --> 5899.30
+ Please touch it.
+
+1550
+5900.30 --> 5902.30
+ While you're doing that, I'll lick this part.
+
+1551
+5905.30 --> 5906.30
+ You're so cute.
+
+1552
+5907.30 --> 5908.30
+ I'll lick it.
+
+1553
+5913.30 --> 5915.74
+ I'm embarrassed.
+
+1554
+5917.74 --> 5918.74
+ It's amazing.
+
+1555
+5924.74 --> 5925.74
+ I'm going to sleep.
+
+1556
+5930.74 --> 5931.74
+ You're licking your butt.
+
+1557
+5933.74 --> 5934.74
+ You're licking your butt.
+
+1558
+5934.74 --> 5935.74
+ You're licking your butt.
+
+1559
+5944.76 --> 5945.76
+ You're so mean.
+
+1560
+5946.76 --> 5947.76
+ Don't lick my butt.
+
+1561
+5948.76 --> 5949.76
+ I don't like my butt.
+
+1562
+5963.76 --> 5964.76
+ You're so cute.
+
+1563
+5966.76 --> 5967.76
+ How's your butt?
+
+1564
+5968.76 --> 5969.76
+ It's amazing.
+
+1565
+5971.76 --> 5972.76
+ You're licking that part.
+
+1566
+5974.76 --> 5975.76
+ It's amazing.
+
+1567
+5981.76 --> 5982.76
+ Can I have the camera?
+
+1568
+5991.48 --> 5992.48
+ Can I ask you a favor?
+
+1569
+5993.48 --> 5994.48
+ I'm so nervous.
+
+1570
+6002.75 --> 6003.75
+ Please don't run away.
+
+1571
+6004.75 --> 6005.75
+ Come here.
+
+1572
+6021.75 --> 6022.75
+ You're licking your butt.
+
+1573
+6028.75 --> 6029.75
+ You feel good, don't you?
+
+1574
+6032.75 --> 6033.75
+ I'm going to sleep.
+
+1575
+6040.53 --> 6041.53
+ You're licking your butt.
+
+1576
+6042.53 --> 6043.53
+ You're so excited.
+
+1577
+6044.53 --> 6045.53
+ I'm so happy.
+
+1578
+6050.53 --> 6051.53
+ You're so good.
+
+1579
+6054.53 --> 6055.53
+ Let me sleep.
+
+1580
+6065.91 --> 6066.91
+ You're so good.
+
+1581
+6115.19 --> 6116.19
+ You're raising your voice.
+
+1582
+6117.19 --> 6118.19
+ You're so good.
+
+1583
+6127.52 --> 6131.88
+ You're licking your butt.
+
+1584
+6132.88 --> 6133.88
+ Can I lick your butt?
+
+1585
+6151.60 --> 6152.60
+ You're so good.
+
+1586
+6163.27 --> 6164.27
+ You feel good, don't you?
+
+1587
+6165.27 --> 6166.27
+ I feel good.
+
+1588
+6166.27 --> 6167.27
+ You're so good.
+
+1589
+6179.03 --> 6180.03
+ Can I have the camera?
+
+1590
+6186.03 --> 6187.03
+ You're amazing.
+
+1591
+6188.03 --> 6189.03
+ You're so good.
+
+1592
+6189.03 --> 6190.03
+ You're so good.
+
+1593
+6193.03 --> 6194.03
+ I've been thinking about this for a while.
+
+1594
+6196.03 --> 6199.03
+ Mr. OO's husband has a great sense of humor.
+
+1595
+6208.03 --> 6209.03
+ Do you want to lick together?
+
+1596
+6216.03 --> 6217.03
+ You're licking together.
+
+1597
+6219.03 --> 6220.03
+ You're amazing.
+
+1598
+6229.03 --> 6230.03
+ You're licking together.
+
+1599
+6236.03 --> 6237.03
+ You're licking your butt.
+
+1600
+6247.13 --> 6248.13
+ How do you feel?
+
+1601
+6248.13 --> 6249.13
+ You're so good.
+
+1602
+6250.13 --> 6251.13
+ You feel good, don't you?
+
+1603
+6252.13 --> 6253.13
+ I've never done this before, so I don't know.
+
+1604
+6254.13 --> 6255.13
+ You're so good.
+
+1605
+6258.13 --> 6259.13
+ I can't catch up with you.
+
+1606
+6269.83 --> 6270.83
+ You're amazing.
+
+1607
+6275.83 --> 6276.83
+ You're so good.
+
+1608
+6279.83 --> 6280.83
+ I haven't done this in a long time.
+
+1609
+6282.83 --> 6283.83
+ Can I have the camera?
+
+1610
+6291.83 --> 6292.83
+ You're amazing.
+
+1611
+6306.83 --> 6307.83
+ You feel good, don't you?
+
+1612
+6310.83 --> 6311.83
+ You're so good.
+
+1613
+6327.33 --> 6328.33
+ You're so energetic.
+
+1614
+6329.33 --> 6330.33
+ I was wondering who you were, but it was you.
+
+1615
+6338.33 --> 6339.33
+ It's amazing here.
+
+1616
+6339.33 --> 6340.33
+ You're taking a picture.
+
+1617
+6341.33 --> 6342.33
+ Who is who?
+
+1618
+6344.33 --> 6345.33
+ I'm taking a picture.
+
+1619
+6356.33 --> 6357.33
+ You look happy.
+
+1620
+6358.33 --> 6359.33
+ You're amazing.
+
+1621
+6363.28 --> 6365.28
+ How many chimpanzees do you think there are in front of you?
+
+1622
+6367.28 --> 6368.28
+ Two?
+
+1623
+6369.28 --> 6370.28
+ Are you happy?
+
+1624
+6372.28 --> 6373.28
+ You're so energetic.
+
+1625
+6377.28 --> 6378.28
+ Are you going to come out?
+
+1626
+6383.28 --> 6384.28
+ Are you going to come out?
+
+1627
+6385.28 --> 6386.28
+ Oh, no.
+
+1628
+6397.28 --> 6398.28
+ Are you going to come out?
+
+1629
+6403.68 --> 6404.68
+ I'm looking at you.
+
+1630
+6405.68 --> 6406.68
+ I'm coming out.
+
+1631
+6408.68 --> 6409.68
+ You're amazing.
+
+1632
+6410.68 --> 6411.68
+ You're still coming out.
+
+1633
+6422.88 --> 6425.32
+ You're amazing.
+
+1634
+6427.32 --> 6428.32
+ You're so energetic.
+
+1635
+6432.32 --> 6433.32
+ You're sucking it out.
+
+1636
+6434.32 --> 6435.32
+ You're amazing.
+
+1637
+6440.32 --> 6441.32
+ Did you see it?
+
+1638
+6443.32 --> 6444.32
+ You're so energetic.
+
+1639
+6445.32 --> 6446.32
+ You're so energetic.
+
+1640
+6449.32 --> 6450.32
+ I'm going to come out, too.
+
+1641
+6458.32 --> 6459.32
+ The camera flew away.
+
+1642
+6462.32 --> 6463.32
+ Let's go over there.
+
+1643
+6473.32 --> 6474.32
+ What do you want to do?
+
+1644
+6476.32 --> 6477.32
+ What do you want to do?
+
+1645
+6484.32 --> 6486.32
+ I want you to do it properly.
+
+1646
+6493.32 --> 6494.32
+ You're so energetic.
+
+1647
+6496.32 --> 6497.32
+ You're amazing.
+
+1648
+6499.32 --> 6500.32
+ You're still coming out.
+
+1649
+6503.32 --> 6504.32
+ You're so energetic.
+
+1650
+6505.32 --> 6506.32
+ You're so energetic.
+
+1651
+6508.32 --> 6509.32
+ Thank you for earlier.
+
+1652
+6510.32 --> 6511.32
+ You're welcome.
+
+1653
+6511.32 --> 6512.32
+ You can do it whenever you want.
+
+1654
+6515.32 --> 6516.32
+ Let's do it properly.
+
+1655
+6517.32 --> 6518.32
+ All right.
+
+1656
+6519.32 --> 6520.32
+ Look at this.
+
+1657
+6524.32 --> 6525.32
+ You're so energetic.
+
+1658
+6530.32 --> 6531.32
+ You're amazing.
+
+1659
+6533.32 --> 6534.32
+ You're sucking it out.
+
+1660
+6537.32 --> 6538.32
+ You're amazing.
+
+1661
+6546.70 --> 6547.70
+ You're so energetic.
+
+1662
+6550.70 --> 6551.70
+ You're so energetic.
+
+1663
+6560.70 --> 6561.70
+ You're amazing.
+
+1664
+6563.70 --> 6564.70
+ Did it go away?
+
+1665
+6566.70 --> 6567.70
+ It's gone.
+
+1666
+6572.70 --> 6573.70
+ You're amazing.
+
+1667
+6575.70 --> 6576.70
+ You're so energetic.
+
+1668
+6578.70 --> 6579.70
+ You're so energetic.
+
+1669
+6581.70 --> 6582.70
+ You're so energetic.
+
+1670
+6590.70 --> 6591.70
+ You're sucking it out.
+
+1671
+6593.70 --> 6594.70
+ You're sucking it out.
+
+1672
+6595.70 --> 6596.70
+ You're sucking it out.
+
+1673
+6596.70 --> 6597.70
+ I'm sucking it out, too.
+
+1674
+6598.70 --> 6599.70
+ I'm going to put it in.
+
+1675
+6601.70 --> 6602.70
+ You're amazing.
+
+1676
+6613.72 --> 6614.72
+ You're amazing.
+
+1677
+6619.72 --> 6620.72
+ It's gone.
+
+1678
+6622.72 --> 6623.72
+ It's a break.
+
+1679
+6625.72 --> 6626.72
+ You're so energetic.
+
+1680
+6629.72 --> 6630.72
+ You're amazing.
+
+1681
+6637.72 --> 6638.72
+ You're amazing.
+
+1682
+6651.72 --> 6652.72
+ You're so energetic.
+
+1683
+6652.72 --> 6653.72
+ You're so energetic.
+
+1684
+6653.72 --> 6655.72
+ Ayu-san, you're so naughty.
+
+1685
+6655.72 --> 6656.72
+ What?
+
+1686
+6656.72 --> 6657.72
+ You're so naughty.
+
+1687
+6657.72 --> 6659.72
+ I'm more naughty than usual.
+
+1688
+6660.72 --> 6662.72
+ It's getting fun.
+
+1689
+6663.72 --> 6665.72
+ Is it twinkling?
+
+1690
+6687.64 --> 6688.64
+ Ayu, does it feel good?
+
+1691
+6688.64 --> 6689.64
+ Yes, it does.
+
+1692
+6691.64 --> 6692.64
+ Does it feel good?
+
+1693
+6692.64 --> 6694.64
+ Yes, it does.
+
+1694
+6701.35 --> 6703.35
+ It's so quiet.
+
+1695
+6703.35 --> 6705.35
+ It feels so good.
+
+1696
+6709.35 --> 6711.35
+ Wow, it's so fast.
+
+1697
+6719.10 --> 6721.10
+ What's going on?
+
+1698
+6721.10 --> 6723.10
+ It's so fast.
+
+1699
+6725.10 --> 6729.10
+ I can hear Ayu's voice over there.
+
+1700
+6732.10 --> 6733.10
+ Please hold me.
+
+1701
+6733.10 --> 6735.10
+ I can't hold it anymore.
+
+1702
+6736.10 --> 6738.10
+ Let me hold you.
+
+1703
+6744.10 --> 6751.12
+ It feels so good.
+
+1704
+6757.01 --> 6759.01
+ It feels so good.
+
+1705
+6769.01 --> 6771.01
+ Wow, it's amazing.
+
+1706
+6773.01 --> 6775.01
+ Ayu, your butt.
+
+1707
+6775.01 --> 6777.01
+ Wait a minute.
+
+1708
+6784.01 --> 6786.01
+ Ayu, your butt is so cute.
+
+1709
+6786.01 --> 6788.01
+ It's amazing.
+
+1710
+6790.01 --> 6792.01
+ Wow, it's amazing.
+
+1711
+6794.01 --> 6796.01
+ It's so quiet.
+
+1712
+6798.01 --> 6800.01
+ It feels so good.
+
+1713
+6800.01 --> 6802.01
+ Let me hold you.
+
+1714
+6809.01 --> 6811.01
+ It feels so good.
+
+1715
+6811.01 --> 6813.01
+ Does it feel good?
+
+1716
+6813.01 --> 6815.01
+ It feels so good.
+
+1717
+6815.01 --> 6817.01
+ It feels so good, doesn't it?
+
+1718
+6817.01 --> 6819.01
+ You shouldn't do that.
+
+1719
+6821.01 --> 6823.01
+ Wow, it's amazing.
+
+1720
+6823.01 --> 6825.01
+ Ayu regained her energy.
+
+1721
+6825.01 --> 6827.01
+ It's amazing.
+
+1722
+6828.01 --> 6830.01
+ Please hold me.
+
+1723
+6832.01 --> 6834.01
+ Wow, it feels so good.
+
+1724
+6840.01 --> 6842.01
+ It feels so good.
+
+1725
+6842.01 --> 6844.01
+ Wait a minute.
+
+1726
+6844.01 --> 6846.01
+ I'll put it in slowly.
+
+1727
+6849.01 --> 6851.01
+ You're going to put it in, too.
+
+1728
+6851.01 --> 6853.01
+ It feels so good.
+
+1729
+6853.01 --> 6855.01
+ It feels so good.
+
+1730
+6855.01 --> 6857.01
+ It feels so good.
+
+1731
+6861.01 --> 6863.01
+ It feels so good.
+
+1732
+6868.01 --> 6870.01
+ You're going to put it in, too.
+
+1733
+6872.01 --> 6874.01
+ Please take a picture of yourself.
+
+1734
+6878.01 --> 6880.01
+ It feels so good.
+
+1735
+6881.01 --> 6883.01
+ Please take a picture of the camera.
+
+1736
+6883.01 --> 6885.01
+ It feels so good.
+
+1737
+6885.01 --> 6887.01
+ It feels so good.
+
+1738
+6922.92 --> 6924.92
+ I'm sorry.
+
+1739
+6929.92 --> 6931.92
+ It feels so good.
+
+1740
+6936.62 --> 6938.62
+ Does it feel good?
+
+1741
+6938.62 --> 6940.62
+ It feels so good.
+
+1742
+6940.62 --> 6942.62
+ You're smiling.
+
+1743
+6957.66 --> 6959.66
+ It feels so good.
+
+1744
+6959.66 --> 6961.66
+ Please hold me.
+
+1745
+6961.66 --> 6963.66
+ I'm sorry.
+
+1746
+6963.66 --> 6965.66
+ It feels so good.
+
+1747
+6974.12 --> 6976.12
+ It feels so good.
+
+1748
+6988.12 --> 6990.12
+ It feels so good.
+
+1749
+6991.12 --> 6993.12
+ I am very happy.
+
+1750
+6998.40 --> 7002.35
+ I'll hold you.
+
+1751
+7004.35 --> 7006.35
+ Oh, it feels good.
+
+1752
+7018.04 --> 7021.87
+ It's okay, it's okay, it's okay.
+
+1753
+7027.87 --> 7029.87
+ Oh, it feels good.
+
+1754
+7034.87 --> 7036.87
+ Let's lie down side by side.
+
+1755
+7038.87 --> 7040.87
+ Please lie down on my back.
+
+1756
+7043.87 --> 7045.87
+ I'll hold you.
+
+1757
+7045.87 --> 7047.87
+ Let's lie down together.
+
+1758
+7052.87 --> 7053.87
+ Oh, it feels good.
+
+1759
+7054.87 --> 7056.87
+ Oh, it feels good.
+
+1760
+7088.51 --> 7090.51
+ Oh, it feels good.
+
+1761
+7095.51 --> 7097.51
+ Can I hold you from behind?
+
+1762
+7097.51 --> 7099.51
+ Oh, it feels good.
+
+1763
+7107.51 --> 7109.51
+ Oh, it feels good.
+
+1764
+7123.06 --> 7125.06
+ Oh, it feels good.
+
+1765
+7125.06 --> 7127.06
+ Can I hold you from behind?
+
+1766
+7152.76 --> 7154.76
+ Oh, it feels good.
+
+1767
+7154.76 --> 7156.76
+ It's the best.
+
+1768
+7158.76 --> 7160.76
+ It's the best.
+
+1769
+7160.76 --> 7162.76
+ Oh, it feels good.
+
+1770
+7163.76 --> 7165.76
+ Oh, it feels good.
+
+1771
+7176.76 --> 7178.76
+ Oh, it feels good.
+
+1772
+7182.76 --> 7184.76
+ Oh, it feels good.
+
+1773
+7194.76 --> 7196.76
+ Let's lie down side by side.
+
+1774
+7198.76 --> 7200.76
+ Oh, it feels good.
+
+1775
+7202.76 --> 7204.76
+ Oh, it feels good.
+
+1776
+7204.76 --> 7206.76
+ It's going!
+
+1777
+7229.35 --> 7231.35
+ Oh, it feels good.
+
+1778
+7235.35 --> 7237.35
+ My legs are getting stiff.
+
+1779
+7238.35 --> 7240.35
+ Oh, it feels good.
+
+1780
+7241.35 --> 7245.36
+ I'm so happy.
+
+1781
+7245.36 --> 7247.36
+ I can hear the sound of the baby crying.
+
+1782
+7247.36 --> 7251.36
+ I didn't know that I was going to have a baby.
+
+1783
+7253.36 --> 7255.36
+ I'm so happy.
+
+1784
+7255.36 --> 7257.36
+ I'm so happy.
+
+1785
+7267.36 --> 7269.36
+ Are you still going to have a baby?
+
+1786
+7269.36 --> 7271.36
+ Yes.
+
+1787
+7271.36 --> 7273.36
+ That's amazing.
+
+1788
+7273.36 --> 7275.36
+ It doesn't change.
+
+1789
+7277.36 --> 7279.36
+ That's amazing.
+
+1790
+7279.36 --> 7281.36
+ I feel good no matter how many times I touch it.
+
+1791
+7283.36 --> 7285.36
+ I'll move while eating this.
+
+1792
+7287.36 --> 7289.36
+ Can I go get the camera?
+
+1793
+7289.36 --> 7291.36
+ Really?
+
+1794
+7291.36 --> 7293.36
+ I'll follow you.
+
+1795
+7293.36 --> 7295.36
+ That's amazing.
+
+1796
+7295.36 --> 7297.36
+ That's amazing.
+
+1797
+7297.36 --> 7299.36
+ You're really following me.
+
+1798
+7301.36 --> 7303.36
+ That's amazing.
+
+1799
+7305.36 --> 7309.00
+ I'm here.
+
+1800
+7311.00 --> 7313.00
+ That's amazing.
+
+1801
+7319.00 --> 7326.02
+ That's amazing.
+
+1802
+7328.02 --> 7330.02
+ That's amazing.
+
+1803
+7332.02 --> 7334.02
+ I'm so happy.
+
+1804
+7338.02 --> 7341.52
+ I'm going to touch the baby.
+
+1805
+7341.52 --> 7343.52
+ That's amazing.
+
+1806
+7377.78 --> 7382.18
+ I've never seen a baby like this.
+
+1807
+7384.18 --> 7386.18
+ I've never seen a baby like this.
+
+1808
+7386.18 --> 7388.18
+ I've never seen a baby like this.
+
+1809
+7415.48 --> 7417.48
+ I feel good.
+
+1810
+7417.48 --> 7419.48
+ Do you feel good?
+
+1811
+7434.20 --> 7436.20
+ That's amazing.
+
+1812
+7444.20 --> 7446.20
+ That's amazing.
+
+1813
+7456.20 --> 7458.20
+ That's amazing.
+
+1814
+7458.20 --> 7460.20
+ That's amazing.
+
+1815
+7466.20 --> 7468.20
+ I'm going to take a lot of pictures of you.
+
+1816
+7470.20 --> 7472.20
+ Are you going to take it?
+
+1817
+7472.20 --> 7474.20
+ I'll take it.
+
+1818
+7476.20 --> 7478.20
+ That's amazing.
+
+1819
+7482.20 --> 7484.20
+ That's amazing.
+
+1820
+7484.20 --> 7486.20
+ Take a good picture.
+
+1821
+7488.20 --> 7490.20
+ That's amazing.
+
+1822
+7490.20 --> 7492.20
+ You're all so cute.
+
+1823
+7494.20 --> 7496.20
+ That's amazing.
+
+1824
+7500.20 --> 7502.20
+ That's amazing.
+
+1825
+7510.20 --> 7512.20
+ That's amazing.
+
+1826
+7512.20 --> 7517.49
+ That's amazing.
+
+1827
+7519.49 --> 7521.49
+ Can you get up again?
+
+1828
+7525.49 --> 7527.49
+ Did you do it?
+
+1829
+7527.49 --> 7529.49
+ I like this.
+
+1830
+7531.49 --> 7533.49
+ You like it when you're being beaten, right?
+
+1831
+7553.14 --> 7559.46
+ Look at me.
+
+1832
+7561.46 --> 7563.46
+ I'm going to take a picture of you.
+
+1833
+7575.97 --> 7577.97
+ I've never seen a baby like this.
+
+1834
+7577.97 --> 7579.97
+ I've never seen a baby like this.
+
+1835
+7579.97 --> 7581.97
+ I've never seen a baby like this.
+
+1836
+7583.97 --> 7585.97
+ Do you feel good?
+
+1837
+7585.97 --> 7587.97
+ That's amazing.
+
+1838
+7593.97 --> 7595.97
+ Do you feel good?
+
+1839
+7599.97 --> 7601.97
+ Do you feel good?
+
+1840
+7605.97 --> 7607.97
+ That's amazing.
+
+1841
+7609.97 --> 7611.97
+ That's amazing.
+
+1842
+7615.97 --> 7617.97
+ That's amazing.
+
+1843
+7621.97 --> 7623.97
+ I've never seen a baby this close.
+
+1844
+7625.97 --> 7627.97
+ That's amazing.
+
+1845
+7627.97 --> 7629.97
+ That's amazing.
+
+1846
+7631.97 --> 7633.97
+ I didn't think it was like this.
+
+1847
+7635.97 --> 7637.97
+ Why?
+
+1848
+7639.97 --> 7641.97
+ That's amazing.
+
+1849
+7641.97 --> 7643.97
+ Did you wake up?
+
+1850
+7643.97 --> 7645.97
+ How do you feel?
+
+1851
+7647.97 --> 7649.97
+ Don't make a strange face.
+
+1852
+7653.97 --> 7655.97
+ Maybe you can disinfect your hair.
+
+1853
+7657.97 --> 7659.97
+ I'm going to rinse it.
+
+1854
+7659.97 --> 7661.97
+ Dissing the hair.
+
+1855
+7665.97 --> 7669.97
+ It's a different kind of combs.
+
+1856
+7669.97 --> 7671.97
+ Give me a minute.
+
+1857
+7673.97 --> 7675.97
+ How do you feel?
+
+1858
+7676.97 --> 7679.97
+ I can't help but support you.
+
+1859
+7700.30 --> 7701.30
+ How do you feel?
+
+1860
+7701.30 --> 7702.30
+ I feel great.
+
+1861
+7702.30 --> 7703.30
+ Really?
+
+1862
+7730.03 --> 7732.03
+ How do you feel?
+
+1863
+7733.03 --> 7734.03
+ I feel great.
+
+1864
+7735.03 --> 7738.03
+ Let's go to the hospital.
+
+1865
+7743.03 --> 7744.03
+ How do you feel?
+
+1866
+7744.03 --> 7745.03
+ How do you feel?
+
+1867
+7745.03 --> 7746.03
+ I feel great.
+
+1868
+7747.03 --> 7748.03
+ I'll take a picture of you.
+
+1869
+7748.03 --> 7749.03
+ Can I take a picture of you?
+
+1870
+7749.03 --> 7750.03
+ Yes.
+
+1871
+7754.60 --> 7755.60
+ How do you feel?
+
+1872
+7761.60 --> 7767.00
+ You have a lot of pus.
+
+1873
+7779.00 --> 7781.00
+ I told you to follow me.
+
+1874
+7782.00 --> 7786.00
+ I didn't know you could say that.
+
+1875
+7787.00 --> 7790.00
+ I told you that I love you.
+
+1876
+7794.00 --> 7813.08
+ You are great.
+
+1877
+7834.16 --> 7836.16
+ You have a lot of pus.
+
+1878
+7836.16 --> 7840.16
+ Lie down.
+
+1879
+7847.16 --> 7848.16
+ Are you okay?
+
+1880
+7849.16 --> 7851.16
+ I don't usually do that.
+
+1881
+7851.16 --> 7852.16
+ I know.
+
+1882
+7858.16 --> 7860.16
+ Are you okay?
+
+1883
+7860.16 --> 7862.16
+ You have a lot of pus.
+
+1884
+7865.16 --> 7867.16
+ Are you okay?
+
+1885
+7882.35 --> 7885.35
+ Why do you have so much pus?
+
+1886
+7886.35 --> 7887.35
+ I'm scared.
+
+1887
+7889.35 --> 7892.35
+ Why do you have so much pus?
+
+1888
+7894.35 --> 7895.35
+ I feel great.
+
+1889
+7913.35 --> 7914.35
+ I feel great.
+
+1890
+7915.35 --> 7916.35
+ I'll hold you.
+
+1891
+7920.35 --> 7921.35
+ I feel great.
+
+1892
+7957.32 --> 7958.32
+ I feel great.
+
+1893
+7960.32 --> 7961.32
+ Can I hold you?
+
+1894
+7965.32 --> 7966.32
+ You are great.
+
+1895
+7967.32 --> 7970.53
+ You have a lot of pus.
+
+1896
+7971.53 --> 7972.53
+ You have a lot of pus.
+
+1897
+7976.53 --> 7977.53
+ She fell down.
+
+1898
+7978.53 --> 7979.53
+ You are great.
+
+1899
+7984.53 --> 7985.53
+ You are great.
+
+1900
+7987.53 --> 7988.53
+ You are great.
+
+1901
+7989.53 --> 7990.53
+ You have a lot of pus.
+
+1902
+7997.29 --> 7998.29
+ You have a lot of pus.
+
+1903
+7999.29 --> 8000.29
+ You are great.
+
+1904
+8017.63 --> 8018.63
+ I feel great.
+
+1905
+8039.92 --> 8040.92
+ Are you okay?
+
+1906
+8041.92 --> 8042.92
+ Are you okay?
+
+1907
+8043.92 --> 8044.92
+ Are you okay?
+
+1908
+8044.92 --> 8045.92
+ Are you okay?
+
+1909
+8049.92 --> 8051.92
+ I'll bring the camera over there.
+
+1910
+8061.84 --> 8062.84
+ You have a lot of pus.
+
+1911
+8066.53 --> 8067.53
+ You have a lot of pus.
+
+1912
+8072.53 --> 8073.53
+ You are great.
+
+1913
+8076.53 --> 8077.53
+ I have a lot of pus.
+
+1914
+8077.53 --> 8078.53
+ You have a lot of pus.
+
+1915
+8079.53 --> 8080.53
+ You are great.
+
+1916
+8085.53 --> 8086.53
+ You have a lot of pus.
+
+1917
+8088.53 --> 8089.53
+ It's hot.
+
+1918
+8109.56 --> 8110.56
+ Are you okay?
+
+1919
+8112.56 --> 8113.56
+ Are you okay?
+
+1920
+8114.56 --> 8115.56
+ You have a lot of pus.
+
+1921
+8124.56 --> 8125.56
+ Please take it out.
+
+1922
+8131.56 --> 8134.12
+ You have a lot of pus.
+
+1923
+8139.12 --> 8140.12
+ You have a lot of pus.
+
+1924
+8141.12 --> 8142.12
+ I'll take it out.
+
+1925
+8144.12 --> 8145.12
+ I can see it.
+
+1926
+8153.12 --> 8154.12
+ You have a lot of pus.
+
+1927
+8159.12 --> 8160.12
+ You are great.
+
+1928
+8162.12 --> 8163.12
+ You are great.
+
+1929
+8168.12 --> 8169.12
+ Do you feel good?
+
+1930
+8171.12 --> 8172.12
+ You look very good.
+
+1931
+8174.12 --> 8175.12
+ I feel great.
+
+1932
+8178.12 --> 8179.12
+ I feel great.
+
+1933
+8182.12 --> 8183.12
+ Your husband is doing his best.
+
+1934
+8187.12 --> 8188.12
+ I want to take it out, too.
+
+1935
+8191.12 --> 8192.12
+ I'll take it out.
+
+1936
+8195.12 --> 8196.12
+ I'll take it out.
+
+1937
+8201.12 --> 8202.12
+ I feel great.
+
+1938
+8204.12 --> 8205.12
+ I feel great.
+
+1939
+8209.12 --> 8210.12
+ I'll take it out.
+
+1940
+8216.12 --> 8217.12
+ You have a lot of pus.
+
+1941
+8225.12 --> 8226.12
+ I'll take it out.
+
+1942
+8235.44 --> 8236.44
+ I'll take it out.
+
+1943
+8265.17 --> 8266.17
+ I'll take it out.
+
+1944
+8280.17 --> 8281.17
+ You are great.
+
+1945
+8282.17 --> 8283.17
+ You have a lot of pus.
+
+1946
+8286.17 --> 8287.17
+ You have a lot of pus.
+
+1947
+8295.17 --> 8296.17
+ I will lick it, too.
+
+1948
+8314.17 --> 8315.17
+ I will take it out, too.
+
+1949
+8346.17 --> 8352.52
+ Oh, I'm sorry.
+
+1950
+8352.52 --> 8354.52
+ I'm sorry.
+
+1951
+8354.52 --> 8356.52
+ Hey, shake your hips more.
+
+1952
+8356.52 --> 8358.52
+ Oh, my God.
+
+1953
+8358.52 --> 8360.52
+ Show me a tough place.
+
+1954
+8360.52 --> 8362.52
+ Oh, I'm sorry.
+
+1955
+8362.52 --> 8364.52
+ I'm sorry.
+
+1956
+8372.52 --> 8374.52
+ Oh, my God.
+
+1957
+8376.52 --> 8378.52
+ What's this?
+
+1958
+8378.52 --> 8380.52
+ Oh, my God.
+
+1959
+8380.52 --> 8382.52
+ Oh, my God.
+
+1960
+8382.52 --> 8384.52
+ Did you feel good?
+
+1961
+8384.52 --> 8386.52
+ Yes, I did.
+
+1962
+8386.52 --> 8388.52
+ Do you want to continue?
+
+1963
+8388.52 --> 8390.52
+ Yes, I do.
+
+1964
+8390.52 --> 8392.52
+ Okay.
+
+1965
+8392.52 --> 8394.52
+ Thank you.
+
+1966
+8394.52 --> 8398.52
+ I still have a lot of things I can't do.
+
+1967
+8398.52 --> 8400.52
+ Oh, I see.
+
+1968
+8400.52 --> 8402.52
+ See you later.
+
+1969
+8402.52 --> 8404.52
+ I want to touch you.
+
+1970
+8404.52 --> 8406.52
+ I'll touch you.
+
+1971
+8406.52 --> 8411.37
+ Oh, my God.
+
