@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2300000
-https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/8508.m3u8
+#https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
