@@ -1,0 +1,57 @@
+python download
+https://www.python.org/downloads/
+
+
+HowTo Run python
+
+01 Install :  python-3.11.4-amd64
+
+02. Cmd run for This commande line
+  (   CD c:\Users\YourAccountLogon\   )
+python -m pip install requests
+python.exe -m pip install --upgrade pip
+
+pip install requests
+pip install bs4
+pip install clint
+pip install pandas
+pip install webvtt-py
+pip install PyDrive
+pip install lxml
+pip install httpx
+pip install selenium
+pip install undetected-chromedriver
+pip install chromedriver
+pip install chardet
+pip install base64
+pip install codecs
+
+
+
+
+
+:::::::::: Update  python ::::::::::
+python.exe -m pip install --upgrade pip
+
+
+Download: chromedriver
+https://chromedriver.storage.googleapis.com/index.html
+https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/
+
+
+
+การ run Scripts 
+
+1 สร้าง Foler Output เช่น
+d:\python\movie87hd
+
+Path .o Script ก็จะเป็น
+f_path = "d:\\python\\movie87hd\\"
+
+พร้อมแล้วก็ Run Scripts ได้เลย เช่น
+
+python dooseries4k.iQiyi.py
+python dooseries4k.E.py
+python dooseries4k.C.py
+python dooseries4k.K.py
+python dooseries4k.WeTV.py
