@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='en'>
+<head>
+<title>ทีวี</title>
+<meta charset='UTF-8' />
+
+
+
+<link href="http://hdtvdd.com/work/css/bootstrap.css" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link href="http://hdtvdd.com/work/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/normalize.css">
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/custom.css">
+
+	
+<!-- Styles of Puerto Responsive Flat Buttons -->
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/main.css">
+	
+<!-- Font awesome -->
+<link rel="stylesheet" href="http://hdtvdd.com/work/assets_remark/fonts/font-awesome/font-awesome.min.css">
+
+<!-- start plugins -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://hdtvdd.com/work/js/jquery-1.11.1.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:100,200,300,400,500,600,700,800,900" rel='stylesheet' type='text/css'>
+
+<script src="http://hdtvdd.com/work/js/jquery.backstretch.js"></script>
+<script src="http://hdtvdd.com/work/bootstrap-login-forms/form-2/assets/js/scripts.js"></script>
+<style type="text/css">
+
+.overlay {
+    z-index: 5;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    position:absolute;
+    text-align:left;
+	background-color:rgba(255,255,255,0);
+}
+
+.overlay-flag {
+    position:absolute;
+    z-index: 6;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    text-align:right;
+	background-color:rgba(255,255,255,0);
+
+}
+
+
+.overlay2 {
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    position:absolute;
+    text-align:left;
+	background-color:rgba(0,0,0,0.5);
+	height:60px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:5px;
+	width:100%;
+	margin-left:0px;
+	margin-top:35px;
+}
+.login_botton {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
+.live_botton {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
+.login_txt {
+	border: #0A0A0A;
+	color: black;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 4px;
+	width:150px;
+    margin-top: -6px;
+
+}
+
+input:focus {
+	outline: none !important;
+	border-color: #F7AA06;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px
+}
+
+button:focus {
+	outline: none !important;
+	border-color: #F7AA06;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px;
+}
+
+a:focus img{
+	outline: none !important;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px;
+
+}
+
+.box-flag {
+	border: 0px;
+	background-color: rgba(255,255,255,0.0);
+	display: inline-block;
+}
+
+
+
+</style>
+<link rel="stylesheet" href="http://hdtvdd.com/work/font/stylesheet.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/8k.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/overlay.css" type="text/css" charset="utf-8">
+<link href="http://hdtvdd.com/work/css/theme.css" rel="stylesheet">
+
+</head>
+<body>
+
+
+  <style>
+  .modal-header {
+    background-color: #111;
+    color:white !important;
+    text-align: center;
+    font-size: 30px;
+  }
+  .modal-footer {
+    background-color: #f9f9f9;
+  }
+  
+.group {
+  margin-bottom: 30px;
+}
+.group label {
+  font-size: 24px;
+}
+.group2 label {
+  font-size: 20px;
+}
+  
+  input[type='text'] { font-size: 24px; }
+  
+  </style>
+
+
+
+
+</div>
+ 
+<script>
+$(document).ready(function(){
+  $("#myBtn").click(function(){
+    $("#myModal").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn2").click(function(){
+    $("#myModal2").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn_vip").click(function(){
+    $("#myModal_vip").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn_cpass").click(function(){
+    $("#myModal_changepass").modal();
+  });
+});
+</script>
+
+<!--background-image:url(images/chinese-new-year-2017.jpg);background-attachment:fixed;background-position:center;-->
+
+    <div class="container" style="background-color:rgba(0,0,0,0.0); height:100%;">
+     <div class="container_wrap">
+     	<div class="row" style="background-color:#000;border-radius:5px">
+        	<div class="col-lg-12 col-md-12 col-xs-12" style="margin-top:10px;margin-bottom:10px;">
+            	<div class="row" >
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-4">
+				<div class="logo">
+									</div>
+			</div>
+
+		<div class="col-lg-12 col-md-12 col-xs-12" align="right" style="padding-top:0px;padding-bottom:5px;padding-left:5px;padding-right:5px">
+            <form class="form-inline">
+                <div class="form-group" style="margin:5px;">
+
+                
+					
+
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script src="https://s3.amazonaws.com/menumaker/menumaker.min.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/menu1.css">
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/mainmenu.css">
+   
+   
+
+</div>
+</div>
+<style type="text/css">
+.footer 
+{
+    text-align: center;
+    position : absolute;
+    bottom : -20;
+    width:99%;
+    height : 56px;
+    margin-top : 50px;
+  }
+</style>
+</header>
+	
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>       
+<div id="cssmenu">
+<ul>
+<i class="" aria-hidden="true"></i><li class="active"><a href="https://tinyurl.com/adminplayid"></i> 🧑‍🔧 ติดต่อแอดมิน</a></li>
+<li class="active"><a href="go:nung"><i class=""></i> 📽️ ดูหนัง</a></li>
+<li class="active"><a href="go:livesod"><i class=""></i> ⚽ บอลสด</a></li>
+     <li class="active"><a href="go:hometv"><i class=" "></i>📱 ดูผ่านมือถือ</a></li>
+<li class="active"><a href="go:sptv"><i class=""></i> ⚽ช่องใหม่</a></li>
+<li> <li class="active"><a href="refreshButton"><i class=""></i> 🖥️ รีเฟรช</a>
+        <ul>
+</div>
+	
+
+    <div class="row">
+		<div class="col-lg-2 col-md-2 col-xs-2" style="width:20%;padding-left:6px;padding-right:6px;">  
+			<div class="col-lg-12 col-md-12 col-xs-12" style="padding-top:5px;padding-bottom:0px">
+			
+						
+
+						
+						
+
+						
+
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+<a class="table-menu" href="/playidtv25/" style="background-color: red"><i class=""></i> <b>📺ดิจิตอลทีวี</b></a>
+	</td>
+</tr>
+</table>
+</div>
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv2.html"><i class=""></i> <b> 🎤ข่าว</b></a>
+		
+	</td>
+</tr>
+</table>
+</div>
+ 
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv3.html"><i class=""></i> <b> 🎭การ์ตูน</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                             
+						
+
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv4.html"><i class=""></i> <b> ⚽กีฬา</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                             
+						
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv5.html"><i class=""></i> <b> 🎬ภาพยนต์</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                             
+						
+
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv6.html"><i class=""></i> <b> 🎞️วาไรตี้</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                             
+						
+
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv7.html"><i class=""></i> <b> 🐧สารคดี</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                             
+					
+
+<div class="row" style="background-color:#202020;padding:0px;">
+<table class="table" style="margin-bottom: 5px;">
+<tr>
+	<td>
+		<a class="table-menu" href="/playidtv25/hdtv9.html"><i class=""></i> <b> 🌐ต่างประเทศ</b></a>
+		
+	</td>
+</tr>
+
+</table>
+</div>
+                 
+            
+           
+
+            </div>
+        </div>  
+
+        <div class="col-lg-9 col-md-9 col-xs-9" style="width:77%;padding-left:0px;padding-right:10px;">
+        <div class="row">
+        <div class="col-lg-12 col-md-12 col-xs-12">
+				
+					<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH1.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCAGmXlsbSuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+								
+								
+													<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH2.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCAWmXlsbTuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+								
+								
+													<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH3.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCBmmXlsbUuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+								
+								
+													<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH4.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCBGmXlsbWuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+								
+								
+													<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH5.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCBWmXlsbXuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+								
+						<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TUGameCH6.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLDoVlO018KyFZSYDaJNloV5L71jsiC0Ht80WMBeU1nN+tzVOap3jTVh9YCx8gCAGmXlsbSuh7jiB4M/rKj7pD7jP/Wc3yHEyG+tHYndB6vNikWIzcQMV8CO/3Jj1kx+Mg3EQnZ/22JrNZmdbxERnZ2ZjDWXY9NhGjfFj5422itFf/xkK6up5VhWNU8m9wrBDg10tbWyQn6IZH7hgCXmX67m16pR0EO3dQ='" autofocus="">	
+
+			</div>
+		</div>							
+															
+									
+								
+
+	<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2023/08/11/d7b46e40-37f7-11ee-854d-adf568f0f9e8_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/true4k#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+
+			</div>
+		</div>							
+								
+										<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192401Premier_Football1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnjBvAIPiVoG219OPHLIJ1UeuP65iNmCojcjjgZpPxw5AqEyfsDErm+OwcMCx5JaR1vTw5+T4F3+30kY/u7u7Yvtiriecy7RDyW5/lkydB6aNylaKHsRcGBCL7zvmGUK0tZgHUro6niG9tAmYvAPRikhd2eOJOg6+yWIAyR82Hm4IOPdgfTgp8kiQNQs3NIlSjs92szR10fiOZH1iE6UkXa4nlmsDlkW3Yty'" autofocus="">	
+			</div>
+		</div>
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192401Premier_Football1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3j3MnYIBm5VuHUPRy5OPuh6gmQQC8OC88pfqm6/OazabEyW9/RBUB23pcW4dI3tdPWxxXNvJmHIhwuxEbjXU52CL9Ih4fPlKSCdwcXDOPIk8iivLFyVnx2W1OM7snPi2v511WMp1m5xmDzgnz8+GnwniL5G7ywuXkni5mRL4R1lR'" autofocus="">	
+			</div>
+		</div>
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192401Premier_Football1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:eng1'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192401Premier_Football1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tpf1th'" autofocus="">	
+			</div>
+		</div>		
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192446Premier_Football2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3j3MnYECx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3uLh6Z8sFso23p98Gjtwh4GGiQmsbNS4yAWWlTPt0BK/'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192446Premier_Football2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnjBvAIPiVoG219OPHLIJ1UeuP65iNmCojcjjgZpPxw5AqEyfsDHrm+OwcMCx5JaR1vTw5+T4F3+30kY/u7u7Yvtiriecy7RDyW5/lkydB6aNylaKHsRcGBCL7zvmGUK0tZgHUro6niG9tAmYvAPRikhd2eOJOg6+yWIAyR82Hm4IOPdgfTgp8luQco1ldJlBzA9yNHIhxHiIZ/1yAOfkX2+nFvgX1kOgg=='" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192446Premier_Football2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:PremierHD2'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192457Premier_Football3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnjBvAIPiVoG219OPHLIJ1UeuP65iNmCojcjjgZpPxw5AqEyfsDGrm+OwcMCx5JaR1vTw5+T4F3+30kY/u7u7Yvtiriecy7RDyW5/lkydB6aNylaKHsRcGBCL7zvmGUK0tZgHUro6niG9tAmYvAPRikhd2eOJOg6+yWIAyR82Hm4IOPdgfTgp8luQco1ldJlBzA9yNHIhxHiIZ/1yAOfkX2+nFvgX1kOgg=='" autofocus="">	
+	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192457Premier_Football3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3j3MnYACx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3uLh6Z8sFso23p98Gjtwh4GGiQmsbNS4yAWWlTPt0BK/'" autofocus="">	
+	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192457Premier_Football3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:epl3'" autofocus="">	
+	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192419Premier_Football4.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3j3MnYcCx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3uLh6Z8sFso23p98Gjtwh4GGiQmsbNS4yAWWlTPt0BK/'" autofocus="">	
+				
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192419Premier_Football4.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tpf4'" autofocus="">	
+				
+			</div>
+		</div>			
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192419Premier_Football4.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bsb-epl4'" autofocus="">	
+				
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192521Premier_Football5.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/p2p-player-generator-jwplayer/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3j3MnYYCx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3uLh6Z8sFso23p98Gjtwh4GGiQmsbNS4yAWWlTPt0BK/'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192521Premier_Football5.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tpf5'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192521Premier_Football5.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tpf5b'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192933TrueSport1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tsp'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192933TrueSport1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYICx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3q7y5J9zUYR1m5xmDzgnz8+GnwniL5G7ywuXkni5mRL4R1lR'" autofocus="">	
+
+			</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192951TrueSport2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYECx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3q7y5J9zUYR1m5xmDzgnz8+GnwniL5G7ywuXkni5mRL4R1lR'" autofocus="">	
+
+			</div>
+		</div>			
+			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192951TrueSport2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tsp2b'" autofocus="">	
+
+			</div>
+		</div>			
+			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193002TrueSport3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYACx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnQR+veiJaInYvcUtDHer1tHMvr8R0IBzM8DeP7MEqPrwbEWchPkmxKvAA033FEj1pzl2xOe6r3q7y5J9zUYR1m5xmDzgnz8+GnwniL5G7ywuXkni5mRL4R1lR'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193002TrueSport3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYACx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnW0WnbCkXb2wVMmpVB+WJlWQe3LtxLATf42qjrdJ+TrELDGRtaneAdY0IxWbEEQ0n3235Nen5i/7gtt1wWsF7ldJ6HTVwh/j5iQmhdse41ACZh0WyikTgX1lKnsV8mrQlpzmpEzICpDtYwogDw8EJn+7n2EKYaQK15DTP0YcFcyq/detlwSN8NVlbHyDR9oniaag6X5ozzVP+ZS0KZQoY838r'" autofocus="">	
+
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193017TrueSport4.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/tsp4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+
+			</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193030TrueSport5.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYYCx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnW0WnbCkXb2wVMmpVB+WJlWQe3LtxLATf42qjrdJ+TrELDGRtaneAdY0IxWbEEQ0nxG35Nen5i/7gsN1wWsF7ldJ6HTVwh/j5iQmhdse41ACZh0WyikTgX1lKnsV8mrQlpzmpEzICpDtYwogDw8EJn+7n2EKYaQK15DTP0YcFcyq/detlwSN8NVlbHyDR9oniaag6X5ozzVP+ZS0KZQoY838r'" autofocus="">	
+					
+			</div>
+		</div>			
+					<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193030TrueSport5.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tsp5b'" autofocus="">	
+					
+			</div>
+		</div>			
+			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193050TrueSport7.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3izPgYQCx4dbVlDXgZvT4UuxwB5Qs7G4+Ja8xP+EJWCDFGuRoXYnW0WnbCkXb2wVMmpVB+WJlWQe3LtxLATf42qjrdJ+TrELDGRtaneAdY0IxWbEEQ0nxG35Nen5i/7gst1wWsF7ldJ6HTVwh/j5iQmhdse41ACZh0WyikTgX1lKnsV8mrQlpzmpEzICpDtYwogDw8EJn+7n2EKYaQK15DTP0YcFcyq/detlwSN8NVlbHyDR9oniaag6X5ozzVP+ZS0KZQoY838r'" autofocus="">	
+					
+			</div>
+		</div>	
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193050TrueSport7.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tsp7b'" autofocus="">	
+					
+			</div>
+		</div>			
+
+				<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193113Tennis.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/truetennis#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>	
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193113Tennis.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tennis'" autofocus="">	
+			</div>
+		</div>			
+			<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1720429672.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:3bbsports'" autofocus="">	
+			</div>
+		</div>
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1720429672.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/3bbsports1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1694909293.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/nfl#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1728462430.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/volleyball1#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1728462447.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/volleyball2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1728462457.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/volleyball3#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1728462466.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/volleyball4#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1728462475.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/volleyball5#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball1'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball2'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball3'" autofocus="">	
+			</div>
+		</div>	
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/02/01/e3adbba0-c0ed-11ee-9f09-d517c2f32137_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball4'" autofocus="">	
+			</div>
+		</div>			
+					<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball5'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball6'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball7'" autofocus="">	
+			</div>
+		</div>	
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball8'" autofocus="">	
+			</div>
+		</div>			
+				<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball9'" autofocus="">	
+			</div>
+		</div>	
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:trueball10'" autofocus="">	
+			</div>
+		</div>
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:jl1'" autofocus="">	
+			</div>
+		</div>				
+	<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:jl2'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:jl3'" autofocus="">	
+			</div>
+		</div>	
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:jl4'" autofocus="">	
+			</div>
+		</div>			
+		
+<!-- <div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href=''" autofocus="">	
+
+			</div>
+		</div>			
+				<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2024/03/14/2a39b1f0-e1d2-11ee-bb63-0f515d43c6f8_webp_original.webp);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:idsport2'" autofocus="">	
+			</div>
+		</div> -->
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://www.fileinw.com/postor/20240429213640FWsport.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://inwiptv.com/player_demo.php?channel=89782#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+					
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://cms.dmpcdn.com/livetv/2021/04/09/eb739450-9917-11eb-8b27-db7c51a78b67_original.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/golfchannel#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+	
+			</div>
+		</div>			
+			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193126SPOTV.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3ivMnscotN5EW1HdwNiNpwarzhACrK2/6YHs3OfOOWCHFyL30gVUB1C2cW4GJHcHMzBYS73EmWYvr/11IALd9UXQ8shvTrEAAChwdH2YcPwRyG6ITnN7wmv2e8HUyK718IdvRMo4wKRsECNwh4HCxEezZpH7hgCXmX6igFzgX1lEi91/jKxVqgnpHXMetDVUm8U3mP0Xgq3ptWbrL3yw5y+VxMYpMgXzN7Bb7DxPdmBZFXufooXv'" autofocus="">	
+		
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193126SPOTV.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/spotv#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193135SPOTV2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3ivMnsco2q0dRFzcypnO+UDm1B4M/rKj7pD7jP/Wc3yHEyG+tHYndB6naClaM3wdKm4eBquJlWQe3LtxLATf42qjrdZmdcJHDGEud2KDcqRTiHnEBXMklXqhI7izv9G4p5J1QMkp1ZFwPDIqyYGeh02hb8CyhkDakn6wnUWwCVkW3cF7i+Z6vwnpKHIe+D4YmoQI2OlWpLrVjkz1eHDz1jqAy5wvchK/fLAboTdPfWZbFzfOop2wJbI='" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418193135SPOTV2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/spotv2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+							</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418194811NBA.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:tsp'" autofocus="">	
+	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192615Bein1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:beIN1'" autofocus="">	
+					
+			</div>
+		</div>			
+	
+			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192624Bein2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:beIN2'" autofocus="">	
+		</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192653Bein3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein3'" autofocus="">	
+	</div>
+		</div>			
+		
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein4'" autofocus="">	
+			</div>
+		</div>			
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein5'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein6'" autofocus="">	
+			</div>
+		</div>		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein7'" autofocus="">	
+			</div>
+		</div>			
+
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1724241278.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein8#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1724241287.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein9#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1724346113.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein10#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+
+	<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1724849525.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein1_ais#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=android;S.title=PLAYIDTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192615Bein1.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein1fhd'" autofocus="">	
+					
+			</div>
+		</div>			
+	
+			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192624Bein2.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein2fhd'" autofocus="">	
+		</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://img.inwiptv.net/postor/20240418192653Bein3.jpg);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein3fhd'" autofocus="">	
+	</div>
+		</div>			
+		
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='go:bein4fhd'" autofocus="">	
+			</div>
+		</div>			
+		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein5#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein6#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>		
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_7.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/bein7#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1697812603.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3jnPhcExiYNXXFTkgICJ8Bb8wlETqfruscbuka6YNGbRXXOl+l54WwuaNxxbKDcaPGEDEPz72UMd7u1KAx3kqUmT4998ZLAYCmIhKDCfc7BDnFL3TnNpwn27Mfbondjx/YciDoQ/2Jx6DXV+n8/LwkS1cd/1nk7a0jO7nVetCRJClIs13bR0'" autofocus="">	
+			</div>
+		</div>			
+				<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1719768111.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3jnPhcExiYNXXFSK89mW/Rf2gxJN77f0v8i8jrKfJXGBRWvv5l58WEL8RG8obngDNy1fFv3TmzgGuLp7LgjkqXCS48FtYcJHFGtkWD2Bf/8A1GzEA2Mmx2ezY7arl/n2p8lbaYp72IV9Byc+3NrwwFO0IYn1wg2UjXT13hKuChxDittj3awrp3nkGDIQuTsTlsFJjZdbkQ=='" autofocus="">	
+			</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1700012376.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3jnPhcExiYNXXFTawJqByFzlhVhFs+yhrpGm3PHOIXuAEzS/rBAqQEWyaDNOHTYvcWJdGr3Vk2UH7adteUvb6XSjrc9lc/kNF1ksdHyLWv0M3yTLEDRm1mu7Lfu4yvz64tEsFtUs29IzMwp+n8LR0USwb9Ku8AmAijPt0FajCQhJ3YUtk/lu6iC0GH9N9D8OjNoYjelWsPvS2XfVYgK/6QrO+oY3JTCTY84Y0zdBY31BUCnL54W+JaN3FNczy1r6K35GLFU='" autofocus="">	
+			</div>
+		</div>			
+
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1698351468.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='https://anym3u8player.com/player-generator/mplay.php?data=nCLCQmLtFml/wHRSNI+EmeWTWnLVpllRxh9ByExEP3bTJ1sap6P0g9Go0Xd92DxULBcwN+svUrep3jnPhcExiYNXXFTawJqBpi+8mlVEua3i8Nfrxv/Ac2ScFCWo/AgyClmybDAHe0VcAixMA/qJhG4d9PkrNF2W5XaS3olhf/8PAXZfK2KCYY5Oy3CHAyNt2Wi2Lvbo1qLk65QiGIQqzJIrUgwPkYHF0F+vc9+23TidhmX1yBKkBBdfmosj3fpm4jqzBjFV7HUSjN4bxI8lw4iUnjDeYk7y5Tm9naA3MhuDWeprrAtMe3BDCHfV7sCwK+10HN8wzl3/YmZeLApf'" autofocus="">	
+			</div>
+		</div>			
+
+		<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1729385788.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/astrobadminton#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1729384406.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/astrofootball#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1729384448.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/astrograndstand#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1729384542.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/astropremierleague#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+<div class="movie col-4 col-md-3 col-xl-2">
+			<div class="movie-box">
+					<input class="btn" type="button" style="background-size:cover;background-image:url(https://dookeela.live/uploads/1729384502.png);width:140px;height:100.45px;background-position: center center;" onclick="window.location.href='intent://dookeela.live/live-tv/astropremierleague2#Intent;package=com.wiseplay;S.referer=https://dookeela.live/live-tv/&userAgent=ExoMedia;S.title=PlayTV;scheme=https;type=video/mp4;end'" autofocus="">	
+			</div>
+		</div>			
+
+
+
+
+
+</div>
+</div>
+</div>  
+</div> 
+</form>      
+</div>
+</div>
+</div>
+</div>
+   <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4921103,4,15,170,40,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+_Hasync.push(['Histats.framed_page', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4921103&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
