@@ -2,19 +2,30 @@
 {"name": "WIESPLAY TV",
 "author": "PLAYIDTV",
 "url": "https://playtvthai.github.io/m3u8/playtvthai",
-"image": "https://playtvthai.github.io/m3u8/playidtv.png",
+"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
 
 "groups": [{
 "name": "📺🖥️🟢 ดูทีวีออนไลน์'",
 "author": "PLAYID",
-"image": "https://320hd.com/wp-content/uploads/2023/02/cropped-333.png",
+"image": "https://dl.dropbox.com/scl/fi/mivfim737ow7ia2cy20at/tvonlineplayid.jpg?rlkey=qwbj4kj04ncsvdinrgdzeok8z&st=x8thjh4c&dl=0",
 "url": "https://drzl.short.gy/playid.js",
 "online": "true"},
-
+"name": "📺🖥️🟢 ต่างประเทศ'",
+"author": "PLAYID",
+"image": "https://www.dropbox.com/scl/fi/mivfim737ow7ia2cy20at/tvonlineplayid.jpg?rlkey=qwbj4kj04ncsvdinrgdzeok8z&st=x8thjh4c&dl=1",
+"url": "https://dl.dropbox.com/scl/fi/epir19vragpa3w2wezxw2/daddy.m3u?rlkey=9j4lg7ymtwpiqmj11bmgslzc1&st=zcg8k6z4&dl=0",
+"online": "true"},
 {
 "name": "🎬🔞🟢 หนังซีรีย์'18+",
 "author": "PLAYID",
-"image": "https://320hd.com/wp-content/uploads/2023/02/cropped-333.png",
+"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
 "url": "https://drzl.short.gy/alltv.w3u",
+"online": "true"},
+
+{
+"name": "🎬🔞🟢'18+",
+"author": "PLAYID",
+"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
+"url": "https://bit.ly/doonungporn",
 "online": "true"},
 ]}
