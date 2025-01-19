@@ -1,1 +1,20 @@
-playtvthai
+
+{"name": "WIESPLAY TV",
+"author": "PLAYIDTV",
+"url": "",
+"image": "https://playtvthai.github.io/m3u8/playidtv.png",
+
+"groups": [{
+"name": "🐲 ดูหนังออนไลน์",
+"author": "PLAYID",
+"image": "https://320hd.com/wp-content/uploads/2023/02/cropped-333.png",
+"url": "http://playid.ddnsgeek.com:8080/playidtv/12345/18755",
+"userAgent": "playidtv"},
+
+{
+"name": "🐲 ดูหนังออนไลน์",
+"author": "PLAYID",
+"image": "https://320hd.com/wp-content/uploads/2023/02/cropped-333.png",
+"url": "http://playid.ddnsgeek.com:8080/playidtv/12345/18755",
+"userAgent": "playidtv"},
+]}
