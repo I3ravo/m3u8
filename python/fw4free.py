@@ -1,267 +1,122 @@
-from tkinter import PIESLICE
-import requests,re,json
+import requests, json, re, os
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse,unquote,parse_qs
-from urllib.parse import urljoin
-from datetime import datetime
-from clint.textui import colored
+from urllib.parse import urlparse, unquote
+#############################################################
+#web_movie = "https://www.fw4free.com/category.php?cat=movie-thai"
+web_movie = "https://www.fw4free.com/category.php?cat=movie-asia"
 
-#web_movie = input(colored.green("\n กรุณาใส่ URL :"))
-#web_movie = "https://fw4free.com/category.php?cat=horror/"
-#web_movie = "https://fw4free.com/category.php?cat=horror/"
 
-web_movie = "https://fw4free.com/category.php?cat=horror/"
 
-#####  ใส่ที่อยู่ที่ต้องการเก็บตรง f_path  #################################################################
-f_path = r"e:\24-hd\\"
-#f_path = r"D:\playlist\24-hd\\"
-#######################################################################################
-date = datetime.now().strftime("%d")
-mo = datetime.now().strftime("%m")
-month = ['','มกราคม','กุมภาพันธ์','มีนาคม','เมษายน','พฤษภาคม','มิถุนายน','กรกฎาคม','สิงหาคม','กันยายน','ตุลาคม','พฤศจิกายน','ธันวาคม']
-timeday = f'วันที่ {date} {month[int(mo)]} {int(datetime.now().strftime("%Y"))+543}'
 #################################################
-fname = unquote(urlparse(web_movie).path.strip('/').split('/')[-1])
+f_path = r"E:\fw4free\\"
+# f_path = "C://000.Update_series/"
+# os.makedirs(f_path, exist_ok=True)
+####################################################
 wname = unquote(urlparse(web_movie).netloc.strip('.').split('.')[-2])
-f_m3u = wname + "_" +fname+ ".m3u"
-f_w3u = wname + "_" +fname+ ".w3u"
-#################################################
-W_M3U = 1       # 1 = เขียน ไฟล์ m3u 
-W_W3U = 0       # 1 = เขียน ไฟล์ w3u 
-needHD = 1      #
-#################################################
-M_f = 1         #ห้ามแก้
-#################################################
+fname = unquote(urlparse(web_movie).path.strip('/').split('/')[-1])
+f_w3u = f_w3u1 = wname + "_" +fname+".w3u"
+f_m3u = f_m3u1 = wname + "_" +fname+".m3u"
+
+W_W3U = 1       
+W_M3U = 1       
+M_f = 1         
+##########################################
 aseries = """{
     "name": "",
-    "author": "PLAYIDTV",
-    "info": "โดย PLAYIDTV",
+    "author": "",
+    "info": "",
     "image": "",
     "key": []}"""
-#################################################
-
-
-
-headers = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
-from selenium import webdriver
-import warnings
-warnings.filterwarnings("ignore", category=DeprecationWarning)
-options = webdriver.ChromeOptions()
-options.add_argument('--ignore-certificate-errors')
-options.add_argument('--incognito')
-options.add_argument('--headless')
-options.add_argument("User-Agent=" + headers)
-options.add_argument('--disable-dev-shm-usage')
-options.add_experimental_option('excludeSwitches', ['enable-logging'])
-driver = webdriver.Chrome(options=options)
-
-################################################
-
-
-jseries = json.loads(aseries)
-jseries['groups'] = jseries.pop('key')
-parsed_uri = urlparse(web_movie)
-referer = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
+##########################################
+jmovie = json.loads(aseries)
+jmovie['stations'] = jmovie.pop('key')
+referer = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(web_movie))
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36', 
+    'Accept-Language': 'en-US,en;q=0.8',
+    'referer': f'{referer}'
+}
 sess = requests.Session()
-sess.headers.update({'User-Agent': headers, 'referer': referer})
-
-
-driver.get(web_movie)
-soup = BeautifulSoup(driver.page_source, 'lxml')
-
-#driver.get(web_movie)
-#soup = BeautifulSoup(driver.page_source, 'lxml')
-page = soup.find("nav", {"class": "navigation pagination"})
+home_page = sess.get(web_movie)
+soup = BeautifulSoup(home_page.content, "html.parser")
+logo = "https://fw4free.com/images/logo7.png"
+logo = "https://www.icegif.com/wp-content/uploads/2023/10/icegif-969.gif"
+jmovie['name'] = wname
+jmovie['image'] = logo
+jmovie['author'] = jmovie['author']
+page = soup.find('li', class_='page-item active')
 if page is not None:
-    page_numbers = page.find_all("a", {"class": "page-numbers"})
-    if page_numbers:
-        pmax = int(page_numbers[-2].text)
-    else:
-        pmax = 1
-else:
-    pmax = 1
+    pcurrent = int(page.text.strip())
+    pmax = int(soup.find_all('li', class_='page-item')[-2].text.strip())
 
+##########################################
 pcurrent = 1
-#pmax = 1
-jseries['name'] = ppname = soup.find("div", {"class": "movietext"}).text.strip()
-jseries['image'] = "https://fw4free.com/images/logo8.png"
-jseries['author'] = jseries['author'] + timeday
-if jseries['name'] == "แนะนำหนังใหม่":
-    jseries['name'] = "ดูหนังออนไลน์ หนังใหม่ HD ฟรี"
-if ppname == "แนะนำหนังใหม่":
-    ppname = "ดูหนังออนไลน์ หนังใหม่ HD ฟรี"
-
-
-def find_hd(elink):
-    purl = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(elink))
-    view_page = sess.get(elink)
-    regex_pattern = re.compile('RESOLUTION=(.+)*\n(.+[-a-zA-Z0-9()@:%_\+.~#?&//=])')
-    result = regex_pattern.findall(str(view_page.text))
-    if result: 
-        try:
-            result1 = result[-1]
-            purl2 = result1[-1]
-        except:
-            purl2 = result[-1][-1]  
-        purl2 = re.sub(r'^/', '', purl2)
-        elink = purl + purl2
-    return elink
-def edit_link(elink):
-    if elink != "https://fw4free.com/api/fileprocess.html":
-        try:
-            cid = parse_qs(urlparse(elink).query)['id'][0]
-        except:
-            print()
-        purl = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(elink))
-        if re.search('main\.77player\.xyz',elink):
-            try:
-                backup = parse_qs(elink)['backup'][0]
-            except:
-                backup = 0
-            try:
-                ptype = parse_qs(elink)['ptype'][0]
-            except:
-                ptype = 0
-            if backup == 1:
-                elink = purl + 'm1free.inwstream.com:1936/' + cid + '/' + cid + '.m3u8'
-            else:
-                if ptype == 2:
-                    elink = purl + 'm1free.inwstream.com:1936/' + cid + '/' + cid + '.m3u8'
-                else:
-                    elink = purl + 'm1free.inwstream.com:1936/' + cid + '/' + cid + '.m3u8'
-        if re.search('xxx\.77player\.xyz',elink):
-            try:
-                ptype = parse_qs(elink)['ptype'][0]
-            except:
-                ptype = 0
-            if ptype == 2:
-                elink = purl + 'm1free.inwstream.com:1936/' + cid + '/' + cid + '.m3u8'
-            else:
-                elink = purl + 'm1free.inwstream.com:1936/' + cid + '/' + cid + '.m3u8'
-    else:
-        elink = ""
-    return elink
-
+pmax = 1
+##########################################
 pbak = web_movie
-for num in range(int(pcurrent), int(pmax)+1):
-    if num == 1:
-        plink = pbak = web_movie
-    else:
-        plink = "page/%s" % (num)
-        plink = pbak = web_movie + plink
-        driver = webdriver.Chrome(options=options) #เปิด Chrome ใหม่
-        driver.get(plink)
-        soup = BeautifulSoup(driver.page_source, 'lxml')
-
-
-
-    eprint = "หน้า [%s/%s] %s" % (num,pmax,plink)
+for num in range(pcurrent-1, pmax):
+    plink = web_movie if num == 1 else f"{web_movie}&page={num}"
+    referer = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(plink))
+    sess.headers.update({'User-Agent': str(headers), 'referer': referer})
+    eprint = f"\n  หน้าที่ {num+1} จาก {pmax} หน้า"
+    soup.clear()
     print(eprint)
+    total_series = 0
+    home_page = sess.get(plink)
+    referer = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(plink))
+    sess.headers.update({'User-Agent': str(headers), 'referer': referer})
+    soupo = BeautifulSoup(home_page.content, "html.parser")
+    container_fluid = soupo.find('div', class_='container-fluid')
+    movie_divs = container_fluid.find_all('div', class_='col-4 col-lg-2')
+    emax = len(movie_divs)
+    for i,movie_div in enumerate(movie_divs,start=1):
+        title = movie_div.find('div', class_='p-2 text-truncate').text.strip()
+        image_link = movie_div.find('img', class_='img-fluid rounded')['src']
+        link = movie_div.find('a')['href']
+        total_movies = len(movie_divs)
+        total_series += 1
+        home_page = sess.get("https://fw4free.com/" + link)
+        soupi = BeautifulSoup(home_page.content, "html.parser")
+        div_element = soupi.find('div', class_='col-md-4 py-2 col-6 col-sm-5 col-xl-4 text-center')
+        sprint = "Page%s>>[%s/%s] %s" % (num+1,i,emax,title)
+        print(sprint)
+        
+        if div_element:
+            a_element = div_element.find('a', href=True)
+            if a_element:
+                video_url = a_element['href']
+                matches = re.findall(r"\('([^']+)',\s*'([^']+)'\)", video_url)
+                
+                if matches:
+                    channel_code, video_id = matches[0]
+                    url = get_video = f"https://fw4free.com/player2.php?channel={channel_code}&id={video_id}"
+                    print(url)
 
-    articles = soup.find_all("div", class_="box")
-    smax = len(articles)
+        jmovie['stations'].append({"name":title,"image":image_link,"url":get_video,"referer":referer.replace("www.","")})
+        if W_W3U:
+            with open(f_path+f_w3u, 'w',encoding='utf-8') as f:
+                json.dump(jmovie, f, indent=2, ensure_ascii=False)
+        if W_M3U:
+            if M_f:
+                with open(f_path+f_m3u, 'w',encoding='utf-8') as f:
+                    f.write("#EXTM3U\n")
+                    f.close()
+                    M_f = 0
+            with open(f_path+f_m3u, 'a',encoding='utf-8') as f:
+                f.write(f'#EXTINF:-1 tvg-logo="{image_link}" group-title="" ,{title}\n')
+                f.write(f'#EXTVLCOPT:http-referrer={referer}\n')
+                f.write(f'{get_video}\n')
+                f.close()
 
-    for i, article in enumerate(articles, start=1):
-        url = article.find("a")['href']
-        pname = article.find("div", {"class": "p2"}).text.strip()
-        try:
-            ppic = article.find("div", {"class": "box-img"}).find("img")["data-lazy-src"]
-        except:
-            ppic = article.find("div", {"class": "box-img"}).find("img")["src"]
-        ppic = ppic.replace('-187x269','')
-        try:
-            pinfo = article.find("span", {"class": "EP"}).text.strip()
-            pinfo = pinfo.replace("\n"," ")
-        except:
-            pinfo = article.find("div", {"class": "p1"}).text.strip()
-            pinfo = pinfo.replace("\n"," ")
-        eprint = "%s\n[หน้า : %s/%s เรื่องที่ : %s/%s] %s" % (ppname,num,pmax,i,smax,pname)
-        merror = " >>> ค้นหา link %s ไม่เจอ <<< " % (pname)
-        print(eprint)
-        jseries['groups'].append({"name":pname,"info":pinfo,"image":ppic,"stations":[]})
-        #driver.quit()
-        driver = webdriver.Chrome(options=options) #เปิด Chrome ใหม่
-        driver.get(url)
-        soup_video = BeautifulSoup(driver.page_source, 'lxml')
-        lang_select = soup_video.find(id='Lang_select')
-
-        try:
-            default_option = lang_select.find_all('option')
-        except:
-            print(colored.red(merror))
-            continue
-            #exit()
-        for l, link in enumerate(default_option, start=1):
-            default_option = link['value']
-            tsub = default_option
-            if tsub == "Thai":
-                tsub = tsub.replace("Thai","พากย์ไทย")
-            if tsub == "Sound Track":
-                tsub = tsub.replace("Sound Track","ซับไทย")
-            #default_value = default_option['value']
-            lsub = soup_video.find_all(class_='halim-episode')
-            for J, links in enumerate(lsub, start=1):
-                if J ==3:
-                    continue
-                if J ==4:
-                    continue
-                data_post_id = links.find('span')['data-post-id']
-                data_episode = links.find('span')['data-episode']
-                data_server = links.find('span')['data-server']
-                data_position = links.find('span')['data-embed']
-                pnonce = links.find('span')['data-type']
-                data = {
-                    'action': 'halim_ajax_player',
-                    'nonce': pnonce,
-                    'episode': data_episode,
-                    'postid': data_post_id,
-                    'lang': default_option,
-                    'server': data_server
-                }
-                home_page = sess.post("https://api.fw4free.com/get.php", data=data)
-                soup = BeautifulSoup(home_page.content, "lxml")
-                try:
-                    elink = soup.find("iframe")['src']
-                except:
-                    continue
-                if elink == "": continue
-                if elink == "https://fw4free.com/api/fileprocess.html": continue
-                if "https://waaw.to" in elink: continue
-                if "https://face" in elink: continue
-                if ".m1free.inwstream.com" in elink: continue
-                if "https://www.fembed.com/" in elink: continue
-                elink = edit_link(elink)
-                if needHD:
-                    try:
-                        elink = find_hd(elink)
-                    except:
-                        print()
-                print("         ลิ้งค์ : ",(tsub),(colored.blue(elink)))
-                g1 = len(jseries['groups']) - 1
-                jseries['groups'][g1]['stations'].append({"name":pname,"info":tsub,"image":ppic,"url":elink,"referer":referer})
-                if W_M3U:
-                    if M_f:
-                        with open(f_path+f_m3u, 'w',encoding='utf-8') as f:
-                            f.write("#EXTM3U\n")
-                            f.close()
-                            M_f = 0
-                    with open(f_path+f_m3u, 'a',encoding='utf-8') as f:
-                        f.write(f'#EXTINF:-1 tvg-logo="{ppic}" group-title="โดย PLAYIDTV {fname}" ,{pname} {tsub}\n')
-                        f.write(f'#EXTVLCOPT:http-referer={referer}\n')
-                        f.write(f'{elink}\n')
-                        f.close()   
-                if W_W3U:   
-                    with open(f_path+f_w3u, 'w',encoding='utf-8') as f:
-                        json.dump(jseries, f, indent=1, ensure_ascii=False)
-
-print("------ดึงเสร็จสิ้น------")
+print("จบ")
 if W_W3U:
     out  = f_path+f_w3u
     re.sub(r' ', '', out)
-    out  = "บันทึกไฟล์ W3u ที่ " + out
+    out  = "W3u Go to " + out
     print(out)
 if W_M3U:
     out  = f_path+f_m3u
     re.sub(r' ', '', out)
-    out  = "บันทึกไฟล์ M3u ที่ " + out
+    out  = "M3u Go to " + out
     print(out)
+    
