@@ -4,12 +4,12 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:9.300,
+#EXTINF:1.1
 https://ezycdn.com/playlist-qndt381a-master.m3u8
-#EXTINF:8.333,
+#EXTINF:2.2,
 https://movie.server-cdn-streaming.com/api/uploads/movie/4707/video/15732/hls/movie_2.m3u8
-#EXTINF:7.333,
+#EXTINF:3.3,
 https://movie.server-cdn-streaming.com/api/uploads/movie/4818/video/16122/hls/movie_2.m3u8
-#EXTINF:2.867,
+#EXTINF:4.4,
 https://movie.server-cdn-streaming.com/api/uploads/movie/4706/video/17862/hls/movie_2.m3u8
 #EXT-X-ENDLIST
