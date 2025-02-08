@@ -1,31 +1,69 @@
 
-{"name": "WIESPLAY TV",
-"author": "PLAYIDTV",
+{"name": "W3U = [PLAYID]",
+"author":"PLAYID!",
 "url": "https://playtvthai.github.io/m3u8/playtvthai",
-"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
+"image": "https://i.ibb.co/zynQy2j/home.png",
+"groups": [
 
-"groups": [{
-"name": "📺🖥️🟢 ดูทีวีออนไลน์'",
-"author": "PLAYID",
-"image": "https://dl.dropbox.com/scl/fi/mivfim737ow7ia2cy20at/tvonlineplayid.jpg?rlkey=qwbj4kj04ncsvdinrgdzeok8z&st=x8thjh4c&dl=0",
+{"name": " Premium",
+"author":"PLAYID!",
 "url": "https://drzl.short.gy/playid.js",
-"online": "true"},
-"name": "📺🖥️🟢 ต่างประเทศ'",
-"author": "PLAYID",
-"image": "https://www.dropbox.com/scl/fi/mivfim737ow7ia2cy20at/tvonlineplayid.jpg?rlkey=qwbj4kj04ncsvdinrgdzeok8z&st=x8thjh4c&dl=1",
-"url": "https://dl.dropbox.com/scl/fi/epir19vragpa3w2wezxw2/daddy.m3u?rlkey=9j4lg7ymtwpiqmj11bmgslzc1&st=zcg8k6z4&dl=0",
-"online": "true"},
-{
-"name": "🎬🔞🟢 หนังซีรีย์'18+",
-"author": "PLAYID",
-"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
-"url": "https://drzl.short.gy/alltv.w3u",
-"online": "true"},
+"image": "https://dl.dropbox.com/scl/fi/mivfim737ow7ia2cy20at/tvonlineplayid.jpg?rlkey=qwbj4kj04ncsvdinrgdzeok8z&st=x8thjh4c&dl=0",
+"stations": []},
 
-{
-"name": "🎬🔞🟢'18+",
-"author": "PLAYID",
-"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
+{"name": " Premium",
+"author":"PLAYID!",
+"url": "https://drzl.short.gy/playid.js",
+"image": "https://i.ibb.co/Vs82Q0X/sports.png",
+"stations": []},
+
+{"name": "Digital",
+"author":"PLAYID!",
+"url": "#",
+"image": "https://i.ibb.co/VcPqD9gd/freetv.png",
+"stations": []},
+
+{"name": "บันเทิง",
+"author":"PlayID!",
+"url": "",
+"image": "https://i.ibb.co/35sZK8N6/movie.png",
+"stations": []},
+
+{"name": "สารคดี",
+"author":"PLAYID!",
+"url": "#",
+"image": "https://i.ibb.co/S77dX5Ft/documentary.png",
+"stations": []},
+
+{"name": "การ์ตูนข่าว",
+"author":"PLAYID!",
+"url": "",
+"image": "https://i.ibb.co/YByVPhJw/kidsnews.png",
+"stations": []},
+
+{"name": "หนังออนไลน์",
+"author":"PlayID!",
+"url": "https://drzl.short.gy/alltv.w3u",
+"image": "ttps://i.ibb.co/fVb5nntW/movieand.png",
+"stations": []},
+
+{"name": "ซีรี่ออนไลน์",
+"author":"PlayID!",
+"url": "https://drive.google.com/uc?id=1X4C484JPZ9KQ--rsKAG90xUkKXiVVRP0",
+"image": "https://i.postimg.cc/YCWsYk6S/08-Series-Online.png",
+"stations": []},
+
+{"name": "18+",
+"author":"PlayID!",
 "url": "https://bit.ly/doonungporn",
-"online": "true"},
+"image": "https://dl.dropbox.com/scl/fi/0351eaezado4jlsrylr6y/playidhome.jpg?rlkey=paiis2xpkarapzku158ebzh88&st=3ej568l5&dl=0",
+"stations": []},
+
+{"name": "ทีวีต่างประเทศ",
+"author":"PLAYID!",
+"url": "https://dl.dropbox.com/scl/fi/epir19vragpa3w2wezxw2/daddy.m3u?rlkey=9j4lg7ymtwpiqmj11bmgslzc1&st=zcg8k6z4&dl=0",
+"image": "https://i.ibb.co/vjSjfW7/20241219-182151.png",
+"stations": []},
+ 
+
 ]}
