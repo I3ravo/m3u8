@@ -1,0 +1,24 @@
+
+{"name": "ส่องสัตว์","author": "By Gojek","image": "https://i.ibb.co/6y4MLDp/Seeanimal-V3.png","stations": [
+    {
+        "tvg-id": "bbc_news",
+        "tvg-name": "BBC News",
+        "tvg-logo": "https://www.example.com/bbc_logo.png",
+        "group-title": "News",
+        "stream-url": "http://bbcworld.iptv.rent/s01/index.m3u8"
+    },
+    {
+        "tvg-id": "cnn_international",
+        "tvg-name": "CNN International",
+        "tvg-logo": "https://www.example.com/cnn_logo.png",
+        "group-title": "News",
+        "stream-url": "http://cnnstream.cnn.com/stream/live/stream_900.m3u8"
+    },
+    {
+        "tvg-id": "movie_channel",
+        "tvg-name": "Movie Channel",
+        "tvg-logo": "https://www.example.com/movie_channel_logo.png",
+        "group-title": "Movies",
+        "stream-url": "http://moviechannel.iptv.rent/s01/index.m3u8"
+    }
+]
