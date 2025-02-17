@@ -1,0 +1,5 @@
+
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://steam2.xyz/cdn/down/3ad390151eb7d0a08aac404610f6b799/thumbnails.vtt"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4800000,RESOLUTION=3840x1920,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+http://31.220.3.103:2095/play/movie.php?mac=00:1A:79:80:09:03&stream=515605.mkv&play_token=LsNy2WCuWU&type=movie
