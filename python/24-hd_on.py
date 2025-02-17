@@ -10,10 +10,10 @@ from clint.textui import colored
 #web_movie = "https://www.24-hd.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2023/"
 #web_movie = "https://www.24-hd.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b9%e0%b8%99/"
 
-web_movie = "https://www.24-hd.com/%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88-2024/"
+web_movie = "https://www.serie-day.com/แอคชั่น-action/"
 
 #####  ใส่ที่อยู่ที่ต้องการเก็บตรง f_path  #################################################################
-f_path = r"e:\24-hd\\"
+f_path = r"e:\/storage/emulated/0/channel/playlist.w3u\\"
 #f_path = r"D:\playlist\24-hd\\"
 #######################################################################################
 date = datetime.now().strftime("%d")
@@ -34,8 +34,8 @@ M_f = 1         #ห้ามแก้
 #################################################
 aseries = """{
     "name": "",
-    "author": "เจียว เจียว อัพ",
-    "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
+    "author": "PLAYID",
+    "info": "PLAYID",
     "image": "",
     "key": []}"""
 #################################################
@@ -84,7 +84,7 @@ else:
 pcurrent = 1
 #pmax = 1
 jseries['name'] = ppname = soup.find("div", {"class": "movietext"}).text.strip()
-jseries['image'] = "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png"
+jseries['image'] = "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png"
 jseries['author'] = jseries['author'] + timeday
 if jseries['name'] == "แนะนำหนังใหม่":
     jseries['name'] = "ดูหนังออนไลน์ หนังใหม่ HD ฟรี"
@@ -126,7 +126,7 @@ def edit_link(elink):
                 elink = purl + 'newplaylist_g/' + cid + '/' + cid + '.m3u8'
             else:
                 if ptype == 2:
-                    elink = purl + 'newplaylist/' + cid + '/' + cid + '.m3u8'
+                    elink = purl + 'main.24playerhd.com/' + cid + '/' + cid + '.m3u8'
                 else:
                     elink = purl + 'newplaylist/' + cid + '/' + cid + '.m3u8'
         if re.search('xxx\.77player\.xyz',elink):
@@ -135,7 +135,7 @@ def edit_link(elink):
             except:
                 ptype = 0
             if ptype == 2:
-                elink = purl + 'newplaylist/' + cid + '/' + cid + '.m3u8'
+                elink = purl + 'https://main.24playerhd.com/newplaylist/' + cid + '/' + cid + '.m3u8'
             else:
                 elink = purl + 'autoplaylist/' + cid + '/' + cid + '.m3u8'
     else:
@@ -225,7 +225,7 @@ for num in range(int(pcurrent), int(pmax)+1):
                 except:
                     continue
                 if elink == "": continue
-                if elink == "https://www.123-hd.com/api/fileprocess.html": continue
+                if elink == "https://www.serie-day.com/api/get.php": continue
                 if "https://waaw.to" in elink: continue
                 if "https://face" in elink: continue
                 if ".123players" in elink: continue
@@ -246,7 +246,7 @@ for num in range(int(pcurrent), int(pmax)+1):
                             f.close()
                             M_f = 0
                     with open(f_path+f_m3u, 'a',encoding='utf-8') as f:
-                        f.write(f'#EXTINF:-1 tvg-logo="{ppic}" group-title="เจียว เจียว จะดู {fname}" ,{pname} {tsub}\n')
+                        f.write(f'#EXTINF:-1 tvg-logo="{ppic}" group-title="PlayID{fname}" ,{pname} {tsub}\n')
                         f.write(f'#EXTVLCOPT:http-referer={referer}\n')
                         f.write(f'{elink}\n')
                         f.close()   
