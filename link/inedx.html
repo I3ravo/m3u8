@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        PlAYID Wiseplay</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            height: 100%;
+            background-color: black;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .logo {
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 18px;
+        }
+    </style>
+<body>
+    <img class="logo" src="http://45.144.165.187/playid2.png" alt="Logo" width="100">
+    <div class="message">กำลังเปิดใน WATT...</div>
+    <script>
+        window.onload = function() {
+            window.location.href = "http://202.62.56.28:8080/nl.m3u8?id=1061";
+        };
+    </script>
+</body>
+</html>
