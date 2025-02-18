@@ -1,4 +1,7 @@
-https://cdn-la2.aws-stream.com/ondemand/od3/sporttv1/video.m3u8
+https://live15.inwstream.com/transcoder_F1/fwmov_fw-iptv.stream/chunks.m3u8?nimblesessionid=2888902&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDk6MDc6MTcgQU0maGFzaF92YWx1ZT1Tb0ZZeFQ1angrWE5zbStsQXA1ZmVBPT0mdmFsaWRtaW51dGVzPTI=
+
+https://live11.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=28764518&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDk6MDg6MDEgQU0maGFzaF92YWx1ZT1UOTluZ2h2UXkxdFVwcTY0SDVodUN3PT0mdmFsaWRtaW51dGVzPTI=
+https://live9.inwstream.com/transcoder_F1/premierhd3_fwiptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDk6MDg6NDMgQU0maGFzaF92YWx1ZT1lRkJnWU5Hb3ZhekFveVpkcnh2K01nPT0mdmFsaWRtaW51dGVzPTI=
 
 
 http://45.144.165.187:8080/get.php?username=cable1&password=12345&type=simple&output=mpegts
