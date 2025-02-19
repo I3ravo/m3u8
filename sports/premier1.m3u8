@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4930000,BANDWIDTH=6160000,RESOLUTION=2160x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
 
-http://playid.ddnsgeek.com:8080/live/playid123/12345/90.m3u8
+https://live6.inwstream.com/transcoder_F1/truesports2_inwiptv.stream/chunks.m3u8?nimblesessionid=25215403&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDM6MDc6NTggUE0maGFzaF92YWx1ZT1RWUxrNUxQbHRxMFNxdDVnMklxRXBBPT0mdmFsaWRtaW51dGVzPTI=
