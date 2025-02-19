@@ -1,0 +1,176 @@
+#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TV1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",RTM TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",RTM TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TV2
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="TV",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1052368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TV6
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",RTM7
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",RTM8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="TV",Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="TV",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052629.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TVS
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052653.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TV8
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/1052362.ts
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",AURA
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052379.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",OAS
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/408671.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=2",NBT FHD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="iptv36.nbt" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=2",NBT HD
+https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="iptv36.thaipbs" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="iptv36.thaipbs" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="iptv36.altv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/altv.png",ALTV FHD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="iptv36.altv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/altv.png",ALTV
+https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="iptv36.tv5" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 HD
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-id="iptv36.tv5" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 HD
+https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="iptv36.tsports" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/t-sport-7/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="iptv36.tsports" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="iptv36.tptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
+
+#EXTINF:-1 tvg-chno="12" tvg-id="iptv36.tptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="iptv36.tnn16" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/tnn24_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="iptv36.tnn16" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="iptv36.jkn18" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/jkn18.png",JKN18
+https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="iptv36.jkn18" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/jkn18.png",JKN18 Top News HD
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="iptv36.nation" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-id="iptv36.nation" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV
+https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="iptv36.workpoint" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV FHD
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="iptv36.workpoint" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV
+https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="iptv36.true4u" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 tvg-chno="22" tvg-id="iptv36.true4u" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-chno="23" tvg-id="iptv36.gmm25" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="iptv36.gmm25" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-chno="25" tvg-id="iptv36.ch8" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.ch8" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-chno="27" tvg-id="iptv36.mono29" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png",MONO29 FHD
+https://live-mono29.monomax.me/out/v1/a0775b0326524af8a7497a555c0b843f/mono29.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="iptv36.mono29" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png",MONO29 Soundtrack FHD
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="iptv36.mcot" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-chno="30" tvg-id="iptv36.mcot" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="iptv36.one" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 tvg-chno="32" tvg-id="iptv36.one" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="iptv36.thairath" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-chno="34" tvg-id="iptv36.thairath" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/thairathtv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="iptv36.ch3" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1 tvg-chno="36" tvg-id="iptv36.ch3" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/ch3hd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id="iptv36.amarin" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-chno="38" tvg-id="iptv36.amarin" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/amarintv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-id="iptv36.ch7" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 tvg-chno="40" tvg-id="iptv36.ch7" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+
+#EXTINF:-1 tvg-chno="41" tvg-id="iptv36.pptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn1.googlecdn.live/4k/pptv/playlist.m3u8
