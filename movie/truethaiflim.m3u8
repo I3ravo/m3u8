@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2100000
-http://krooztv.live:80/play/live.php?mac=00:1A:79:bb:86:a0&stream=663719&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4600000
+https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/truethaifilm/chunks.m3u8?nimblesessionid=9101645&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDk6MjQ6NDEgUE0maGFzaF92YWx1ZT1yeEdBeks3M0NVN0xBTSt6ZE5TY3p3PT0mdmFsaWRtaW51dGVzPTIw
 
 #http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186616&extension=m3u8&play_token=
