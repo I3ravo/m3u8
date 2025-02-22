@@ -1,0 +1,27 @@
+{"name": "PlayID",
+"author":"PLAYID",
+"image": "",
+"url": "",
+"groups": [
+
+
+{"name": "seriesday_amazon",
+"author":"PlayID",
+"image": "https://i.postimg.cc/tJcBnm7P/Gojek-TV-Face-V4-0.gif",
+"url": "https://playtvthai.github.io/m3u8/link/seriesday_amazon-prime-video.m3u",
+"import": "true"},
+
+{"name": "Apple",
+"author": "",
+"image": "https://i.postimg.cc/8cC3p2sG/Gojek-TV-Face-V4-0-AIO.jpg",
+"url": "https://playtvthai.github.io/m3u8/link/seriesday_apple-tv.m3u",
+"import": "true"},
+
+{"name": "disney",
+"author":"disney!",
+"url": "https://playtvthai.github.io/m3u8/link/seriesday_disney-plus.m3u",
+"image": "https://i.postimg.cc/tJcBnm7P/Gojek-TV-Face-V4-0.gif",
+"import": "true"},
+]},
+
+
