@@ -1742,7 +1742,7 @@ https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/9mcot_1080p/playlist.m
 #EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/ch3.png" group-title="3️⃣เครดิต DOOBALL2YOU",CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
-https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8|origin=https://www.andaman888th.com/
 #EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/ch5.png" group-title="3️⃣เครดิต DOOBALL2YOU",CH5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/5hd/digitaltv/5hd/chunks.m3u8
