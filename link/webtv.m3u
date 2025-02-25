@@ -70,7 +70,6 @@ http://45.144.165.187:8080/playidtv1/12345/9199
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46b07f9049b58b99ffc24a6bc2d813b:6cbd92a4efad354681576eb76c29b9bb
-
 https://cdn134.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manifest_w1218892225_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPXdlYiZkcm09d3YzJnVpZD0yMDU2Njk0MyZkaWQ9VEd0ZlFuTnpka04yYlhodGVUWldaelJwYlUxMVZFeERiR056WWtabFR6QSZzaWQ9MDA4ZjFmNDA5OSZydD0xNzQwNDQ5MDY0JmRzPTg2NDAwJnRrPTcya3B0SFktMTF1WWR5RDYzWTBhZWhGbHJRaGVaOHlOZU40Ui05Vjc3S3M=.mpd
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/14/2a39b1f0-e1d2-11ee-bb63-0f515d43c6f8_webp_original.webp",TRUEID Sports2& EPL1
