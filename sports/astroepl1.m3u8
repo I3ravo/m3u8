@@ -3,4 +3,4 @@
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10,
-http://lunar.pm:8080/live/1915WMAIN/WqSc8ZaqdG/110276.ts
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186387&extension=ts&play_token=
