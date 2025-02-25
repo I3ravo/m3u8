@@ -61,9 +61,9 @@ http://45.144.165.187:8080/playidtv1/12345/17239
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://45.144.165.187:8080/playidtv1/12345/11041
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID Series ชาแนล
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17237
+http://45.144.165.187:8080/playidtv1/12345/9199
 
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/pjG2vG0h/trueid1.png",TRUEID 1
