@@ -16,54 +16,51 @@ https://playtvthai.github.io/m3u8/playid.mp4
 
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",PLAYID Universal 
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17237
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/17237
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/VH1mZqc/iplay.png",IPLAY MEDIA
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/37
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+#http://45.144.165.187:8080/playidtv1234567890/12345/37
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="",PLAYID MOVIE
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17788
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/17788
 
 
 
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17238
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/17238
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/JwQQMgJW/playidmov2.png",PLAYID ซีรีย์ 2KF
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/18833
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png", PLAY TV
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/11052
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4mT6CGh/av18.png",PlayID หนังเอวี18+ FHD
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/18669
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย 2K/F
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/live/playidtv1/12345/9198.m3u8
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/18833
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png", PLAYID MOVIE 2
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/11052
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/9198
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/7QsVKxw/playidxtream.png",PLAYID สารคดี
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/84
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PlayID รวมสยองขวัญ
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/15672
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/84
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/rwBz8xN/hrr.png", PLAYID สยองขวัญ
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/15672
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png",เป็นต่อ 
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17715
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/17715
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4WsV4QB/playidmov.png",ซีรี่ย์เกาหลี ชาแนล
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/17239
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/17239
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID การ์ตูน ชาแนล
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/11041
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/11041
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/t3xtr8Q/20241120-191736.png",PlayID Series ชาแนล
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://45.144.165.187:8080/playidtv1/12345/9199
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
+http://45.144.165.187:8080/playidtv1234567890/12345/9199
 
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/pjG2vG0h/trueid1.png",TRUEID 1
@@ -83,13 +80,10 @@ https://cdn134.stm.trueid.net/p101daidrm/he003_multi_w_auto_wv_tidapp.smil/manif
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport", PlayID Sport 1
 https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMGA2ArIQwX6e4KbXKX96eVo/m3u8
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-#http://45.144.165.187:8080/playidtv1/12345/90
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport",EPL1
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl1.m3u8
 http://202.62.56.28:8080/nl.m3u8?id=1061
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport",EPL1B
 https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl2.png" group-title="📺 PlayID Sport",EPL2
