@@ -1,11 +1,61 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202501/movie/335cdc803d817335c1bb6bd185f3e889.jpg", หลุดงานแรร์ ห้องเชือดแดง
+https://ezmovie4k.com/cdn/hls/78204e7f6531af994d518e334c271fa3/master.m3u8
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202308/movie/4746c17ec11193742ada614094d68003.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/77d8ce65552aadcb31d12753bf5022e1/master.m3u8
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202411/movie/af52ceddda3aca342ffb0f2c13298617.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/1d017a5b00e46131042e4d6a15a650ed/master.m3u8
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202501/movie/6e6c18845fed2a72711f537aacc52bac.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/268c42b48f45f7f1e3f166959b61e46c/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202408/movie/c2a5ab4fa8d8b3e6f3e992381e4890aa.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/9ea9aa244b1d8430d1a66f8eeaae2232/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202411/movie/141a86db2e715eeae76031f62378f07d.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/fc96a44bc2b96ad84331ca8c27fbf7c2/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/f2820c4904cd82107dde58122696cac0.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/71d3f5ea23d216d03da644bede3a1326/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/af2b2ba87312c368f8d50df6ee3963ec.jpg",คลิปหลุด ห้องเชือด
+https://ezmovie4k.com/cdn/hls/255139cfd0caa03934a3d88cc9013bf2/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/3dec1df0a0650d1f8d9d5872421e424c.jpg",เลียจิ๋มที่ริมผนัง เปิดพลูวิลล่า เชิญน้องพลอยมาเป็นแขกรับเชิญ
+https://ezmovie4k.com/cdn/hls/8b0d16cc859b8319fd7651514938a74a/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/97c50697e24aa27587d9ec72590e7de2.jpg",คลิปหลุดสาวมอต้น เมาคลีล่าสัต...
+https://ezmovie4k.com/cdn/hls/cb66a75eb1a29e2cde6dac80c25562b7/master.txt
 
-#EXTINF:-1 group-title="JAV" tvg-logo="https://cdn.123av.com/resize/s500/e/8e/mida-043/cover.jpg?t=1739485765", mida-043
-https://s209.skyearth5.xyz/vod1/b/mw/2lgm60z8_5c49e6302f1fd71a94834ca146ad5672/720/v.m3u8
-#EXTINF:-1 group-title="JAV" tvg-logo="https://cdn.123av.com/resize/s500/4/24/nps-457/cover.jpg?t=1739582480",nps-457
-https://s200.skyearth8.xyz/vod1/j/fr/k1p0vw1k_5c49e63e2f1fd71a94834ca146ad5672/720/v.m3u8
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/d4aeaaba88cca238c0a4e63f397c9372.jpg",ปล่อยคลิปหลุด วันหยุดสุดหรรษา...
+https://ezmovie4k.com/cdn/hls/3106df6a912bea02b0cc00d0de414713/master.txt
+
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/c3f19dad0a1ab2d7c42b6c589e94d4f9.jpg",คลิปหลุดดาวมหาลัย โดนควยฉีดอั...
+https://ezmovie4k.com/cdn/hls/b08a832b7e683dbaae86d268ba0d6f0a/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202409/movie/b85b70f03c727c447f68ee6312822af7.jpg",หลุดงานแรร์ สาวไทยสุดเอกซ์นัด...
+https://ezmovie4k.com/cdn/hls/1f44d3837f25a47d8cd5a143cd1fbd5e/master.txt
+
+#EXTINF:-1 group-title="JAV" tvg-logo="#https://bbk100.xyz/media/cache/strip/202408/movie/07fe9bf6714a7dad2a8d9d810a5519ae.jpg",คลิปหลุดงานแรร์ ห้องเชือดแดง น้องมีนานางแบบสาวไทยผันตัวมาเป็นไซด์ไลน์ก่อนจะโดนซ่อนกล้องแอบถ่าย
+https://ezmovie4k.com/cdn/hls/8893091d0050f471b335a61b03e8ff2c/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202308/movie/a1a7400a002e1cab1b2452a2553d0774.jpg",คลิปหลุดห้องเชือด นักศึกษาไทยแอบรับงาน ได้ค่าตัวหลายหมื่น ต่อหน้ากล่องที่แอบซ่อนอยู่เสียวมาก
+https://ezmovie4k.com/cdn/hls/7db436fcbe1345a19547084fdb8dbc52/master.txt
+
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202307/movie/293c5568051139ddabc80ca5eec99213.jpg",คลิปหลุดทางบ้าน สาวนักศึกษาโดนเยเย่คาชุด เสียวกว่านี้ไม่มีอีกแล้ว
+https://ezmovie4k.com/cdn/hls/55e32de09c80355fa41baa72e825e2ed/master.txt
+
+
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202306/movie/ce5fd1e361d6cbe975885cbe204a5c32.jpg",คลิปหลุดทางบ้าน น้องแว่นเด็กนักเรียนมัธยมปลาย โดนปล่อยคลิปหลุดหลายคลิป
+https://ezmovie4k.com/cdn/hls/5573a627eacc5d48fd8356764c39c9ae/master.txt
+
+
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202209/movie/23831cc938c7c2cba01d2564cff4e437.jpg",__พลอยไพลิน_2022
+https://ezmoviehd.co/file/aws-converter/movies-aws-7901-to-8000/ac2a9d52-8064-4d3e-9fa3-a64ab6c168ae___พลอยไพลิน_2022-05-31/hls/พลอยไพลิน_2022-05-31_Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8
+
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202209/movie/23831cc938c7c2cba01d2564cff4e437.jpg",58472e2bcdfd___OLF_babysswwonly
+https://ezmoviehd.co/file/aws-converter/movies-aws-2801-to-2900/3f97e97d-0e8d-4022-acea-58472e2bcdfd___OLF_babysswwonly (1)~1/hls/OLF_babysswwonly (1)~1.m3u8
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202410/movie/30a30c98093e79107fb44986ed3429cc.jpg",Dakota Doll ถ้าอยากได้เกรดที่...
+https://ezmovie4k.com/cdn/hls/0210f0777ad590e63cda589e72f9cc7d/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202410/movie/af31c037a22e7f0d2cff67536ffe4139.jpg",Melanie Marie โดนซัดรัวไม่พัก แต่เธอไม่มีถอย แถมยังดูเอ็นจอยแบบขีดสุด
+https://ezmovie4k.com/cdn/hls/d413cef162a419e2af19694a3e16ae01/master.txt
+#EXTINF:-1 group-title="JAV" tvg-logo="https://bbk100.xyz/media/cache/strip/202401/movie/b43a159ca886ea114fcce571b30d5f20.jpg",Rae Lil Black ล่าสุด เพิ่งกลับจากไทยมาก็กลับมาทำงานเลย
+https://ezmovie4k.com/cdn/hls/d804b57baa42b6057b058b5ddb115e5a/master.txt
+
+
 
 #EXTINF:-1 group-title="JAV" tvg-logo="https://img3.javmost.com/images/MIDV-530.webp", MIDV-530  新ありな  Arina Arata
 https://video.twimg.com/amplify_video/1777665866790010880/pl/cwlYpD-365uMySkv.m3u8
