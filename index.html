@@ -1,38 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Player</title>
-  <script src="https://content.jwplatform.com/libraries/KB5zFt7A.js"></script>
+
+<html>
+  <meta name="author" content="playid">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0;url=https://playtvthai.github.io/m3u8/corsproxy.html">
 </head>
-<body>
-  <div id="video"></div>
-
-  <script type="text/javascript">
-    // Function to get video URL from the domain
-    function getVideoUrlFromDomain() {
-      const urlParams = new URLSearchParams(window.location.search);
-      return urlParams.get('url');
-    }
-
-    jwplayer("video").setup({
-     image: "https://i.ibb.co/6c5mVGt7/playid2.png",
-                width: "100%",
-                aspectratio: "16:9",
-                autostart: "false",
-                primary: "html5",
-                preload: "auto",
-                mute: "false",
-      file: getVideoUrlFromDomain()
-    });
-
-      </script>
-
-  <div style="background-color: #0074d9; text-align: center; padding: 10px;">
-    
-    </a>
-  </div>
-</body>
-</html>
