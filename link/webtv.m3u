@@ -2707,48 +2707,51 @@ https://cdn1.googlecdn.live/ballsod24hrs/skysportsnews/playlist.m3u8
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDjebUYvgtziU6LmEr2AHji5P5gyXaoDHhw&s" 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5kBhWq9/ballthai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 1
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-#EXTVLCOPT:http-referrer=https://www.andaman888th.net/ดูบอลออนไลน์/truepremierfootballhd1/
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai1/playlist.m3u8
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDjebUYvgtziU6LmEr2AHji5P5gyXaoDHhw&s" 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5kBhWq9/ballthai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 1
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai2/index.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444826.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691444826.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 3
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 4
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/ballthai4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai5.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 5
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 6
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 6
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 7
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 7
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballthai7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tVSc9B6/thai.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 8
+https://cdn1.googlecdn.live/ballsod24hrs/trueballthai7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 8
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballtha8/index.m3u8
-#EXTINF:-1 tvg-logo="https://playtvthai.github.io/m3u8/ballthai10.png" group-title="6️⃣ ทรูไทยลีก",True Ballthai 9
+https://cdn1.googlecdn.live/ballsod24hrs/trueballtha8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L2gBBWG/Logo-TVS-NOW-BALL-THAI.webp" group-title="6️⃣ ทรูไทยลีก",True Ballthai 9
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn-la2.aws-stream.com/ondemand/od3/trueballtha9/index.m3u8
+https://cdn1.googlecdn.live/ballsod24hrs/trueballtha9/index.m3u8
 
 
 
