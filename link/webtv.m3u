@@ -1,6 +1,10 @@
-#EXTM3U url="https://drzl.short.gy/playid.js"
+
+<html>
+
+
+#EXTM3U url="https://drzl.short.gy/"
 #PLAYLIST M3U เขียนโดย PLAYIDTV
-#https://drzl.short.gy/playid.js
+#https://drzl.short.gy/
 #อัพเดททุก24ชม 04:06:18 วินาที
 
 
@@ -5862,5 +5866,38 @@ https://ddy6.iosplayer.ru/ddy6/premium519/mono.m3u8
 https://ddy6.iosplayer.ru/ddy6/premium520/mono.m3u8
 
 
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        PlAYID Wiseplay</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            height: 100%;
+            background-color: black;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .logo {
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 18px;
+        }
+    </style>
+<body>
+    <img class="logo" src="/link/playtv.png" alt="Logo" width="100">
+    <div class="message">กำลังเปิดใน WATT...</div>
+    <script>
+        window.onload = function() {
+            window.location.href = "https://drzl.short.gy/";
+        };
+    </script>
+</body>
 
