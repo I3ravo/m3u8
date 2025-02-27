@@ -2,10 +2,10 @@
 <html>
 
 
-#EXTM3U url="https://drzl.short.gy/"
-#PLAYLIST M3U เขียนโดย PLAYIDTV
-#https://drzl.short.gy/
-#อัพเดททุก24ชม 04:06:18 วินาที
+# EXTM3U url="https://drzl.short.gy/"
+# PLAYLIST M3U เขียนโดย PLAYIDTV
+# https://drzl.short.gy/
+# อัพเดท ทุก24 ชม 09:29 นาที
 
 
 
@@ -33,9 +33,6 @@ http://45.144.165.187:8080/playidtv1234567890/12345/17237
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 http://45.144.165.187:8080/playidtv1234567890/12345/17788
 
-
-
-
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png",PlayID
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 http://45.144.165.187:8080/playidtv1234567890/12345/17238
@@ -43,7 +40,7 @@ http://45.144.165.187:8080/playidtv1234567890/12345/17238
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/JwQQMgJW/playidmov2.png",PLAYID ซีรีย์ 2KF
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 http://45.144.165.187:8080/playidtv1234567890/12345/18833
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png", PLAYID MOVIE 2
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/4f3nLNP/playtvthai.png", PLAYIDMOVIE ระบบ 3D 
 #EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
 http://45.144.165.187:8080/playidtv1234567890/12345/11052
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/GvmwFpv/movth.png", PlayID หนังไทย
