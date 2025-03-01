@@ -80,35 +80,27 @@ https://cdn136.stm.trueid.net/p101drm/he004_multi_w_auto_wv_tidapp.smil/segment_
 #EXTINF:-1 group-logo="https://truevisions.co.th/static/adf92f48-db80-408a-8ebc-d3cc6339f32c.png"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport", PlayID Sport 1
-https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMGA2ArIQwX6e4KbXKX96eVo/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport", PlayID 4K
+https://playtvthai.github.io/m3u8/sports/tnt1.m3u8
+#https://iptv-th.com/play/cgi3Vu4KHTlfKImhvoBfMGA2ArIQwX6e4KbXKX96eVo/m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport",EPL1
-#EXTVLCOPT:http-user-agent=เพลย์ลิสต์จากกลุ่ม
-https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl1.m3u8
-http://202.62.56.28:8080/nl.m3u8?id=1061
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl1.png" group-title="📺 PlayID Sport",EPL1B
 https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl2.png" group-title="📺 PlayID Sport",EPL2
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl2.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl2.png" group-title="📺 PlayID Sport",EPL2B
 https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl3.png" group-title="📺 PlayID Sport",EPL3
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl3.m3u8
+https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl3.png" group-title="📺 PlayID Sport",EPL3
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl4.png" group-title="📺 PlayID Sport",EPL4
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl4.png" group-title="📺 PlayID Sport",EPL4B
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl5.png" group-title="📺 PlayID Sport",EPL5
+https://playtvthai.github.io/m3u8/sports/epl5.m3u8
 https://iptv2.wirdy.workers.dev/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/th-epl5.png" group-title="📺 PlayID Sport",EPL5
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/epl5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://api.rentm3u8.com/images/png/hd-tsport1.png" group-title="📺 PlayID Sport", TSP1 
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 https://5fff2454-e175-4223-8818-dfa1dc5ae065-00-2sfr589v6oflj.sisko.replit.dev/tsp1.m3u8
