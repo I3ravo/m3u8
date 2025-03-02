@@ -268,10 +268,17 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0085/DASH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0007/DASH/B0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=f1a58e21085493e0b1718b015e61c848&chunkHttps=true&tmid=B0003&tpbk=cIXkx1Vz1Iz8FEjw&rrt=1740883400&tmod=rfk&rsid=3d274faa-cb92-49b1-9c6d-c6ed3c21f449&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1740968685
 
-#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418193731tsports7.jpg" group-title="📺 AISPLAY PLAYID", T-SPORTS
+#EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418193731tsports7.jpg" group-title="📺 AISPLAY PLAYID",T-SPORTS
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0129/DASH/B0129.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=f1a58e21085493e0b1718b015e61c848&chunkHttps=true&tmid=B0003&tpbk=cIXkx1Vz1Iz8FEjw&rrt=1740883400&tmod=rfk&rsid=3d274faa-cb92-49b1-9c6d-c6ed3c21f449&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1740968685
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-Sports7HD1.png" group-title="📺 AISPLAY PLAYID",TSPORTS FHD 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/B0124/DASH/B0124.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=f1a58e21085493e0b1718b015e61c848&chunkHttps=true&tmid=B0003&tpbk=cIXkx1Vz1Iz8FEjw&rrt=1740883400&tmod=rfk&rsid=3d274faa-cb92-49b1-9c6d-c6ed3c21f449&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1740968685
+
+
 
 #EXTINF:-1 tvg-logo="https://www.fileinw.com/postor/20240418191939tptv.jpg" group-title="📺 AISPLAY PLAYID", Parliament
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
