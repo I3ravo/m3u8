@@ -1,21 +1,13 @@
 
 <html>
-
-
-# EXTM3U url="https://drzl.short.gy/"
-# PLAYLIST M3U เขียนโดย PLAYIDTV
-# https://drzl.short.gy/playidtv27.m3u
-# อัพเดท ทุก24 ชม 09:29 นาที
-
-
-
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
 
 
-https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=f1a58e21085493e0b1718b015e61c848&chunkHttps=true&tmid=B0003&tpbk=cIXkx1Vz1Iz8FEjw&rrt=1740883400&tmod=rfk&rsid=3d274faa-cb92-49b1-9c6d-c6ed3c21f449&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1740968685
+
+#https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=f1a58e21085493e0b1718b015e61c848&chunkHttps=true&tmid=B0003&tpbk=cIXkx1Vz1Iz8FEjw&rrt=1740883400&tmod=rfk&rsid=3d274faa-cb92-49b1-9c6d-c6ed3c21f449&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1740968685
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/MDL8PvND/playid.jpg" 
+#EXTINF:-1 group-logo="https://freeimage.host/content/images/users/i5XRe/bkg_1740616649.png" 
 
 #EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/MDL8PvND/playid.jpg",เพลย์ลิสต์จากกลุ่ม PLAYID
 https://playtvthai.github.io/m3u8/playid.mp4
