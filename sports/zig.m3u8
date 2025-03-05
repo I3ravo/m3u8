@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+http://client.newsborntvs.info:8080/live/FatmirKraja/kGKd64cm3/89828.ts
