@@ -5,11 +5,11 @@ from urllib.parse import unquote,parse_qs,quote_plus
 from datetime import datetime
 #################################################
 
-web_movie = "https://series-indy.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/"
-#web_movie = "https://series-indy.com/genre/acton/"
+#web_movie = "https://series-indy.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87/"
+web_movie = "https://series-indy.com/category/%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b9%8c%e0%b8%8b%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%97%e0%b8%a2/"
 #################################################
 #f_path = r"D:\playlist\อินดี้\\"
-f_path = r"e:\series-indy\\"
+f_path = r"D:\python"
 #################################################
 timeday = datetime.now().strftime("%d/%m/%Y")
 fname = unquote(urlparse(web_movie).path.strip('/').split('/')[-1])
@@ -40,8 +40,7 @@ jmovie['stations'] = jmovie.pop('key')
 jseries = json.loads(aseries)
 jseries['groups'] = jseries.pop('key')
 parsed_uri = urlparse(web_movie)
-referer = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(web_movie))
-refer = re.sub("\/$","series-indy.com",referer)
+referer = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
 sess = requests.Session()
 sess.headers.update({'User-Agent': headers,'referer': referer})
 home_page = sess.get(web_movie)
