@@ -105,7 +105,37 @@ button:nth-child(4n+4):active {
 }
 </style>
 
-<body>
+<div class="modal fade show" id="welcomeModal" tabindex="-1" aria-labelledby="welcomeModalLabel" aria-modal="true" role="dialog" style="display: block;">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content" style="background: var(--secondary-color); color: var(--text-color);">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="welcomeModalLabel">ยินดีต้อนรับสู่การดูทีวีออนไลน์!</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>หากมีปัญหาการใช้งาน สามารถติดต่อเราได้ที่ <i class="fab fa-facebook-square me-1"></i> Facebook คลิกด้านล่าง:</p>
+                    <a href="https://www.facebook.com/share/1DUtx9xdhJ/" target="_blank" class="btn btn-primary">
+                        <i class="fab fa-facebook-f me-2"></i> ติดต่อผ่าน Facebook
+                    </a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">ปิด</button>
+                </div>
+            </div>
+        </div>
+    </div>
+     </div>
+    
+    
+        <script src="https://www.idoomovie.online/sck/js/tv-script3.js.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var welcomeModal = new bootstrap.Modal(document.getElementById('welcomeModal'), {
+                keyboard: false
+            });
+            welcomeModal.show();
+        });
+    </script>
 
 
 
@@ -130,11 +160,11 @@ http://45.144.165.187:8080/playidtv/1234/17237
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/37
 
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://iili.io/3262BDJ.png",PLAYID MOVIE
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://iili.io/3262BDJ.png",PLAYID MOV
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/17788
 
-#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png", PlayID MOVIE 2
+#EXTINF:-1 group-title="🟢 PLAYID XTREAM" tvg-id="" tvg-logo="https://i.ibb.co/jZ7P3hJ/vvt.png", PLAYID FW
 #EXTVLCOPT:http-user-agent=playidtv24
 http://45.144.165.187:8080/playidtv/1234/17238
 
