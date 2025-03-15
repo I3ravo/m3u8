@@ -2,7 +2,12 @@
 ffkyou567
 http://fr.nasvpn.my.id:25461/live/haji/haji/7845.ts
 
-
+#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/truesport5.png" group-title="3ï¸âƒ£à¹€à¸„à¸£à¸”à¸´à¸• DOOBALL2YOU",TRUE SPORT 5
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesportsd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/truesport7.png" group-title="3ï¸âƒ£à¹€à¸„à¸£à¸”à¸´à¸• DOOBALL2YOU",TRUE SPORT 7
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesportsd7/playlist.m3u8
 https://i.ibb.co/LsqjvSM/18.png
 B8
 https://iili.io/3d2Q6J4.png
