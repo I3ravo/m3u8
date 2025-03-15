@@ -80,3 +80,48 @@ http://playid-stream.zapto.org:9092/memfs/f4b60d16-7e8e-428f-9087-a94dce0e2de8.m
 twa470@gg.com
 
 241222
+
+
+
+
+
+
+
+#EXTINF:-1,HBO
+http://playid-stream.zapto.org:9092/memfs/4e2833e3-9426-4b34-8ed7-24b29656aaab.m3u8
+#EXTINF:-1,CINEMAX
+http://playid-stream.zapto.org:9092/memfs/03dadbea-a68c-4313-9f53-e08995f76e8b.m3u8
+#EXTINF:-1,TRUE THAI FILM 
+http://playid-stream.zapto.org:9092/memfs/7d7e6a62-1bae-4bc4-b1ba-8353475b2a52.m3u8
+#EXTINF:-1,TRUE MOVIE HIT
+http://playid-stream.zapto.org:9092/memfs/340c5e4e-3cad-4f47-923a-798bdd74e113.m3u8
+#EXTINF:-1,ROCK ACTION
+http://playid-stream.zapto.org:9092/memfs/5279811f-bba1-419b-862a-997348068e99.m3u8
+#EXTINF:-1,TRUE PREMIER FOOTBALL 1
+http://playid-stream.zapto.org:9092/memfs/bdabac12-4d55-4644-a137-21154b17110e.m3u8
+#EXTINF:-1,TRUE PREMIER FOOTBALL 3
+http://playid-stream.zapto.org:9092/memfs/6c432945-4fac-47dd-82fe-ed378e797854.m3u8
+#EXTINF:-1,TRUE PREMIER FOOTBALL 4
+http://playid-stream.zapto.org:9092/memfs/ca5b9abd-c831-4acd-8949-e987d1092917.m3u8
+#EXTINF:-1,TRUE PREMIER FOOTBALL 5
+http://playid-stream.zapto.org:9092/memfs/f4b60d16-7e8e-428f-9087-a94dce0e2de8.m3u8
+#EXTINF:-1,TRUE PREMIER 4K
+http://playid-stream.zapto.org:9092/memfs/f3234fa0-8a3b-432d-8af1-8da4c15e275c.m3u8
+#EXTINF:-1,BEIN 1
+http://playid-stream.zapto.org:9092/memfs/c6513d04-42d0-4c27-ba22-a33ed30bb9c5.m3u8
+#EXTINF:-1,BEIN 3
+http://playid-stream.zapto.org:9092/memfs/18b97aca-516e-48e2-839a-2c1ff284bc0d.m3u8
+#EXTINF:-1,MY SCI
+http://playid-stream.zapto.org:9092/memfs/dc572190-6d0c-4315-a9b7-6a765c5a2640.m3u8
+#EXTINF:-1,ANIMAL SHOW
+http://playid-stream.zapto.org:9092/memfs/fc034ce9-0dc3-45ad-8f94-cbddee5e65a5.m3u8
+#EXTINF:-1,TRUE EXPOLER WILD
+http://playid-stream.zapto.org:9092/memfs/b25a8347-80da-4904-9893-5d074fdfd4dd.m3u8
+#EXTINF:-1,CARTOONITO
+http://playid-stream.zapto.org:9092/memfs/4d97d1a9-d678-4237-9781-1aaf7ca3f473.m3u8
+#EXTINF:-1,MAJUNGTV
+http://iptvview.sytes.net:9090/memfs/01e7c0e2-5c80-480e-8835-2fd24fd9cc0b.m3u8
+
+
+
+
