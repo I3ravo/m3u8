@@ -64,7 +64,7 @@ jseries['name'] = jseries['name'] = soup.h2.text.strip()
 jmovie['image'] = jmovie['image'] = 'https://movie24.tv/wp-content/themes/servermovie/theme/images/Movie24.webp'
 jmovie['author'] = jseries['author'] = jseries['author'] + timeday
 print(colored.yellow(jmovie['name']))
-#print(jseries['name'])
+print(jseries['name'])
 ###### แก้สำหรับทดสอบ##
 pcurrent = 1
 pmax = 1
