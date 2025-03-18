@@ -4,7 +4,16 @@ from urllib.parse import urlparse, unquote
 from clint.textui import colored
 from datetime import datetime
 #################################################
-web_movie = input("\n กรุณาใส่ URL :")
+
+web_movie = "https://tongha-movie.com/search/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99
+#web_movie = ""
+#web_movie = input("\n  กรุณาใส่ URL : ")
+
+f_path = r"e:\/\\"
+#f_path = /storage/03FB-19EC/"
+
+#web_movie = input("\n กรุณาใส่ URL :")
+
 f_path = r"e:\24movie tv\\"
 #f_path = r"D:\playlist\\"
 #################################################
@@ -51,14 +60,14 @@ if page is not None:
         pmax = 1
 else:
     pmax = 1
-jmovie['name'] = jseries['name'] = soup.h2.text.strip()
-jmovie['image'] = jseries['image'] = 'https://movie24.tv/wp-content/themes/servermovie/theme/images/Movie24.webp'
+jseries['name'] = jseries['name'] = soup.h2.text.strip()
+jmovie['image'] = jmovie['image'] = 'https://movie24.tv/wp-content/themes/servermovie/theme/images/Movie24.webp'
 jmovie['author'] = jseries['author'] = jseries['author'] + timeday
 print(colored.yellow(jmovie['name']))
 #print(jseries['name'])
 ###### แก้สำหรับทดสอบ##
 pcurrent = 1
-#pmax = 1
+pmax = 1
 ###############
 pbak = web_movie
 for num in range(int(pcurrent), int(pmax)+1):
@@ -177,7 +186,7 @@ for num in range(int(pcurrent), int(pmax)+1):
                             f.close()
                             M_f = 0
                     with open(f_path+f_m3u, 'a',encoding='utf-8') as f:
-                        f.write(f'#EXTINF:-1 tvg-logo="{ppic}" group-title="PlayID {pname}" ,[{pinfo}] {ename}\n')
+                        f.write(f'#EXTINF:-1 tvg-logo="{ppic}" group-title="playidtv {pname}" ,[{pinfo}] {ename}\n')
                         f.write(f'#EXTVLCOPT:http-referer={referer}\n')
                         f.write(f'{elink}\n')
                         f.close()
