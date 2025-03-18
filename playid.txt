@@ -126,48 +126,38 @@ http://iptvview.sytes.net:9090/memfs/01e7c0e2-5c80-480e-8835-2fd24fd9cc0b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 1
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP01.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=3556419611137231&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 2
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP02.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=315906933114880&set=oa.675983456498403&locale=th_TH
 
 
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 3
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP03.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=2745899492189251&set=oa.675983456498403&locale=th_TH
 
 
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 4
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP04.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=3556420521137140&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 5
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP05.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=377512370287669&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 6
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP06.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=372864227419150&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 7
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP07.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=2795069680605565&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 8
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP08.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=2761870523925481&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 9
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP09.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=2761890063923527&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 10
-https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP10.mp4/playlist.m3u8
-
+https://www.facebook.com/photo/?fbid=2761918913920642&set=oa.675983456498403&locale=th_TH
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 11
 https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP11.mp4/playlist.m3u8
