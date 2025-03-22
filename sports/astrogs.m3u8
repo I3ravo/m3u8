@@ -3,4 +3,5 @@
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10,
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186389&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=9444&deviceMac=00:1A:79:A4:07:6A
+#http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186389&extension=ts
