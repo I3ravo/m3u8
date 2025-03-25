@@ -85,7 +85,9 @@ twa470@gg.com
 
 
 
+film2 = http://playid-stream.zapto.org:9092/memfs/3e5a07de-7f34-4a16-a747-90f5c84d2c53.m3u8
 
+film1 = http://playid-stream.zapto.org:9092/memfs/880779d1-fabe-44a3-8b43-f18fa788325a.m3u8
 
 #EXTINF:-1,HBO
 http://playid-stream.zapto.org:9092/memfs/4e2833e3-9426-4b34-8ed7-24b29656aaab.m3u8
