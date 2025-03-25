@@ -1,8 +1,7 @@
 
 ffkyou567
 http://fr.nasvpn.my.id:25461/live/haji/haji/7845.ts
-playid.3bbddns.com
-#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/truesport5.png" group-title="3ï¸âƒ£à¹€à¸„à¸£à¸”à¸´à¸• DOOBALL2YOU",TRUE SPORT 5
+https://www.dropbox.com/scl/fi/jgia4t29nnnnk79uv7k4q/nginx.zip?rlkey=x7u4la5twpqlnwugh1lkl8udv&st=9nho4kmr&dl=0#EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/truesport5.png" group-title="3ï¸âƒ£à¹€à¸„à¸£à¸”à¸´à¸• DOOBALL2YOU",TRUE SPORT 5
 #EXTVLCOPT:http-referrer=https://www.andaman888th.net/
 https://cdnsv1.bunnycdncloud.com/andaman888th/truesportsd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dooballplus.live/wp-content/uploads/2023/11/truesport7.png" group-title="3ï¸âƒ£à¹€à¸„à¸£à¸”à¸´à¸• DOOBALL2YOU",TRUE SPORT 7
