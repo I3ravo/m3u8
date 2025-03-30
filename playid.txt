@@ -127,8 +127,39 @@ http://iptvview.sytes.net:9090/memfs/01e7c0e2-5c80-480e-8835-2fd24fd9cc0b.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/07/dexter-season-2.jpg" group-title="" , EP 1
-https://t2pbw5z5yecbu4.001140.xyz/b/1/USA/DexterThai/DexterThaiSs2/DexterThaiSs2-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 1
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.1.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 2
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.2.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 3
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.3.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 4
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.4.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 5
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.5.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 6
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.6.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 7
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.7.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 8
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.8.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 9
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.9.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 10
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.10.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 11
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.11.SD.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 12
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.12.SD.mp4/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 9
+https://t2pbw5z5yecbu4.001140.xyz/b/2/UsSeries/DexterSeason4/EP.9.SD.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/07/dexter-season-2.jpg" group-title="" , EP 2
 https://t2pbw5z5yecbu4.001140.xyz/b/1/USA/DexterThai/DexterThaiSs2/DexterThaiSs2-2mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/07/dexter-season-2.jpg" group-title="" , EP 3
