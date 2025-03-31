@@ -128,29 +128,29 @@ http://iptvview.sytes.net:9090/memfs/01e7c0e2-5c80-480e-8835-2fd24fd9cc0b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 1
-https://m5-txt-2.xdomovie247.com/playlist2/detail/87e905ce8ZnPo/720/hls/index.m3u8
+https://text-lb.xmoviedo24.com/playlist2/b2ffa323q7gro/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 2
-https://text-lb.xmoviedo24.com/playlist2/14279372yjp6d/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/b58ad1ca0sIVX/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 3
-https://text-lb.xmoviedo24.com/playlist2/aed3cdadSkwiG/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/7d59c188xXW1K/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 4
-https://text-lb.xmoviedo24.com/playlist2/e3539e71L2Z10/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/0cce09b7VXKCg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 5
-https://text-lb.xmoviedo24.com/playlist2/99e63da9LHsMJ/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/190dd563tnOhQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 6
-https://text-lb.xmoviedo24.com/playlist2/e0932952Il6yJ/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/52cfbd50SfYaG/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 7
-https://text-lb.xmoviedo24.com/playlist2/e8359718mjrFT/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/f0ef57b5BfkXe/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 8
-https://text-lb.xmoviedo24.com/playlist2/50e8e357QDXzP/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/2a56d944SiRNk/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 9
-https://text-lb.xmoviedo24.com/playlist2/ef6a30d05QLx0/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/e2716bf9GZyXd/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 10
-https://text-lb.xmoviedo24.com/playlist2/bd3f7df2jZzCJ/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/07d86531Kd0YM/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 11
-https://text-lb.xmoviedo24.com/playlist2/7eddbc87QX7s0/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/eb377b69Nrqb3/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2024/11/p7892423_b_v13_ab.jpg" group-title="" , EP 12
-https://text-lb.xmoviedo24.com/playlist2/165da414cqoEn/master.m3u8
+https://text-lb.xmoviedo24.com/playlist2/11aa7385D7LfI/master.m3u8
 
 
 
