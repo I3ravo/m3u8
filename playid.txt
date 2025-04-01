@@ -82,8 +82,28 @@ twa470@gg.com
 241222
 
 
+#EXTINF:-1,HBO Family
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKXBft098VDqHe-RRN2Mc3tU/m3u8
+
+HBO
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKVP7o7q15BGWHdhpmErT42o/m3u8
+
+HBO Hits
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKRUVo3bUTfl5BVOzqh-pqf0/m3u8
+Rock Action
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKXE_Av4XtcVUBpSzhWpCWWA/m3u8
 
 
+Cartoonito
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKRzHAygMb8wm440kdE0oXHw/m3u8
+
+
+#EXTINF:-1,HBO Family
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKXBft098VDqHe-RRN2Mc3tU/m3u8
+HBO Signature
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKTdZHOnoJ-OwuW9v5Hc-pAQ/m3u8
+Cinemax
+http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKWlHeaiur6k4rClYC1iwSEk/m3u8
 
 film2 = http://playid-stream.zapto.org:9092/memfs/3e5a07de-7f34-4a16-a747-90f5c84d2c53.m3u8
 
