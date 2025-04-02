@@ -132,7 +132,7 @@ http://moo7.myddns.me:9093/PLAYIDTV-GOOD-MY-SCI/index.m3u8
 http://moo7.myddns.me:9093/PLAYIDTV-GOOD-ANIMAL-SHOW/index.m3u8
 
 
-
+http://iptvview.sytes.net/freestream.m3u
 
 Cartoon Network
 http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKWmJ40KBBcEs4Qk5fni2YOA/m3u8
