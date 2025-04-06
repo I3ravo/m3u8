@@ -230,7 +230,10 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21018/hls/mo
 https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21045/hls/movie_3.m3u8
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 8
 https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21046/hls/movie_3.m3u8
-
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 9
+https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21095/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 10
+https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21096/hls/movie_3.m3u8
 https://raw.githubusercontent.com/9jaketae/Jake-TV/refs/heads/main/JTV
 
 https://iili.io/35h0V4f.png" alt="35h0V4f.png" border="0"></a>
