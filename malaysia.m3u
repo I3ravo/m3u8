@@ -715,3 +715,20 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
 #EXTINF:-1,tvN 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVN/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1,[KIDS] Nickelodeon
+
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1,[KIDS] NickJr
+
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickjr/playlist.m3u8
+
+#EXTINF:-1,[KIDS] CN Network
+
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/momo1_twn/playlist.m3u8
