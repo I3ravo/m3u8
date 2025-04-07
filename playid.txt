@@ -214,9 +214,53 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5511/video/21061/hls/mo
 
 
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 1
-https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21013/hls/movie_3.m3u8
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 2
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 1
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21120/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 2
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21121/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 3
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21122/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 4
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21123/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 5
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21124/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 6
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21125/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 7
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21126/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5563/20250406032324UcYM.jpg" group-title="แบบฝึกรัก ไม่รู้ล้ม",EP 8
+https://movie.server-cdn-streaming.com/api/uploads/movie/5563/video/21127/hls/movie_3.m3u8
+
+วัยหนุ่ม 2544
+https://movie.server-cdn-streaming.com/api/uploads/movie/5549/video/20973/hls/movie_3.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 1
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20579/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 2
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20580/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 3
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20617/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 4
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20618/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 5
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20619/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 6
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20620/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 7
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20679/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 8
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20680/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 9
+https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20681/hls/movie_3.m3u8
+
+
+
+
+
+
 https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21014/hls/movie_3.m3u8
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5556/202503241813129fkx.jpg" group-title="Reclaim ทวง",EP 3
 https://movie.server-cdn-streaming.com/api/uploads/movie/5556/video/21015/hls/movie_3.m3u8
