@@ -113,406 +113,13 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryturbo_t
 
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
+
+
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
 
 
 
-
-#EXTM3U
-#EXTINF:-1,鳳凰資訊台 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/264509
-#EXTINF:-1,中天亞洲台 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/264515
-#EXTINF:-1,AOD 352 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/247411
-#EXTINF:-1,AOD 354 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/247413
-#EXTINF:-1,全佳 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/247427
-#EXTINF:-1,爱奇艺 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290508
-#EXTINF:-1,小太阳 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/201164
-#EXTINF:-1,TVB千禧经典台 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157510
-#EXTINF:-1,天映頻道 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/174687
-#EXTINF:-1,ANIMAL PLANET 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157532
-#EXTINF:-1,Animax 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157486
-#EXTINF:-1,ANiPlus 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157611
-#EXTINF:-1,Asian Food Network 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157549
-#EXTINF:-1,ASSP 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/146068
-#EXTINF:-1,ASSP 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157556
-#EXTINF:-1,ASSP 3 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157557
-#EXTINF:-1,ASSP 4 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157558
-#EXTINF:-1,Arena 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157485
-#EXTINF:-1,Arena 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/287793
-#EXTINF:-1,AXN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/144831 
-#EXTINF:-1,AXN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157542
-#EXTINF:-1,AXN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165079
-#EXTINF:-1,Baby TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157605
-#EXTINF:-1,BBC Earth 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/171979
-#EXTINF:-1,BBC Earth 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/193271 
-#EXTINF:-1,BBC Earth 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/296269 
-#EXTINF:-1,BBC Lifestyle 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/295393 
-#EXTINF:-1,Bloomberg 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157533
-#EXTINF:-1,Bloomberg 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157599
-#EXTINF:-1,Boomerang 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165109
-#EXTINF:-1,Boomerang 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/171955
-#EXTINF:-1,Cartoon Network 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157593
-#EXTINF:-1,Cartoon Network 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/174684
-#EXTINF:-1,Cinema World 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/171956
-#EXTINF:-1,Cinemax 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157519
-#EXTINF:-1,CNBC 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162533 
-#EXTINF:-1,CNN Philippines 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/144855 
-#EXTINF:-1,Crime+ Investigation 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157554
-#EXTINF:-1,Crime+ Investigation 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165052
-#EXTINF:-1,Crime+ Investigation 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/170004 
-#EXTINF:-1,Discovery Asia 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/264824 
-#EXTINF:-1,Discovery Family 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/193275 
-#EXTINF:-1,Discovery Science 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/10647 
-#EXTINF:-1,Discovery Science 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157530
-#EXTINF:-1,Discovery World 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/10642 
-#EXTINF:-1,Disney Channel 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165075
-#EXTINF:-1,Disney Junior 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162511 
-#EXTINF:-1,Disney Junior 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/295392 
-#EXTINF:-1,Disney XD 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157544
-#EXTINF:-1,DMAX 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/158351
-#EXTINF:-1,Europa Plus TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/166589 
-#EXTINF:-1,FMN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165057
-#EXTINF:-1,Food Network 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/196454
-#EXTINF:-1,Fox Action Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157608
-#EXTINF:-1,Fox Crime 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165076 
-#EXTINF:-1,Fox Life 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165083 
-#EXTINF:-1,Fox Life 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/18981 
-#EXTINF:-1,Fox Life 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/5591 
-#EXTINF:-1,Fox Family Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157570
-#EXTINF:-1,Fox Family Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157595
-#EXTINF:-1,Fox Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/5589 
-#EXTINF:-1,France24 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157600
-#EXTINF:-1,GO SHOP 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/264511
-#EXTINF:-1,HBO 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157518
-#EXTINF:-1,HBO  
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/266811
-#EXTINF:-1,HBO 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/291139 
-#EXTINF:-1,HBO Family 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/197055 
-#EXTINF:-1,HBO HITS 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/196480 
-#EXTINF:-1,HBO RED 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/266811 
-#EXTINF:-1,HGTV Asia 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157553
-#EXTINF:-1,Hits 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157545
-#EXTINF:-1,Hits 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165085
-#EXTINF:-1,Hits Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157477
-#EXTINF:-1,Hits Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/221947
-#EXTINF:-1,#EXTINF:-1,HITS Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/285605 
-#EXTINF:-1,History 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/10646 
-#EXTINF:-1,History 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/144853 
-#EXTINF:-1,History 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162519
-#EXTINF:-1,History 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/6263 
-#EXTINF:-1,Investigation Discovery 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/193281 
-#EXTINF:-1,KBS World 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157475
-#EXTINF:-1,Kids TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162505
-#EXTINF:-1,KPLUS 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157567
-#EXTINF:-1,Life 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157585
-#EXTINF:-1,Life Style Fashion 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157592
-#EXTINF:-1,Music TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165108
-#EXTINF:-1,MYTV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157603
-#EXTINF:-1,NAT GEO 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165094
-#EXTINF:-1,NAT GEO Wild 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/148048 
-#EXTINF:-1,NAT GEO Wild 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/163469 
-#EXTINF:-1,NAT GEO Wild 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/174724
-#EXTINF:-1,NAT GEO Wild 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/20327 
-#EXTINF:-1,NHK Chinese Vision 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283974 
-#EXTINF:-1,NHK World Japan 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/145052 
-#EXTINF:-1,Netflix Comedy 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/43836 
-#EXTINF:-1,Netflix Drama 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/85555 
-#EXTINF:-1,Nick Junior 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157546
-#EXTINF:-1,Nick Junior 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165107
-#EXTINF:-1,Hickelodeon 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162510
-#EXTINF:-1,SkyNews 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157527
-#EXTINF:-1,Sony Channel 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/171974
-#EXTINF:-1,Sony One 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/158349
-#EXTINF:-1,Sony One 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/165077
-#EXTINF:-1,Ta-Daa! 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
-#EXTINF:-1,Thrill 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157580
-#EXTINF:-1,TLC 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157483
-#EXTINF:-1,TLC 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290392 
-#EXTINF:-1,Travel Channel 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/146968 
-#EXTINF:-1,TVN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157476
-#EXTINF:-1,TVN Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157520
-#EXTINF:-1,TVN Movies 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157596
-#EXTINF:-1,Warner TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157550
-#EXTINF:-1,Warner TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157594
-#EXTINF:-1,BeINSports 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157561
-#EXTINF:-1,BeINSports 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/295289
-#EXTINF:-1,BeINSports 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/282772
-#EXTINF:-1,BeINSports 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/282773
-#EXTINF:-1,BeINSports 3 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/266844
-#EXTINF:-1,BT Sport 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/270
-#EXTINF:-1,BT Sport 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/273
-#EXTINF:-1,BT Sport 3 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/271
-#EXTINF:-1,BT Sport ESPN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/1124
-#EXTINF:-1,BT Sport Extra 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/7435
-#EXTINF:-1,BT Sport Extra 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/47961
-#EXTINF:-1,BT Sport Extra 4 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283203
-#EXTINF:-1,BT Sport Extra 5 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/7438
-#EXTINF:-1,Egg Network 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157484
-#EXTINF:-1,EUROSPORT 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290480 
-#EXTINF:-1,EUROSPORT 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/138 
-#EXTINF:-1,EUROSPORT 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/80264 
-#EXTINF:-1,FIGHT Sports 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157606
-#EXTINF:-1,FOX SPORTS 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/162517
-#EXTINF:-1,FOX SPORTS 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/157488
-#EXTINF:-1,FOX SPORTS 501 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/279034 
-#EXTINF:-1,FOX SPORTS 502 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/81784 
-#EXTINF:-1,FOX SPORTS 503 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/280192 
-#EXTINF:-1,FOX SPORTS 504 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/280193 
-#EXTINF:-1,FOX SPORTS 505 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/144772 
-#EXTINF:-1,FOX SPORTS 507 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/280194 
-#EXTINF:-1,RUGBY PASS TV 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290509
-#EXTINF:-1,SkySports Action 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/268
-#EXTINF:-1,SkySports Arena 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/267
-#EXTINF:-1,SkySports Box Office 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/286318
-#EXTINF:-1,SkySports Cricket 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/269
-#EXTINF:-1,SkySports F1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/265
-#EXTINF:-1,SkySports Football 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/266
-#EXTINF:-1,SkySports Golf 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/264
-#EXTINF:-1,SkySports Main Event 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283053
-#EXTINF:-1,SkySports Mix 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/261
-#EXTINF:-1,SkySports News 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/260
-#EXTINF:-1,SkySports Premier League 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/263
-#EXTINF:-1,SkySports Racing 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/163132
-#EXTINF:-1,SuperSport Blitz 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/281536 
-#EXTINF:-1,SuperSport Cricket 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11637 
-#EXTINF:-1,SuperSport Golf 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11641 
-#EXTINF:-1,SuperSport Grandstand 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/194353 
-#EXTINF:-1,SuperSport Maximo 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/38572 
-#EXTINF:-1,SuperSport Motorsport 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11638 
-#EXTINF:-1,SuperSport Premier League 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11642 
-#EXTINF:-1,SuperSport Rugby 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11639 
-#EXTINF:-1,SuperSport Tennis 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/15200 
-#EXTINF:-1,SuperSport Variety 1 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11633 
-#EXTINF:-1,SuperSport Variety 2 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11634 
-#EXTINF:-1,SuperSport Variety 3 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11635 
-#EXTINF:-1,SuperSport Variety 4 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/11636 
-#EXTINF:-1,TRACE Sport Stars 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/266883 
-#EXTINF:-1,CCTV 3 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/275233 
-#EXTINF:-1,CCTV 4 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/187593 
-#EXTINF:-1,CCTV 5+ 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283609 
-#EXTINF:-1,CCTV 5+ 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/286858 
-#EXTINF:-1,CCTV 7 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283645 
-#EXTINF:-1,CCTV 9 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283647 
-#EXTINF:-1,CCTV 10 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283597 
-#EXTINF:-1,CCTV 11 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283598 
-#EXTINF:-1,CCTV 12 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283599 
-#EXTINF:-1,CCTV 13 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283866 
-#EXTINF:-1,CCTV 14 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/286856 
-#EXTINF:-1,CGTN Documentary 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/199989 
-#EXTINF:-1,CGTN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/275232 
-#EXTINF:-1,CGTN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283595 
-#EXTINF:-1,CGTN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/286855 
-#EXTINF:-1,CGTN 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/4818 
-#EXTINF:-1,NewTV金牌综艺 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283351 
-#EXTINF:-1,NewTV超级电视剧 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283353 
-#EXTINF:-1,NewTV超级电影 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283354 
-#EXTINF:-1,#EXTINF:-1,NewTV精品纪录 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283357 
-#EXTINF:-1,NewTV爱情喜剧 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283384 
-#EXTINF:-1,NewTV炫舞未来 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283383 
-#EXTINF:-1,NewTV武搏世界 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283381 
-#EXTINF:-1,NewTV家庭剧场 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283377 
-#EXTINF:-1,NewTV古装剧场 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283375 
-#EXTINF:-1,NewTV军旅剧场 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283372 
-#EXTINF:-1,NewTV军事评论 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283371 
-#EXTINF:-1,NewTV精品大剧 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290446 
-#EXTINF:-1,NewTV黑莓电影 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283356 
-#EXTINF:-1,NewTV黑莓动画 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283374 
-#EXTINF:-1,NewTV哒啵赛事 
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283376 
+ 
 
 #EXTM3U
 #EXTINF:-1,[HK]凤凰中文台 
@@ -880,3 +487,269 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sbs_korea/playli
 #EXTINF:-1,[KO]TVN 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVN/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",Aba Shwe Full
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Cbeebies/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro SuperSport HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",Astro SuperSport 2 HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro SuperSport 3 HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro SuperSport 4 HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png",Astro Arena HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png",Astro Arena 2 HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena2/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://yt3.googleusercontent.com/W9hb266HaZ5dAiqeZe71KogajsDGwdZyAqN1bEgYrGbugT5RhVgFP0ntpgn5Ye53Lc9UHaLV5Dg=s900-c-k-c0x00ffffff-no-rj",SPOTV
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Spotv1/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/02/06/00d2eb00-a5c0-11ed-a358-099f80363291_webp_original.webp",SPOTV2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Spotv2/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",WWE Network HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Wwe/playlist.m3u8
+
+
+
+
+#EXTINF:-1,[SPORT] PPTVHD36
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/pptv_pat/playlist.m3u8
+#EXTINF:-1,[SPORT] RCTI
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Rcti/playlist.m3u8
+#EXTINF:-1,[SPORT] TVRI
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVRI/playlist.m3u8
+
+
+#EXTINF:-1,[SPORT] ITV1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/itv1_antik/playlist.m3u8
+#EXTINF:-1,[SPORT] MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+#EXTINF:-1,[SPORT] Bosisport1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
+#EXTINF:-1,[SPORT] Bosisport2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
+#EXTINF:-1,[SPORT] TennisChannel
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
+#EXTINF:-1,[SPORT] GolfChannel
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/golfchannel_twn/playlist.m3u8
+#EXTINF:-1,[SPORT] Golf1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf1_twn/playlist.m3u8
+
+#EXTINF:-1,[SPORT] BBC ONE
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbc1_antik/playlist.m3u8
+#EXTINF:-1,[SPORT] BBC TWO
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbc2_antik/playlist.m3u8
+#EXTINF:-1,[MOVIE] AXN
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
+#EXTINF:-1,[MOVIE] Cinemax
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cinemax_twn/playlist.m3u8
+#EXTINF:-1,[MOVIE] HBO Famlly
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/fyi_twn/playlist.m3u8
+#EXTINF:-1,[MOVIE] TvnMovie
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Tvnmovie/playlist.m3u8
+#EXTINF:-1,[MOVIE] XingweiMovie
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
+#EXTINF:-1,[MOVIE] MeiyaMovie
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1,[MOVIE] StarVijay
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/starvijay_raj/playlist.m3u8
+#EXTINF:-1,[MOVIE] ZeeTv
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Zeetvhd/playlist.m3u8
+#EXTINF:-1,[THUTA] LoveNature
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Natgeowild/playlist.m3u8
+#EXTINF:-1,[THUTA] Animalplanet
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,[THUTA] Outdoor
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Natgeo/playlist.m3u8
+#EXTINF:-1,[KIDS] Nickelodeon
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickelodeon/playlist.m3u8
+#EXTINF:-1,[KIDS] NickJr
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickjr/playlist.m3u8
+#EXTINF:-1,[KIDS] CN Network
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/momo1_twn/playlist.m3u8
+#EXTINF:-1,[NEWS] SkyNews
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/skynews_antik/playlist.m3u8
+
+TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+RTM Sports
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+TV6 SD
+https://myklik.rtm.gov.my/embedded-channel/tv-6
+TVS
+TV1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV1/playlist.m3u8
+TV2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV2/playlist.m3u8
+TV3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV3/playlist.m3u8
+NTV7 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/NTV7/playlist.m3u8
+TV8
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV8/playlist.m3u8
+TV9
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV9/playlist.m3u8
+astro ARENA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8
+astro SUPERSPORT 1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8
+astro SUPERSPORT 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp2/playlist.m3u8
+astro SUPERSPORT 3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8
+astro SUPERSPORT 4
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp4/playlist.m3u8
+astro AWANI 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Awani/playlist.m3u8
+astro AEC
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Aec/playlist.m3u8
+astro WARNA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warna/playlist.m3u8
+astro RIA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ria/playlist.m3u8
+astro PRIMA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Prima/playlist.m3u8
+astro OASIS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Oasis/playlist.m3u8
+astro CERIA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ceria/playlist.m3u8
+astro CITRA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Citra/playlist.m3u8
+astro BOO 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Boo/playlist.m3u8
+astro HELLO 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hello/playlist.m3u8
+astro NAURA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Naura/playlist.m3u8
+astro XING HE
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
+astro QUAN JIA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Quanjia/playlist.m3u8
+astro AOD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AodHD/playlist.m3u8
+astro XIAO TAI YANG 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xiaotaiyang/playlist.m3u8
+astro HUA HEE DAI 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Huahee/playlist.m3u8
+astro  SHUANG XING 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Shuangxing/playlist.m3u8
+iQIYI 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Qiyi/playlist.m3u8
+FoxActionMovies
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxactionhd/playlist.m3u8
+Thrill
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Thrill/playlist.m3u8
+AXN
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Axn/playlist.m3u8
+TLC
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Tlc/playlist.m3u8
+Foxsport1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxsports/playlist.m3u8
+Foxsport3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxsports3/playlist.m3u8
+FoxMovies
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxmovie/playlist.m3u8
+Foxlife
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxlife/playlist.m3u8
+FoxFamilyMovie
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxfamily/playlist.m3u8
+Fox HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxhd/playlist.m3u8
+Fox Crime
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxcrime/playlist.m3u8
+HBO
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
+HBO HiTS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbohits/playlist.m3u8
+HBO Signature
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbosignature/playlist.m3u8
+HITS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hits/playlist.m3u8
+HITS MOVIES 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hitsmovie/playlist.m3u8
+CelestialMovie
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
+CCM
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
+ONE 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/One/playlist.m3u8
+
+TV1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV1/playlist.m3u8
+TV2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV2/playlist.m3u8
+TV3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV3/playlist.m3u8
+NTV7
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Rtmntv7/playlist.m3u8
+8TV
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV8/playlist.m3u8
+TV9
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV9/playlist.m3u8
+TV Alhijrah
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Alhijrah/playlist.m3u8
+Bernama TV
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Bernama/playlist.m3u8
+CELESTIAL MOVIES 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
+astro BOO 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Boo/playlist.m3u8
+astro AOD 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AodHD/playlist.m3u8
+astro AWANI 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Awani/playlist.m3u8
+astro WARNA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warna/playlist.m3u8
+astro RIA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ria/playlist.m3u8
+astro Ceria
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ceria/playlist.m3u8
+astro Citra
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Citra/playlist.m3u8
+astro Oasis
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Oasis/playlist.m3u8
+astro PRIMA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Prima/playlist.m3u8
+astro QUAN JIA HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Quanjia/playlist.m3u8
+astro SHUANG XING 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Shuangxing/playlist.m3u8
+CCM 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
+ARENA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8
+astro SUPERSPORT 1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8
+astro SUPERSPORT 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp2/playlist.m3u8
+astro SUPERSPORT 3
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8
+astro SUPERSPORT 4
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp4/playlist.m3u8
+TVB Xing He 星河
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
+TVB 星河台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
+tvN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVN/playlist.m3u8
+ONE 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/SetOne/playlist.m3u8
+oh!k
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ohk/playlist.m3u8
+CELESTIAL MOVIES 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
+CCM
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
+HGTV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/HGTV/playlist.m3u8
