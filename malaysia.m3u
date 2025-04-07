@@ -573,183 +573,153 @@ http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/momo1_twn/playli
 #EXTINF:-1,[NEWS] SkyNews
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/skynews_antik/playlist.m3u8
 
-TV1
+#EXTINF:-1,TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-TV2
+#EXTINF:-1,TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-Okey
+#EXTINF:-1,Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 RTM Sports
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-Berita RTM
+#EXTINF:-1,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1,Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-TV6
+#EXTINF:-1,TV6
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-TV6 SD
-https://myklik.rtm.gov.my/embedded-channel/tv-6
-TVS
-TV1
+#EXTINF:-1,TV1
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV1/playlist.m3u8
-TV2
+#EXTINF:-1,TV2
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV2/playlist.m3u8
-TV3
+#EXTINF:-1,TV3
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV3/playlist.m3u8
-NTV7 
+#EXTINF:-1,NTV7 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/NTV7/playlist.m3u8
-TV8
+#EXTINF:-1,TV8
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV8/playlist.m3u8
-TV9
+#EXTINF:-1,TV9
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV9/playlist.m3u8
-astro ARENA 
+#EXTINF:-1,astro ARENA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8
-astro SUPERSPORT 1
+#EXTINF:-1,astro SUPERSPORT 1
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8
-astro SUPERSPORT 2
+#EXTINF:-1,astro SUPERSPORT 2
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp2/playlist.m3u8
-astro SUPERSPORT 3
+#EXTINF:-1,astro SUPERSPORT 3
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8
-astro SUPERSPORT 4
+#EXTINF:-1,astro SUPERSPORT 4
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp4/playlist.m3u8
-astro AWANI 
+#EXTINF:-1,astro AWANI 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Awani/playlist.m3u8
-astro AEC
+#EXTINF:-1,astro AEC
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Aec/playlist.m3u8
-astro WARNA 
+#EXTINF:-1,astro WARNA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warna/playlist.m3u8
-astro RIA 
+#EXTINF:-1,astro RIA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ria/playlist.m3u8
-astro PRIMA 
+#EXTINF:-1,astro PRIMA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Prima/playlist.m3u8
-astro OASIS 
+#EXTINF:-1,astro OASIS 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Oasis/playlist.m3u8
-astro CERIA 
+#EXTINF:-1,astro CERIA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ceria/playlist.m3u8
-astro CITRA 
+#EXTINF:-1,astro CITRA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Citra/playlist.m3u8
-astro BOO 
+#EXTINF:-1,astro BOO 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Boo/playlist.m3u8
-astro HELLO 
+#EXTINF:-1,astro HELLO 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hello/playlist.m3u8
-astro NAURA 
+#EXTINF:-1,astro NAURA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Naura/playlist.m3u8
-astro XING HE
+#EXTINF:-1,astro XING HE
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
-astro QUAN JIA 
+#EXTINF:-1,astro QUAN JIA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Quanjia/playlist.m3u8
-astro AOD
+#EXTINF:-1,astro AOD
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AodHD/playlist.m3u8
-astro XIAO TAI YANG 
+#EXTINF:-1,astro XIAO TAI YANG 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xiaotaiyang/playlist.m3u8
-astro HUA HEE DAI 
+#EXTINF:-1,astro HUA HEE DAI 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Huahee/playlist.m3u8
-astro  SHUANG XING 
+#EXTINF:-1,astro  SHUANG XING 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Shuangxing/playlist.m3u8
-iQIYI 
+#EXTINF:-1,iQIYI 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Qiyi/playlist.m3u8
-FoxActionMovies
+#EXTINF:-1,FoxActionMovies
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxactionhd/playlist.m3u8
-Thrill
+#EXTINF:-1,Thrill
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Thrill/playlist.m3u8
-AXN
+#EXTINF:-1,AXN
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Axn/playlist.m3u8
-TLC
+#EXTINF:-1,TLC
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Tlc/playlist.m3u8
-Foxsport1
+#EXTINF:-1,Foxsport1
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxsports/playlist.m3u8
-Foxsport3
+#EXTINF:-1,Foxsport3
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxsports3/playlist.m3u8
-FoxMovies
+#EXTINF:-1,FoxMovies
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxmovie/playlist.m3u8
-Foxlife
+#EXTINF:-1,Foxlife
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxlife/playlist.m3u8
-FoxFamilyMovie
+#EXTINF:-1,FoxFamilyMovie
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxfamily/playlist.m3u8
-Fox HD
+#EXTINF:-1,Fox HD
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxhd/playlist.m3u8
-Fox Crime
+#EXTINF:-1,Fox Crime
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Foxcrime/playlist.m3u8
-HBO
+#EXTINF:-1,HBO
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
-HBO HiTS 
+;HBO HiTS 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbohits/playlist.m3u8
-HBO Signature
+#EXTINF:-1,HBO Signature
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbosignature/playlist.m3u8
-HITS 
+#EXTINF:-1,HITS 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hits/playlist.m3u8
-HITS MOVIES 
+#EXTINF:-1,HITS MOVIES 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hitsmovie/playlist.m3u8
-CelestialMovie
+#EXTINF:-1,CelestialMovie
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
-CCM
+#EXTINF:-1,CCM
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
-ONE 
+#EXTINF:-1,ONE 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/One/playlist.m3u8
 
-TV1 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV1/playlist.m3u8
-TV2
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV2/playlist.m3u8
-TV3
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV3/playlist.m3u8
-NTV7
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Rtmntv7/playlist.m3u8
-8TV
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV8/playlist.m3u8
-TV9
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV9/playlist.m3u8
-TV Alhijrah
+#EXTINF:-1,TV Alhijrah
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Alhijrah/playlist.m3u8
-Bernama TV
+#EXTINF:-1,Bernama TV
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Bernama/playlist.m3u8
-CELESTIAL MOVIES 
+#EXTINF:-1,CELESTIAL MOVIES 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
-astro BOO 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Boo/playlist.m3u8
-astro AOD 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AodHD/playlist.m3u8
-astro AWANI 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Awani/playlist.m3u8
-astro WARNA 
+
+#EXTINF:-1,astro WARNA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warna/playlist.m3u8
-astro RIA 
+#EXTINF:-1,astro RIA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ria/playlist.m3u8
-astro Ceria
+#EXTINF:-1,astro Ceria
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ceria/playlist.m3u8
-astro Citra
+#EXTINF:-1,astro Citra
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Citra/playlist.m3u8
-astro Oasis
+#EXTINF:-1,astro Oasis
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Oasis/playlist.m3u8
-astro PRIMA 
+#EXTINF:-1,astro PRIMA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Prima/playlist.m3u8
-astro QUAN JIA HD
+#EXTINF:-1,astro QUAN JIA HD
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Quanjia/playlist.m3u8
-astro SHUANG XING 
+#EXTINF:-1,astro SHUANG XING 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Shuangxing/playlist.m3u8
-CCM 
+#EXTINF:-1,CCM 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
-ARENA 
+#EXTINF:-1,ARENA 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8
-astro SUPERSPORT 1
+#EXTINF:-1,astro SUPERSPORT 1
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8
-astro SUPERSPORT 2
+#EXTINF:-1,astro SUPERSPORT 2
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp2/playlist.m3u8
-astro SUPERSPORT 3
+#EXTINF:-1,astro SUPERSPORT 3
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8
-astro SUPERSPORT 4
+#EXTINF:-1,astro SUPERSPORT 4
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp4/playlist.m3u8
-TVB Xing He 星河
+#EXTINF:-1,TVB Xing He 星河
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
-TVB 星河台
+#EXTINF:-1,TVB 星河台
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xinhe/playlist.m3u8
-tvN 
+#EXTINF:-1,tvN 
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVN/playlist.m3u8
-ONE 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/SetOne/playlist.m3u8
-oh!k
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ohk/playlist.m3u8
-CELESTIAL MOVIES 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8
-CCM
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8
-HGTV 
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/HGTV/playlist.m3u8
