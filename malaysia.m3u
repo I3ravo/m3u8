@@ -1,144 +1,1174 @@
-#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml" refresh="3600"
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" url-tvg="http://epg.51zmt.top:8000/e.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://unifiplaytv.samsam123.tk/epg" url-tvg="https://unifiplaytv.samsam123.tk/epg" refresh="1440" max-conn="1" refresh="3000"
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",TV1
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",RTM TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",RTM TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",TV3
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1052368.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",TV6
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+MALAYSIA
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AKcZPeZVU-Gqdwsk1uTyG2Ng20vZXyVjXrQPfOgL78VnOFe-jOKz-8k&s=10" group-title="TV",TV7
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Tv8
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="TV",TV9
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="TV1" tvg name="TV1 HD" group-title="MALAYSIA" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="TV",TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052629.m3u8
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",TVS
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052653.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",AURA
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/1052379.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",OAS
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/408671.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-#EXTINF:-1 tvg-chno="1" tvg-id="iptv36.nbt" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nbt.png?v=2",NBT FHD
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2" group-title="MALAYSIA" ch-number="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png",102 TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-chno="4" tvg-id="iptv36.thaipbs" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thaipbs.png",Thai PBS FHD
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 (UnifiTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb-hypptv-8064.astradamy.com/deviceId/tv3/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+ 
+#EXTINF:-1 tvg-id="TV3" group-title="MALAYSIA" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 backup
+# https://live.astradamy.com/tv3/index.m3u8
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+ 
+#EXTINF:-1 tvg-id="105" group-title="MALAYSIA" ch-number="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Drama_Sangat_HQ.jpg",105 Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-chno="5" tvg-id="iptv36.altv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/altv.png",ALTV FHD
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="8" tvg-id="iptv36.tv5" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tv5.png",TV5 HD
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="9" tvg-id="iptv36.tsports" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tsports.png",T-Sports
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/t-sport-7/playlist.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="iptv36.tptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tptv.png",TPTV FHD
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
-
-
-#EXTINF:-1 tvg-chno="13" tvg-id="iptv36.tnn16" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/tnn16.png",TNN16
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
-https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/tnn24_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",113 TV6
+# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="16" tvg-id="iptv36.jkn18" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/jkn18.png",JKN18 Top News HD
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-id="iptv36.nation" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/nation.png",Nation TV FHD
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MALAYSIA" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png",149 TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+                                                                                                                                 
+
+#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT
+http://iptv12k.com:35461/live/test167/12345/7983.m3u8
+
+#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 2
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157558
+
+#EXTINF: -1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astro SuperSport 4 ALT 3
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115618
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astro SuperSport 5
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astro SuperSport 5 ALT
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20561
 
 
-#EXTINF:-1 tvg-chno="19" tvg-id="iptv36.workpoint" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/workpoint.png",Workpoint TV FHD
-https://global-media.sooplive.com/live/workpoint/master.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="iptv36.true4u" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U HD
-https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
-#EXTINF:-1 tvg-chno="22" tvg-id="iptv36.true4u" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/true4u.png",True4U
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
-#EXTINF:-1 tvg-chno="23" tvg-id="iptv36.gmm25" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+港澳台
 
-#EXTINF:-1 tvg-chno="24" tvg-id="iptv36.gmm25" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="港澳台",中视新闻
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="iptv36.ch8" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.ch8" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+#EXTINF:-1 tvg-id="7135" tvg-name="中天新闻台" tvg-logo="" group-title="港澳台",中天新闻台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-id="iptv36.mono29" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png",MONO29 FHD
-https://live-mono29.monomax.me/out/v1/a0775b0326524af8a7497a555c0b843f/mono29.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
 
-#EXTINF:-1 tvg-chno="28" tvg-id="iptv36.mono29" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png",MONO29 Soundtrack FHD
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="iptv36.mcot" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
-#EXTINF:-1 tvg-chno="30" tvg-id="iptv36.mcot" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/mcot.png",MCOT FHD
-https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-id="iptv36.one" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="iptv36.one" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/one.png",ONE FHD
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-id="iptv36.thairath" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-id="iptv36.thairath" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/thairath.png",Thairath TV FHD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/thairathtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-id="iptv36.ch3" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="iptv36.ch3" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch3.png",CH3 FHD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/ch3hd/playlist.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="iptv36.amarin" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1  tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="iptv36.amarin" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/amarin.png",Amarin TV
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/amarintv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="iptv36.ch7" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-id="iptv36.ch7" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/ch7.png",CH7 FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:-1  tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="港澳台",公视
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-id="iptv36.pptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港澳台",中视经典
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshi_twn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png" tvg-id="6145" tvg-name="台视综合台" group-title="港澳台",台视综合台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuamovie_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="港澳台",三立都会
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlidouhui/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-id="iptv36.pptv" group-title="TV" tvg-logo="https://iptv36.vercel.app/logo/pptv.png",PPTV FHD
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://cdn1.googlecdn.live/4k/pptv/playlist.m3u8
+#EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="港澳台",三立戏剧
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="港澳台",三立综合
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlizhonghe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="港澳台",TVBS欢乐台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbshuanle_twn/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CTIAsia" group-title="港澳台" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",中天亞洲
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="港澳台",八大第一台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badafirst/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港澳台",八大综合台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="港澳台",八大娱乐台
+
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="港澳台",八大戏剧
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badadrama/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="港澳台",东森综合
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvzhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="港澳台",东森戏剧
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvdrama/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6049" tvg-name="卫视中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/卫视中文.png" group-title="港澳台",卫视中文
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="7222" tvg-name="EYE戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" group-title="港澳台",EYE戏剧
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvxiju_twn/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="港澳台",爱尔达影剧
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltadrama_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港澳台",HBO HD
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港澳台",HBOhits
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="港澳台",HBO温馨家庭
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/fyi_twn/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBO原创钜献
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbosignature_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",好莱坞电影
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="港澳台",AXN
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Axn/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="港澳台",龙华洋片
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",龙祥时代
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星卫电影台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
+
+
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+
+#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="港澳台",Celestial Movies
+http://210.210.155.35:80/dr9445/h/h14/01.m3u8
+#http://203.77.246.50:5000/udp/239.1.2.162:5000
+
+#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="CCM" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="港澳台",Celestial Classic Movies
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" tvg-id="427" tvg-name="国家地理野生频道" group-title="港澳台",国家地理野生频道
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+
+
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港澳台",探索频道
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+
+#EXTINF:-1 tvg-id="Discqovery Asia" tvg-name="探索亚洲" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="港澳台",探索亚洲
+#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e、
+
+EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" tvg-id="6165" tvg-name="Discovery科学" group-title="港澳台",Discovery 科学频道
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" tvg-id="6170" tvg-name="DMAX" group-title="港澳台",DMAX(高清)
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",动物星球
+http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+
+
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+
+#EXTINF:-1 group-title="港澳台",愛爾達生活旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+
+#EXTINF:-1 group-title="港澳台",中天旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" tvg-id="7216" tvg-name="美食星球" group-title="港澳台",美食星球频道
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixtv_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳台",凤凰卫视香港台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+
+
+China
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="中国",CCTV1 高清
+http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="2" tvg-name="CCTV2"  group-title="中国",CCTV2 高清
+http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="3" tvg-name="CCTV3" group-title="中国",CCTV3 高清
+http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="中国",CCTV4 高清
+http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="中国",CCTV5 高清
+http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="中国",CCTV6 高清
+http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="中国",CCTV7 高清
+http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="中国",CCTV8 高清
+http://111.20.33.70/PLTV/88888893/224/3221226012/index.m3u8
+-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="中国",CCTV9 高清
+http://111.20.33.70/PLTV/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="中国",CCTV10 高清
+http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="中国",CCTV11 高清
+http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="13" tvg-name="CCTV12" group-title="中国",CCTV12 高清
+http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="中国",CCTV13 高清
+http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="中国",CCTV14 高清
+http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="中国",CCTV15 高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="中国",CCTV16 高清
+http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="中国",CCTV17 高清
+http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="中国",CCTV5+ 高清
+http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="中国",CCTV4K 超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="中国",CCTV16 4K 超高清
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="中国",湖南卫视 高清
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="中国",浙江卫视
+http://39.135.47.101:6610/000000001000/1000000001000009806/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="中国",江苏卫视
+http://39.135.47.101:6610/000000001000/HD-4000k-1080P-jiangsustv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="中国",北京卫视
+http://39.135.47.101:6610/000000001000/1000000001000017156/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="中国",东方卫视
+http://39.135.47.101:6610/000000001000/HD-4000k-1080P-dongfangstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="中国",安徽卫视
+http://39.135.47.101:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="中国",广东卫视
+http://39.135.47.101:6610/000000001000/HD-4000k-1080P-guangdongstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="34" tvg-name="深圳卫视" group-title="中国",深圳卫视
+http://39.135.47.101:6610/000000001000/1000000001000011645/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="中国",辽宁卫视
+http://39.135.47.101:6610/000000001000/1000000002000024033/1.m3u8?xtkg?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="中国",山东卫视
+http://39.135.47.101:6610/000000001000/HD-8000k-1080P-shandongstv/1.m3u8?IASHttpSessionId=OTT?zweid
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津卫视" group-title="中国",天津卫视
+http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="40" tvg-name="重庆卫视" group-title="中国",重庆卫视
+http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="东南卫视" group-title="中国",东南卫视
+http://39.135.32.24:6610/000000001000/1000000002000009263/1.m3u8?xtkg?zfud
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="42" tvg-name="甘肃卫视" group-title="中国",甘肃卫视
+http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="43" tvg-name="广西卫视" group-title="中国",广西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="44" tvg-name="贵州卫视" group-title="中国",贵州卫视
+http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-id="45" tvg-name="河北卫视" group-title="中国",河北卫视 http://117.148.179.179/PLTV/88888888/224/3221231411/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="46" tvg-name="黑龙江卫视" group-title="中国",黑龙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="47" tvg-name="河南卫视" group-title="中国",河南卫视
+http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北卫视" group-title="中国",湖北卫视
+http://117.148.179.142/PLTV/88888888/224/3221231888/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="中国",江西卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林卫视" group-title="中国",吉林卫视
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="中国",内蒙古卫视
+http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-id="55" tvg-name="陕西卫视" group-title="中国",陕西卫视
+http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="中国",四川卫视
+http://117.148.179.142/PLTV/88888888/224/3221231885/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="中国",新疆卫视
+http://218.204.51.252:9901/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-id="59" tvg-name="青海卫视" group-title="中国",青海卫视
+http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+
+#EXTINF:-1 tvg-id="6246" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2019/01/16/large/20190116215519642444_57.jpg" group-title="中国",CHC家庭影院 高清
+http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-country="" tvg-language="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中国",CHC高清电影 高清
+http://111.20.33.70/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2019/01/22/large/20190122231052282218_12.jpg" group-title="中国",CHC动作电影 高清
+http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220255547955_38.jpg" group-title="中国",凤凰卫视 高清
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?
+#EXTINF:-1 tvg-id="142" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/20/large/20160420220104415890_30.jpg" group-title="中国",凤凰资讯 高清
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 tvg-id="126" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421161854742473_54.jpg" group-title="中国",翡翠台 高清
+https://cdn.hklive.tv/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/05/31/large/20220531142453519514_22.jpg" group-title=中国"",明珠台 高清
+https://cdn.hklive.tv/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2016/04/21/large/20160421215111310469_20.png" group-title="中国",J2 高清
+https://cdn.hklive.tv/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="中国",viuTV 高清
+https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://epg.pm/media/images/channel/2022/02/26/large/20220226171109206473_85.png" group-title="中国",viu6 高清
+https://cdn.hklive.tv/hls/96/index.m3u8
+
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH1 綜合台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="GOOD TV",GOOD TV CH1 綜合台 (720p)
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH2 真理台" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="GOOD TV",GOOD TV CH2 真理台 (720p)
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+
+#EXTINF:-1 tvg-id="6033" tvg-name="GOOD TV CH49 禱告頻道" tvg-country="TW" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="GOOD TV",GOOD TV CH49 禱告頻道 (720p)
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+
+
+#EXTM3U
+#EXTINF:-1,鳳凰資訊台 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/264509
+#EXTINF:-1,中天亞洲台 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/264515
+#EXTINF:-1,AOD 352 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/247411
+#EXTINF:-1,AOD 354 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/247413
+#EXTINF:-1,全佳 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/247427
+#EXTINF:-1,爱奇艺 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290508
+#EXTINF:-1,小太阳 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/201164
+#EXTINF:-1,TVB千禧经典台 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157510
+#EXTINF:-1,天映頻道 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/174687
+#EXTINF:-1,ANIMAL PLANET 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157532
+#EXTINF:-1,Animax 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157486
+#EXTINF:-1,ANiPlus 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157611
+#EXTINF:-1,Asian Food Network 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157549
+#EXTINF:-1,ASSP 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/146068
+#EXTINF:-1,ASSP 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157556
+#EXTINF:-1,ASSP 3 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157557
+#EXTINF:-1,ASSP 4 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157558
+#EXTINF:-1,Arena 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157485
+#EXTINF:-1,Arena 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/287793
+#EXTINF:-1,AXN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/144831 
+#EXTINF:-1,AXN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157542
+#EXTINF:-1,AXN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165079
+#EXTINF:-1,Baby TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157605
+#EXTINF:-1,BBC Earth 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/171979
+#EXTINF:-1,BBC Earth 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/193271 
+#EXTINF:-1,BBC Earth 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/296269 
+#EXTINF:-1,BBC Lifestyle 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/295393 
+#EXTINF:-1,Bloomberg 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157533
+#EXTINF:-1,Bloomberg 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157599
+#EXTINF:-1,Boomerang 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165109
+#EXTINF:-1,Boomerang 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/171955
+#EXTINF:-1,Cartoon Network 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157593
+#EXTINF:-1,Cartoon Network 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/174684
+#EXTINF:-1,Cinema World 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/171956
+#EXTINF:-1,Cinemax 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157519
+#EXTINF:-1,CNBC 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162533 
+#EXTINF:-1,CNN Philippines 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/144855 
+#EXTINF:-1,Crime+ Investigation 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157554
+#EXTINF:-1,Crime+ Investigation 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165052
+#EXTINF:-1,Crime+ Investigation 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/170004 
+#EXTINF:-1,Discovery Asia 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/264824 
+#EXTINF:-1,Discovery Family 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/193275 
+#EXTINF:-1,Discovery Science 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/10647 
+#EXTINF:-1,Discovery Science 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157530
+#EXTINF:-1,Discovery World 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/10642 
+#EXTINF:-1,Disney Channel 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165075
+#EXTINF:-1,Disney Junior 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162511 
+#EXTINF:-1,Disney Junior 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/295392 
+#EXTINF:-1,Disney XD 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157544
+#EXTINF:-1,DMAX 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/158351
+#EXTINF:-1,Europa Plus TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/166589 
+#EXTINF:-1,FMN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165057
+#EXTINF:-1,Food Network 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/196454
+#EXTINF:-1,Fox Action Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157608
+#EXTINF:-1,Fox Crime 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165076 
+#EXTINF:-1,Fox Life 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165083 
+#EXTINF:-1,Fox Life 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/18981 
+#EXTINF:-1,Fox Life 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/5591 
+#EXTINF:-1,Fox Family Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157570
+#EXTINF:-1,Fox Family Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157595
+#EXTINF:-1,Fox Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/5589 
+#EXTINF:-1,France24 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157600
+#EXTINF:-1,GO SHOP 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/264511
+#EXTINF:-1,HBO 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157518
+#EXTINF:-1,HBO  
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/266811
+#EXTINF:-1,HBO 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/291139 
+#EXTINF:-1,HBO Family 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/197055 
+#EXTINF:-1,HBO HITS 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/196480 
+#EXTINF:-1,HBO RED 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/266811 
+#EXTINF:-1,HGTV Asia 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157553
+#EXTINF:-1,Hits 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157545
+#EXTINF:-1,Hits 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165085
+#EXTINF:-1,Hits Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157477
+#EXTINF:-1,Hits Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/221947
+#EXTINF:-1,#EXTINF:-1,HITS Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/285605 
+#EXTINF:-1,History 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/10646 
+#EXTINF:-1,History 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/144853 
+#EXTINF:-1,History 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162519
+#EXTINF:-1,History 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/6263 
+#EXTINF:-1,Investigation Discovery 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/193281 
+#EXTINF:-1,KBS World 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157475
+#EXTINF:-1,Kids TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162505
+#EXTINF:-1,KPLUS 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157567
+#EXTINF:-1,Life 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157585
+#EXTINF:-1,Life Style Fashion 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157592
+#EXTINF:-1,Music TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165108
+#EXTINF:-1,MYTV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157603
+#EXTINF:-1,NAT GEO 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165094
+#EXTINF:-1,NAT GEO Wild 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/148048 
+#EXTINF:-1,NAT GEO Wild 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/163469 
+#EXTINF:-1,NAT GEO Wild 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/174724
+#EXTINF:-1,NAT GEO Wild 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/20327 
+#EXTINF:-1,NHK Chinese Vision 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283974 
+#EXTINF:-1,NHK World Japan 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/145052 
+#EXTINF:-1,Netflix Comedy 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/43836 
+#EXTINF:-1,Netflix Drama 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/85555 
+#EXTINF:-1,Nick Junior 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157546
+#EXTINF:-1,Nick Junior 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165107
+#EXTINF:-1,Hickelodeon 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162510
+#EXTINF:-1,SkyNews 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157527
+#EXTINF:-1,Sony Channel 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/171974
+#EXTINF:-1,Sony One 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/158349
+#EXTINF:-1,Sony One 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/165077
+#EXTINF:-1,Ta-Daa! 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290510
+#EXTINF:-1,Thrill 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157580
+#EXTINF:-1,TLC 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157483
+#EXTINF:-1,TLC 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290392 
+#EXTINF:-1,Travel Channel 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/146968 
+#EXTINF:-1,TVN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157476
+#EXTINF:-1,TVN Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157520
+#EXTINF:-1,TVN Movies 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157596
+#EXTINF:-1,Warner TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157550
+#EXTINF:-1,Warner TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157594
+#EXTINF:-1,BeINSports 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157561
+#EXTINF:-1,BeINSports 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/295289
+#EXTINF:-1,BeINSports 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/282772
+#EXTINF:-1,BeINSports 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/282773
+#EXTINF:-1,BeINSports 3 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/266844
+#EXTINF:-1,BT Sport 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/270
+#EXTINF:-1,BT Sport 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/273
+#EXTINF:-1,BT Sport 3 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/271
+#EXTINF:-1,BT Sport ESPN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/1124
+#EXTINF:-1,BT Sport Extra 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/7435
+#EXTINF:-1,BT Sport Extra 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/47961
+#EXTINF:-1,BT Sport Extra 4 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283203
+#EXTINF:-1,BT Sport Extra 5 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/7438
+#EXTINF:-1,Egg Network 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157484
+#EXTINF:-1,EUROSPORT 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290480 
+#EXTINF:-1,EUROSPORT 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/138 
+#EXTINF:-1,EUROSPORT 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/80264 
+#EXTINF:-1,FIGHT Sports 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157606
+#EXTINF:-1,FOX SPORTS 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/162517
+#EXTINF:-1,FOX SPORTS 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/157488
+#EXTINF:-1,FOX SPORTS 501 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/279034 
+#EXTINF:-1,FOX SPORTS 502 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/81784 
+#EXTINF:-1,FOX SPORTS 503 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/280192 
+#EXTINF:-1,FOX SPORTS 504 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/280193 
+#EXTINF:-1,FOX SPORTS 505 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/144772 
+#EXTINF:-1,FOX SPORTS 507 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/280194 
+#EXTINF:-1,RUGBY PASS TV 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290509
+#EXTINF:-1,SkySports Action 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/268
+#EXTINF:-1,SkySports Arena 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/267
+#EXTINF:-1,SkySports Box Office 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/286318
+#EXTINF:-1,SkySports Cricket 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/269
+#EXTINF:-1,SkySports F1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/265
+#EXTINF:-1,SkySports Football 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/266
+#EXTINF:-1,SkySports Golf 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/264
+#EXTINF:-1,SkySports Main Event 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283053
+#EXTINF:-1,SkySports Mix 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/261
+#EXTINF:-1,SkySports News 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/260
+#EXTINF:-1,SkySports Premier League 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/263
+#EXTINF:-1,SkySports Racing 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/163132
+#EXTINF:-1,SuperSport Blitz 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/281536 
+#EXTINF:-1,SuperSport Cricket 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11637 
+#EXTINF:-1,SuperSport Golf 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11641 
+#EXTINF:-1,SuperSport Grandstand 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/194353 
+#EXTINF:-1,SuperSport Maximo 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/38572 
+#EXTINF:-1,SuperSport Motorsport 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11638 
+#EXTINF:-1,SuperSport Premier League 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11642 
+#EXTINF:-1,SuperSport Rugby 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11639 
+#EXTINF:-1,SuperSport Tennis 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/15200 
+#EXTINF:-1,SuperSport Variety 1 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11633 
+#EXTINF:-1,SuperSport Variety 2 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11634 
+#EXTINF:-1,SuperSport Variety 3 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11635 
+#EXTINF:-1,SuperSport Variety 4 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/11636 
+#EXTINF:-1,TRACE Sport Stars 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/266883 
+#EXTINF:-1,CCTV 3 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/275233 
+#EXTINF:-1,CCTV 4 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/187593 
+#EXTINF:-1,CCTV 5+ 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283609 
+#EXTINF:-1,CCTV 5+ 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/286858 
+#EXTINF:-1,CCTV 7 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283645 
+#EXTINF:-1,CCTV 9 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283647 
+#EXTINF:-1,CCTV 10 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283597 
+#EXTINF:-1,CCTV 11 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283598 
+#EXTINF:-1,CCTV 12 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283599 
+#EXTINF:-1,CCTV 13 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283866 
+#EXTINF:-1,CCTV 14 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/286856 
+#EXTINF:-1,CGTN Documentary 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/199989 
+#EXTINF:-1,CGTN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/275232 
+#EXTINF:-1,CGTN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283595 
+#EXTINF:-1,CGTN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/286855 
+#EXTINF:-1,CGTN 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/4818 
+#EXTINF:-1,NewTV金牌综艺 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283351 
+#EXTINF:-1,NewTV超级电视剧 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283353 
+#EXTINF:-1,NewTV超级电影 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283354 
+#EXTINF:-1,#EXTINF:-1,NewTV精品纪录 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283357 
+#EXTINF:-1,NewTV爱情喜剧 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283384 
+#EXTINF:-1,NewTV炫舞未来 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283383 
+#EXTINF:-1,NewTV武搏世界 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283381 
+#EXTINF:-1,NewTV家庭剧场 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283377 
+#EXTINF:-1,NewTV古装剧场 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283375 
+#EXTINF:-1,NewTV军旅剧场 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283372 
+#EXTINF:-1,NewTV军事评论 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283371 
+#EXTINF:-1,NewTV精品大剧 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/290446 
+#EXTINF:-1,NewTV黑莓电影 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283356 
+#EXTINF:-1,NewTV黑莓动画 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283374 
+#EXTINF:-1,NewTV哒啵赛事 
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/283376 
+
+#EXTM3U
+#EXTINF:-1,[HK]凤凰中文台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1,[HK]凤凰香港台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1,[HK]凤凰资讯台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+#EXTINF:-1,[HK]翡翠台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+#EXTINF:-1,[HK]翡翠台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1,[HK]无线新闻台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1,[HK]J2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1,[HK]明珠台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1,[HK]RTHK32 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1,[HK]VIUTV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+#EXTINF:-1,[HK]VIUTV 6 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1,[HK]星空卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingkong/playlist.m3u8?tid=MAAA7601311476013114&ct=19226&tsum=0e0d60f32c0fef234bbd771cca6aceb8
+#EXTINF:-1,[TW]BBC Earth 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
+#EXTINF:-1,[TW]Baby TV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
+#EXTINF:-1,[TW]CINEMAX 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1,[TW]CNBC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+#EXTINF:-1,[TW]CNN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1,[TW]CN卡通頻道 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1,[TW]ELEVEN 1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:-1,[TW]ELEVEN 2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:-1,[TW]Fox News 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+#EXTINF:-1,[TW]France24 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+#EXTINF:-1,[TW]HBO 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1,[TW]HBO原创 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1,[TW]JET綜合 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+#EXTINF:-1,[TW]TLC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1,[TW]TVBS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1,[TW]TVBS新闻台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1,[TW]TVBS欢乐台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1,[TW]TVB星河 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+#EXTINF:-1,[TW]三立戏剧台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1,[TW]东森幼幼 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1,[TW]东森戏剧 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1,[TW]东森新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1,[TW]东森电影 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1,[TW]东森羊片 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1,[TW]东森财经新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1,[TW]东森超视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1,[TW]中天亚洲台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1,[TW]中天娱乐 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1,[TW]中天新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1,[TW]中天综合 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1,[TW]中视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1,[TW]中视新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+#EXTINF:-1,[TW]亚洲旅游台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1,[TW]八大戏剧台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1,[TW]八大综合台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1,[TW]公視 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e9449421325575
+#EXTINF:-1,[TW]动物星球 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1,[TW]华视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1,[TW]博斯网球 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1,[TW]博斯运动二台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1,[TW]博斯高球 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1,[TW]博斯魅力 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1,[TW]卫视中文台
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+#EXTINF:-1,[TW]台视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1,[TW]国家地理 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1,[TW]国家地理野生 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1,[TW]大愛 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
+#EXTINF:-1,[TW]好消息2台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+#EXTINF:-1,[TW]好莱坞电影 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+#EXTINF:-1,[TW]年代新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1,[TW]探索亚洲 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1,[TW]探索动力 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1,[TW]探索科学 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1,[TW]探索频道 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1,[TW]民视台湾台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1,[TW]民视新闻台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1,[TW]爱尔达体育1台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1,[TW]爱尔达体育2台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1,[TW]爱尔达影剧台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+#EXTINF:-1,[TW]爱尔达影剧台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+#EXTINF:-1,[TW]纬来体育
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1,[TW]美亚电影台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1,[TW]美食星球 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1,[TW]靖天国际台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1,[TW]靖天资讯台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianinfo_twn/playlist.m3u8?tid=MBBB4193573341935733&ct=19226&tsum=a90c32c7e1c51e5f30cff8add7dbea68
+#EXTINF:-1,[TW]靖天卡通台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1,[TW]非凡新闻 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1,[TW]龙华偶像 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1,[TW]龙华卡通 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+#EXTINF:-1,[TW]龙华戏剧 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1,[TW]龙华洋片 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1,[TW]龙华经典 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+#EXTINF:-1,[TW]龙祥时代 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+#EXTINF:-1,ABC News 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1,BT ESPN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
+#EXTINF:-1,BT Sports 1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
+#EXTINF:-1,BT Sports 2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+#EXTINF:-1,BT Sports 3 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
+#EXTINF:-1,Baby TV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
+#EXTINF:-1,Bein Sports 2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203
+#EXTINF:-1,CBS News 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1,CNA Japan 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cna_japan/playlist.m3u8?tid=MDBD9115772291157722&ct=19225&tsum=afdf94a5d0b7efaa3e64a42a4fde7455
+#EXTINF:-1,CNA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+#EXTINF:-1,CNN International 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
+#EXTINF:-1,Cartoon Network 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
+#EXTINF:-1,DW 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/KiX/playlist.m3u8?tid=MC7C1172544811725448&ct=19225&tsum=b8bc88b03797e354c5997adec13d939b
+#EXTINF:-1,Euronews 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1,HGTV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
+#EXTINF:-1,HISTORY 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
+#EXTINF:-1,Itv 1
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
+#EXTINF:-1,Itv 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
+#EXTINF:-1,Music TV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
+#EXTINF:-1,Sky News 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+#EXTINF:-1,Sky Sports Arena 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
+#EXTINF:-1,Sky Sports Cricket 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:-1,Sky Sports F1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
+#EXTINF:-1,[MY]ASSP 1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXTINF:-1,[MY]ASSP 3 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+#EXTINF:-1,[MY]SPO TV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Spotvgp/playlist.m3u8?tid=MB6B7102612171026121&ct=19225&tsum=76aaf615979ef9dd5500182243df51ed
+#EXTINF:-1,[MY]AOD350 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
+#EXTINF:-1,[MY]AEC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
+[#EXTINF:-1,MY]华丽台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1,[MY]双星 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
+#EXTINF:-1,[MY]全佳 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
+#EXTINF:-1,[MY]欢喜台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+#EXTINF:-1,[MY]小太阳 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
+#EXTINF:-1,[MY]小太阳 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+#EXTINF:-1,[MY]天映頻道 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
+#EXTINF:-1,[MY]天映經典 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
+#EXTINF:-1,[MY]GoShop 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Goshopch/playlist.m3u8?tid=ME8E6726672067266720&ct=19225&tsum=fc0c084625e23b3be63c14141de70916
+#EXTINF:-1,[MY]TV8 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+#EXTINF:-1,[MY]TVBS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+#EXTINF:-1,[MY]TVBS新闻台 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1,[MY]星卫HD电影 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1,[MY]ANIMAX 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+#EXTINF:-1,[MY]ARENA 2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1,[MY]ARENA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+#EXTINF:-1,[MY]AXN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+#EXTINF:-1,[MY]Animal Planet 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+#EXTINF:-1,[MY]Awani 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+#EXTINF:-1,[MY]BBC 1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1,[MY]BBC 2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1,[MY]BBC Lifestyle 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+#EXTINF:-1,[MY]BBC WORLD NEWS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1,[MY]BERNAMA 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
+#EXTINF:-1,[MY]Bloomberg 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
+#EXTINF:-1,[MY]CBBC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cbbc_antik/playlist.m3u8?tid=MA4A9598485295984852&ct=19225&tsum=f014b03e65dd6b89eacae112ac675ef6
+#EXTINF:-1,[MY]CBeebies 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+#EXTINF:-1,[MY]Golf Channel 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Astrogolf/playlist.m3u8?tid=ME0E1209799712097997&ct=19225&tsum=b3a5a85654e70c92ffd9f877528cf62b
+#EXTINF:-1,[MY]NAT GEO WILD 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
+#EXTINF:-1,[MY]NAT GEO 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
+#EXTINF:-1,[MY]Nick Jr 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
+#EXTINF:-1,[MY]Nickelodeon 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
+#EXTINF:-1,[MY]Oh!k 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
+#EXTINF:-1,[MY]One 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1,[MY]TLC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+#EXTINF:-1,[MY]WWE 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
+#EXTINF:-1,[MY]Warner TV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
+#EXTINF:-1,[CN]CCTV-1 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv1/playlist.m3u8?tid=MB2B9826281798262817&ct=19225&tsum=c3e8198631cfa41940fb6aba4b1ae841
+#EXTINF:-1,[CN]CCTV-2 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv2/playlist.m3u8?tid=ME0E6752603767526037&ct=19225&tsum=8937e0b8c7c22fce4834f366a2ab6bde
+#EXTINF:-1,[CN]CCTV-4 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
+#EXTINF:-1,[CN]CCTV-5 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv5/playlist.m3u8?tid=MD2D5656337456563374&ct=19225&tsum=29861256a9ff86acc68cce955fb93829
+#EXTINF:-1,[CN]CCTV-5+ 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
+#EXTINF:-1,[CN]CCTV-6 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv6/playlist.m3u8?tid=MF9F5072146350721463&ct=19225&tsum=4a988a91f37a523b17f426e19716e532
+#EXTINF:-1,[CN]CCTV-8 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv8hd/playlist.m3u8?tid=MB9B2648043726480437&ct=19225&tsum=570c59d4ae344fe8968eeebf18261612
+#EXTINF:-1,[CN]CCTV-9 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv9hd/playlist.m3u8?tid=MB3B2175701421757014&ct=19225&tsum=a8e4eb20b41c000aaec59f1994e5884c
+#EXTINF:-1,[CN]CCTV-10 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv10hd/playlist.m3u8?tid=MD5D5225889152258891&ct=19225&tsum=1aa176c8bde01378d6ba42864e80f8c6
+#EXTINF:-1,[CN]CCTV-12 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv12/playlist.m3u8?tid=ME5E1868210218682102&ct=19225&tsum=91f63d21af1bd01ed7de6e5cde5cd55c
+#EXTINF:-1,[CN]CCTV-13 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv13/playlist.m3u8?tid=MEAE5893429158934291&ct=19225&tsum=7e437e531910f3c24213fd3661fcc983
+#EXTINF:-1,[CN]CCTV-14 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cctv14/playlist.m3u8?tid=MA1A2502333425023334&ct=19225&tsum=c1ac4fbf128b149d27738f3315c5dfc1
+#EXTINF:-1,[CN]CGTN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/CGTN/playlist.m3u8?tid=MDED6717475367174753&ct=19225&tsum=096735a63d2e871c3ab4980cfea64fe4
+#EXTINF:-1,[CN]浙江卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Zhejiang/playlist.m3u8?tid=MC7C4621237046212370&ct=19226&tsum=78beb1b45c44b53e621403b4327efa56
+#EXTINF:-1,[CN]浙江卫视(备) 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhejiang_twn/playlist.m3u8?tid=MD7D8766114087661140&ct=19226&tsum=c7f1ba96c1394e50a2a8b646bd398cae
+#EXTINF:-1,[CN]湖南卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hunan_twn/playlist.m3u8?tid=MC9C7618917276189172&ct=19226&tsum=2610487b0e9424def632889b293c0e9e
+#EXTINF:-1,[CN]江苏卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jiangsu_twn/playlist.m3u8?tid=MA6A5213905852139058&ct=19226&tsum=561feb226ebe64b3644f03d929c2a88a
+#EXTINF:-1,[CN]深圳卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/shenzhen/playlist.m3u8?tid=MB9B3874889638748896&ct=19226&tsum=ade93def83a9c1eff7bceddd6ce76483
+#EXTINF:-1,[CN]四川卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sichuan_twn/playlist.m3u8?tid=MD4D5174810351748103&ct=19226&tsum=dd620e398eb2b4f07c3a05dc39bd6673
+#EXTINF:-1,[CN]广西卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/guangxi/playlist.m3u8?tid=MB5B3787443737874437&ct=19226&tsum=fff4886674a160d3d57ddf759569c511
+[#EXTINF:-1,CN]湖北卫视 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hubei/playlist.m3u8?tid=MF2F5899308558993085&ct=19226&tsum=a2b015b4bc0a21b9ffcbf3db2655b579
+#EXTINF:-1,[KO]AllTheKpop 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
+#EXTINF:-1,[KO]ARIRANG 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_korea/playlist.m3u8?tid=MF0F4469644244696442&ct=19225&tsum=74c6b6af7ddf9d5cdada2a0bf81650a7
+#EXTINF:-1,[KO]NHK 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
+#EXTINF:-1,[KO]The K-POP 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
+#EXTINF:-1,[KO]CBS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cbs_korea/playlist.m3u8?tid=MDAD4507283145072831&ct=19225&tsum=2a813574c958e8ae1a2f5c64237e9bb9
+#EXTINF:-1,[KO]CGNTV 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cgntv_korea/playlist.m3u8
+#EXTINF:-1,[KO]EBS 2
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ebs2_korea/playlist.m3u8
+#EXTINF:-1,[KO]EBS KIDS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ebskids_korea/playlist.m3u8
+#EXTINF:-1,[KO]MBC 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mbc_korea/playlist.m3u8
+#EXTINF:-1,[KO]SBS 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sbs_korea/playlist.m3u8
+#EXTINF:-1,[KO]TVN 
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/TVN/playlist.m3u8
+
