@@ -110,42 +110,6 @@ user-agent=ffkyou567
 
 http://blue4k.xyz:8880/get.php?username=102511633202&password=158035489345&type=m3u
 
-Cartoonito
-http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKRzHAygMb8wm440kdE0oXHw/m3u8
-
-
-#EXTINF:-1,HBO Family
-http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKXBft098VDqHe-RRN2Mc3tU/m3u8
-HBO Signature
-http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKTdZHOnoJ-OwuW9v5Hc-pAQ/m3u8
-Cinemax
-http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKWlHeaiur6k4rClYC1iwSEk/m3u8
-
-film2 = http://playid-stream.zapto.org:9092/memfs/3e5a07de-7f34-4a16-a747-90f5c84d2c53.m3u8
-
-film1 = http://playid-stream.zapto.org:9092/memfs/880779d1-fabe-44a3-8b43-f18fa788325a.m3u8
-
-FILM 1
-FILM 2 
-TRUE MOVIE HIT
-TRUE PREMIER FOOTBALL 1
-TRUE PREMIER 4K
-MY SCI
-ANIMAL SHOW
-
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-FILM-1/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-FILM-2/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-MOVIE-HIT/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-PREMIER-FOOTBALL-1/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-TRUE-PREMIER-4K/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-GOOD-MY-SCI/index.m3u8
-
-http://moo7.myddns.me:9093/PLAYIDTV-GOOD-ANIMAL-SHOW/index.m3u8
 
 
 http://iptvview.sytes.net/freestream.m3u
@@ -154,8 +118,6 @@ https://keela2.com/stream/1/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela2.com/stream/99/index.m3u8?token=mvFWafOIir5JDlQN
 
 
-Cartoon Network
-http://102.129.139.134:80/play/w2If1iuGTEQMoXGbYmSlKWmJ40KBBcEs4Qk5fni2YOA/m3u8
 
 
 SEAL Team (2017) 
@@ -204,6 +166,9 @@ https://main.24playerhd.com/newplaylist/af7e9a60de8dd8c2b8c73317/af7e9a60de8dd8c
 https://main.24playerhd.com/newplaylist/a35deb018d02adcee6b780e5/a35deb018d02adcee6b780e5.m3u8
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/08/SEAL-Team-2017-200x300.jpg" group-title="" , EP 22
 https://main.24playerhd.com/newplaylist/8355c57e640fe039309deec3/8355c57e640fe039309deec3.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/08/SEAL-Team-2017-200x300.jpg" group-title="" , EP 23
 
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/08/SEAL-Team-2017-200x300.jpg" group-title="" , EP 24
