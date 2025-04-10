@@ -170,8 +170,54 @@ https://main.24playerhd.com/newplaylist/dd0ed273471d29b21a5b2305/dd0ed273471d29b
 
 
 
+NCIS Los Angeles หน่วยสืบสวนแห่งนาวิกโยธิน Season 11
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 1
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep1.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/03/Seal-Team-Season-2-2018-200x300.jpg" group-title="" , EP 1
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 2
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 3
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 4
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 5
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep5.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 6
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep6.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 7
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 8
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep8.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 9
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep9.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 10
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep10.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 11
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep11.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 12
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep12.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 13
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep13.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 14
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep14.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 15
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep15.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 16
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep16.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 17
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep17.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 18
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep18.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 19
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep19.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 20
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep20.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 21
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep21.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/04/NCIS-Los-Angeles-หน่วยสืบสวนแห่งนาวิกโยธิน-Season-11-พากย์ไทย.jpg" group-title="" , EP 22
+https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep22.mp4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/03/Seal-Team-Season-2-2018-200x300.jpg" group-title="" , EP 1
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/03/Seal-Team-Season-2-2018-200x300.jpg" group-title="" , EP 1
