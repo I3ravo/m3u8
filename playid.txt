@@ -342,9 +342,100 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5572/video/21171/hls/mo
 
 
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 1
+
+
+
+
 https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20579/hls/movie_3.m3u8
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 2
+
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13167/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 2
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13168/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 3
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13169/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 4
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13170/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 5
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13171/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 6
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13172/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 7
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13173/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 8
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13251/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 9
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13252/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 10
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13309/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 11
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13310/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 12
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13350/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 13
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13332/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 14
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13336/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 15
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13337/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 16
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13359/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 17
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13360/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 18
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13388/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 19
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13389/hls/movie_3.m3u8
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 20
+https://movie.server-cdn-streaming.com/api/uploads/movie/4454/video/13390/hls/movie_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4454/202308111845113SuU.jpg" group-title="Moving",EP 1
+
+
+
+
 https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20580/hls/movie_3.m3u8
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5488/20250129135725yiyN.jpg" group-title="Tulsa King",EP 3
 https://movie.server-cdn-streaming.com/api/uploads/movie/5488/video/20617/hls/movie_3.m3u8
