@@ -219,6 +219,10 @@ https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCIS
 https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/USA/NCISLosAngelesSeason11Thai/NCISLosAngelesSeason11ep22.mp4/playlist.m3u8
 
 
+https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/03/Seal-Team-Season-2-2018-200x300.jpg" group-title="" , EP 1
 #EXTINF:-1 tvg-logo="https://www.serie-day.com/wp-content/uploads/2023/03/Seal-Team-Season-2-2018-200x300.jpg" group-title="" , EP 1
 
