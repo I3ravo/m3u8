@@ -4,4 +4,4 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/31.220.3.103:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186566&extension=ts
+http://krooztv.live:80/live/nick/nick/663771.m3u8
