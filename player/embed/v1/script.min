@@ -1,0 +1,34 @@
+
+document.addEventListener("DOMContentLoaded", function () {
+  const currentLocation = window.location.search;
+  const sURL = currentLocation.replace("?live&url=", "");
+  const cHost = atob("Y29ycy1wcm94eS5jb29rcy5meWk=");
+  if (window.mpegts) {
+    mpegts.LoggingControl.applyConfig({
+      enableDebug: false,
+      enableVerbose: false,
+      enableInfo: false,
+      enableWarn: false,
+      enableError: true
+    });
+  }
+  var player = videojs("#player");
+  player.on("ready", function () {
+    var MpegTsJs = {
+      src: "//" + cHost + "/" + sURL,
+      type: "video/mp2t",
+      suppressNotSupportedError: true,
+      mediaDataSource: {
+        type: "mpegts",
+        isLive: true,
+        cors: true,
+        withCredentials: false
+      },
+      config: {
+        enableWorker: true,
+        enableWorkerForMSE: true
+      }
+    };
+    player.src(MpegTsJs);
+  });
+});
