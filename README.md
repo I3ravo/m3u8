@@ -1,5 +1,7 @@
 
 # m3u8
+
+https://playid.vercel.app/player/embed/v1/index.html?live&url=
 # vip/#/m3u8
 https://raw.githubusercontent.com/playtvthai/m3u8/refs/heads/main/vip/
 
