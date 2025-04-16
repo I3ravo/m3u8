@@ -45,7 +45,7 @@
 				var video = document.getElementById("video");
 				if(Hls.isSupported()){
 					var hls = new Hls();
-					hls.loadSource("https://playtvthai.github.io/m3u8/movie/trueidas.m3u8");
+					hls.loadSource("https://playid.vercel.app.io/m3u8/movie/trueidas.m3u8");
 					hls.attachMedia(video);
 					hls.on(Hls.Events.MANIFEST_PARSED,function()
 					{
