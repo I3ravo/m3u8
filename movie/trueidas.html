@@ -40,7 +40,7 @@
 <body>
 	<div class="video-container">			
 				<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-				<video id="video" controls="controls" width="100%" align="center" src="https://live1.thaitvstream.com/play/medianews/index.m3u8"></video>
+				<video id="video" controls="controls" width="100%" align="center" src=""></video>
 				<script>
 				var video = document.getElementById("video");
 				if(Hls.isSupported()){
@@ -54,7 +54,7 @@
 				}
 				else if (video.canPlayType("application/vnd.apple.mpegurl"))
 				{
-					video.src = "https://live1.thaitvstream.com/play/medianews/index.m3u8";
+					video.src = "";
 					video.addEventListener("canplay",function()
 					{
 						video.play();
