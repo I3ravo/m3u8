@@ -1,0 +1,423 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M3U8</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Full-Frame Player -->
+        <div class="player-container">
+            <div id="mainPlayer">
+                <iframe id="iframePlayer" width="100%" height="auto" frameborder="0" src="" allow="autoplay; encrypted-media"></iframe>
+            </div>
+            <div class="logo-overlay" id="logoOverlay">
+                <div class="logo-text">กรุณาเลือกช่องที่ต้องการเล่น</div>
+            </div>
+            <div class="corner-logo">
+                <a href="" target="_blank">
+                    <img src="https://i.ibb.co/6c5mVGt7/playid2.png" alt="PlayID">
+                </a>
+            </div>
+        </div>
+
+        <!-- Full-Screen Button -->
+        <div class="controls" id="controls">
+            <button id="fullscreenButton" onclick="toggleFullScreen()">⛶</button>
+        </div>
+
+        <!-- Category Tabs -->
+        <button class="tab-button" onclick="showTab('all')">Sports</button>
+        <button class="tab-button" onclick="showTab('sports')">Movie</button>
+        <button class="tab-button" onclick="showTab('Worldtv')">WORLDTV</button>
+        <button class="tab-button" onclick="showTab('thaitv')">THAITV </button>
+
+        <!-- All Category -->
+<div id="all" class="category">
+            <div class="category-name"></div>
+            <div class="grid">
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://cors-proxy.cooks.fyi/playid.freeddns.org:8084')"><img src="https://dookeela.live/uploads/1664499665.png" alt="epl1"></div>
+ 
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664499665.png" alt="epl1"></div>
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664499673.png" alt="epl2"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664499681.png" alt="epl3"></div>
+
+                <div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664499692.png" alt="epl4"></div>
+             
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://cors-proxy.cooks.fyi/https://playtvthai.github.io/m3u8/sports/epl5.m3u8')"><img src="https://dookeela.live/uploads/1664499700.png" alt="epl5"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664802455.png" alt="sporthd"></div>
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=ttps://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664499966.png" alt="sporthd2"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8')"><img src="https://dookeela.live/uploads/1664802480.png" alt="sporthd3"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://keela2.com/stream/20/index.m3u8?token=mvFWafOIir5JDlQN')"><img src="https://dookeela.live/uploads/1664847910.png" alt="sporthd5"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://keela2.com/stream/21/index.m3u8?token=mvFWafOIir5JDlQN')"><img src="https://dookeela.live/uploads/1664847921.png" alt="sporthd7"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://cors-proxy.cooks.fyi/playid.vercel.app/sports/tennis.m3u8')"><img src="https://dookeela.live/uploads/1717257614.png" alt="sporthd"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://mbed4.blogspot.com/?m=1&zy=https://cors-proxy.cooks.fyi/http://4u.eagle4u.org:80/play/live.php?mac=00:1A:79:00:71:60&stream=191855&extension=ts&play_token=')"><img src="https://dookeela.live/uploads/1664801941.png" alt="sporthd"></div>
+
+
+
+
+
+            </div>
+        </div>
+
+
+        <!-- MOV Category -->
+        <div id="sports" class="category">
+            <div class="category-name"></div>
+            <div class="grid">
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd!!9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179')"><img src="https://dookeela.live/uploads/1703686191.png" alt="HBO Thai"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd!!07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6')"><img src="https://dookeela.live/uploads/1703786776.png" alt="Hbo family'"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd!!0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde')"><img src="https://dookeela.live/uploads/1703786305.png" alt="HBOSig"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd!!7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621')"><img src="https://dookeela.live/uploads/1703786599.png" alt="Hbo Hits'">;</div>
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/107/107.mpd!!f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029')"><img src="https://dookeela.live/uploads/1703786799.png" alt="Cinemax"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd!!072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c')"><img src="https://dookeela.live/uploads/1703787733.png" alt="mono+"></div>
+ 
+ 
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/101/101.mpd!!dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48')"><img src="https://dookeela.live/uploads/1703829940.png" alt="Asian"></div>
+
+<div class="channel" onclick="playChannelIframe('https://playidtv2.github.io/m3u/embed/aisplay/3bbsport1.html')"><img src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" alt="Sports 1"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/301/301.mpd!!f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3')"><img src="https://dookeela.live/uploads/1708344243.png" alt="CARTOON'"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/302/302.mpd!!ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c')"><img src="https://dookeela.live/uploads/1704039063.png" alt="CARTOONITO"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/303/303.mpd!!9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f')"><img src="https://dookeela.live/uploads/1708344306.png" alt="NICKELODEON'">;</div>
+ 
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/304/304.mpd!!641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015')"><img src="https://dookeela.live/uploads/1708344362.png" alt="NICK"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/106/106.mpd!!07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6')"><img src="https://dookeela.live/uploads/1703786776.png" alt="Hbo family'"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/104/104.mpd!!0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde')"><img src="https://dookeela.live/uploads/1703786305.png" alt="HBOSig"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd!!7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621')"><img src="https://dookeela.live/uploads/1703786599.png" alt="Hbo Hits'">;</div>
+
+            </div>
+        </div>
+
+        <!-- Worldtv Category -->
+        <div id="Worldtv" class="category">
+            <div class="category-name"></div>
+            <div class="grid">
+<div class="channel" onclick="playChannelIframe('https://www1.ดูบอลดูหนัง.com/live/player/epl1')"><img src="https://dookeela.live/uploads/1703786599.png" alt="Hbo Hits'">;</div>
+
+
+<div class="channel" onclick="playChannelIframe('https://dgply.blogspot.com/2001/02/?m=1ewu~04&zy=https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/105/105.mpd!!7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621')"><img src="https://dookeela.live/uploads/1703786599.png" alt="Hbo Hits'">;</div>
+
+
+
+
+            </div>
+        </div>
+
+        <!-- News Category -->
+      <div id="news" class="category">
+            <div class="category-name"></div>
+            <div class="grid">
+<div class="channel" onclick="playChannelIframe('https://m3u8player.org/player.html?url=https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLE00YSZgbdP8_UB3yoTQ8rPqMBUuDieYHjg&usqp=CAU" alt="Channel 24"></div>
+
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8')"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/02/a4/ce02a48a-6264-1646-d325-0849579f4290/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png" alt="Dipto Tv"></div>
+
+ <div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72QiSAdaqjVetn-XpSRtdjS6V3NtmICoITL5CumAs_cJpyzFhTaFeVCmh&s=10" alt="Atn News"></div>
+
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlMBs8d5B-AFT4B7KogDkrV7clzYMrj2Bq02VY5n1sPadmBQW7AB7hoZHB&s=10" alt="Ananda Tv"></div>
+
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-lJ51ZQB4f-Y_i5klJsKYBdzACHi_TOuZg&usqp=CAU" alt="Bangla Vision"></div>
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8')"><img src="https://bdiptv.stream/uploads/tv_image/asian.png" alt="Asian Tv"></div>
+
+
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8 ')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnMMOTvQIUYbpNC6gU1iyRVolwiNt8tMGrgTMC7B1BDPqmUvVj-WiBSs&s=10" alt="Aljazeera Tv"></div>
+
+<div class="channel" onclick="playChannelIframe('https://anym3u8player.com/tv/p.php?url=https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8')"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" alt="Bangla Plus"></div>
+            </div>
+       </div>
+    
+  
+  <style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        background: #121212;
+        color: white;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 5px;
+    }
+
+    .player-container {
+        width: 100%;
+        background: #000;
+        border-radius: 10px;
+        overflow: hidden;
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+    .player-container iframe {
+        width: 100%;
+        height: 250px;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .corner-logo {
+        position: absolute;
+        top: 17px;
+        padding:0;
+        left: 8px;
+        z-index: 20;
+        width: 90px;
+        height: 45px;
+        background-color: ;
+        border-radius: 10%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .corner-logo img {
+        width: 80%;
+        height:80%;
+        object-fit: contain;
+        border-radius: 0;
+    }
+
+    .logo-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: black url('') center center no-repeat;
+        background-size: contain;
+        z-index: 10;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logo-text {
+        font-size: 12px;
+        margin-top: 180px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .category-name {
+        font-size: 24px;
+        font-weight: bold;
+        margin: 20px 0;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: white;
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        margin-bottom: 40px;
+        width: 100%;
+    }
+
+    .channel {
+        background: rgba(255, 255, 255, 0.2);
+        padding: 35px;
+        border-radius: 60%;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.3s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        width: calc(25% - 100px);
+        height: 75px;
+        margin: 0 auto;
+    }
+
+    .channel img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    .channel:hover {
+        transform: scale(1.05);
+        background: rgba(255, 255, 255, 0.4);
+    }
+
+    .tab-button {
+        background: white;
+        color: black;
+        padding: 5px 25px;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .tab-button:hover {
+        background-color: red;
+    }
+
+    .tab-button:focus {
+        outline: none;
+    }
+
+    /* Controls for Full-Screen Button */
+    .controls {
+        position: absolute;
+        bottom : 68%;
+        right: 10px;
+        z-index: 10;
+    }
+
+    #fullscreenButton {
+        background: red;
+        color: black;
+        padding: 0px;
+        border-radius: 100%;
+        height: 30px;
+        width:30px;
+        cursor: pointer;
+        font-size: 20px;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+    #fullscreenButton:hover {
+        background: rgba(255, 255, 255, 0.8);
+    }
+
+    /* Full-Screen Mode - Hide everything except the player */
+    .fullscreen-mode #controls,
+    .fullscreen-mode .tab-button,
+    .fullscreen-mode .category {
+        display: none;
+    }
+
+    .fullscreen-mode #mainPlayer {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 90vw; /* Adjust as necessary */
+        height: 90vh; /* Adjust as necessary */
+        z-index: 100;
+    }
+
+    .fullscreen-mode iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Desktop Auto Height Adjustment to 600px */
+    @media (min-width: 768px) {
+        .player-container iframe {
+            height: 600px; /* Set the height to 600px on desktop */
+        }
+    }
+  </style>
+
+    <script>
+        // Function to show the selected tab
+        function showTab(tabName) {
+            const tabs = document.querySelectorAll('.category');
+            tabs.forEach(tab => tab.style.display = 'none');
+    
+            document.getElementById(tabName).style.display = 'block';
+            
+            checkIfVideoLoaded();
+        }
+
+        // Function to play a selected channel in the iframe
+        function playChannelIframe(url) {
+            let iframe = document.getElementById("iframePlayer");
+            iframe.src = url;
+
+            document.getElementById("logoOverlay").style.display = 'none';
+        }
+
+        // Function to check if a video has been loaded
+        function checkIfVideoLoaded() {
+            let iframe = document.getElementById("iframePlayer");
+            let videoElement = document.getElementById("mainPlayer");
+            let logoOverlay = document.getElementById("logoOverlay");
+
+            if (!iframe.src || iframe.src === "") {
+                videoElement.innerHTML = '';
+                logoOverlay.style.display = 'flex'; // Display the logo overlay when no video is loaded
+            }
+        }
+
+        // Full-Screen Toggle Functionality
+        function toggleFullScreen() {
+            const iframe = document.getElementById('iframePlayer');
+            const videoElement = document.getElementById('mainPlayer');
+            const container = document.querySelector('.container');
+            const controls = document.getElementById('controls');
+            
+            if (document.fullscreenElement) {
+                document.exitFullscreen();
+                // Refresh the page when exiting full-screen mode
+                location.reload(); 
+            } else {
+                // Request fullscreen for the iframe itself
+                if (iframe.requestFullscreen) {
+                    iframe.requestFullscreen();
+                } else if (iframe.mozRequestFullScreen) { // Firefox
+                    iframe.mozRequestFullScreen();
+                } else if (iframe.webkitRequestFullscreen) { // Chrome, Safari and Opera
+                    iframe.webkitRequestFullscreen();
+                } else if (iframe.msRequestFullscreen) { // IE/Edge
+                    iframe.msRequestFullscreen();
+                }
+
+                container.classList.add('fullscreen-mode'); // Add the full-screen mode class
+                // Hide controls and tabs
+                controls.style.di
