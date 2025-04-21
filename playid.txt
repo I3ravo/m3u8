@@ -553,6 +553,46 @@ https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP12.mp4/play
 https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP13.mp4/playlist.m3u8
 
 
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="EP 1" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="BURIED  HEARTS",EP 1
+https://main.24playerhd.com/newplaylist/675fda635036de60ccd0aadd/675fda635036de60ccd0aadd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="EP 2" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="BURIED  HEARTS",EP 2
+https://main.24playerhd.com/newplaylist/98375e374849385e724e6c24/98375e374849385e724e6c24.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="EP 3" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 3
+https://main.24playerhd.com/newplaylist/8bb03fc5e402c3d2809a33a8/8bb03fc5e402c3d2809a33a8.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="EP 4" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 4
+https://main.24playerhd.com/newplaylist/58914e51a3c7fd03dd7fefaa/58914e51a3c7fd03dd7fefaa.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="EP 5" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 5
+https://main.24playerhd.com/newplaylist/20261cd0fb372c4af12a9027/20261cd0fb372c4af12a9027.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="EP 6" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 6
+https://main.24playerhd.com/newplaylist/a4fe547d4dc29440b4de2af0/a4fe547d4dc29440b4de2af0.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="EP 7" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 7
+https://main.24playerhd.com/newplaylist/089e745393c8e440a4442976/089e745393c8e440a4442976.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="EP 8" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 8
+https://main.24playerhd.com/newplaylist/78acd2a4706224a15441d707/78acd2a4706224a15441d707.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="EP 9" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 9
+https://main.24playerhd.com/newplaylist/e8988b0106e80fd30111b50b/e8988b0106e80fd30111b50b.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="EP 10" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg " group-title="H2SO4",EP 10
+https://main.24playerhd.com/newplaylist/0677a9a81e7be7e499c39cab/0677a9a81e7be7e499c39cab.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="EP 11" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 11
+https://main.24playerhd.com/newplaylist/ca57b986b3b101c31cb9b856/ca57b986b3b101c31cb9b856.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="EP 12" tvg-logo="https://www.serieday-hd.com/wp-content/uploads/2025/02/Buried-Hearts-2025-240x300.jpg" group-title="H2SO4",EP 12
+https://main.24playerhd.com/newplaylist/5bc86a1f846b7524da476872/5bc86a1f846b7524da476872.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="EP 13" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",EP 13
+https://main.24playerhd.com/newplaylist/74a8e294feff4a94e5611a4a/74a8e294feff4a94e5611a4a.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="EP 14" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",EP 14
+https://main.24playerhd.com/newplaylist/57b3d47981c5c2352e44266e/57b3d47981c5c2352e44266e.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="EP 15" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",EP 15
+https://main.24playerhd.com/newplaylist/027f10707278fc9fccd803a5/027f10707278fc9fccd803a5.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="EP 16" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",EP 16
+https://main.24playerhd.com/newplaylist/839e078518553f5a5e327e9b/839e078518553f5a5e327e9b.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.baan-series.org/wp-content/uploads/2025/03/Ski-Into-Love-2025.jpg" group-title="" , EP 14
 https://t2pbw5z5yecbu4.001140.xyz/B3/TVShows/China/SkiIntoLove2025/EP14.mp4/playlist.m3u8
 
