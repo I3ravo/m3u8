@@ -3,4 +3,4 @@
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10,
-http://43.229.148.48:8078
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:00:1F:F1&stream=1032528&extension=ts&play_token=
