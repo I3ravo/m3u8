@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10,
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:00:28:B4&stream=1032528&extension=ts&play_token=
