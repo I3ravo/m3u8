@@ -7,6 +7,16 @@ https://playid.vercel.app/player/embed/v1/index.html?live&url=
 
 https://playtvthai.github.io/m3u8/
 
+
+
+
+Password : yxX0M4!#rcO#
+Main IP : 43.229.148.48
+Additional IPs : Array
+
+
+
+
 # ช่องพนัง
 https://playtvthai.github.io/m3u8
 
